@@ -1,0 +1,639 @@
+import pubchempy
+c = pubchempy.Compound.from_cid(sids[0]['CID'])
+c.canonical_smiles
+
+substance = pcp.Substance.from_sid(223766453)
+
+
+
+
+sids = pcp.get_sids('Aspirin', 'name')
+sids[0]['CID']
+#c = pubchempy.Compound.from_cid(sids[0]['CID'])
+
+
+f = open("/Users/andrejeremcuk/Desktop/altergenes.txt", "r")
+fop=f.read()
+fo=fop.splitlines()
+foq=[]
+for i in range(len(fo)):
+ foq.append(re.split(r'\t', fo[i]))
+
+
+fow=[];
+for i in range(len(foq)):
+ if len(foq[i])>1: 
+  print(foq[i][1])
+  fow.append(foq[i][1])
+
+
+
+f = open("/Users/andrejeremcuk/Desktop/LongevityMap.txt", "r")
+fop=f.read()
+fo=fop.splitlines()
+foq=[]
+for i in range(len(fo)):
+ foq.append(re.split(r'\t', fo[i]))
+
+
+fow1=[];
+for i in range(1,len(foq)):
+ if (foq[i][3]!=foq[i-1][3]): 
+  print(foq[i][3])
+  re5=re.search('(.+?)genes', foq[i][3])
+  if re5==None: fow1.append(foq[i][3])
+
+len(fow1)
+
+
+
+
+
+f = open("/Users/andrejeremcuk/Desktop/DietaryRestriction.txt", "r")
+fop=f.read()
+fo=fop.splitlines()
+foq=[]
+for i in range(len(fo)):
+ foq.append(re.split(r'\t', fo[i]))
+
+
+fow2=[];
+for i in range(len(foq)):
+ fow2.append(foq[i][2])
+
+len(fow2)
+fow2[0]=foq[0][1]
+
+
+
+f = open("/Users/andrejeremcuk/Desktop/humangenes.txt", "r")
+fop=f.read()
+fo=fop.splitlines()
+foq=[]
+for i in range(len(fo)):
+ foq.append(re.split(r'\t', fo[i]))
+
+
+fow3=[];
+for i in range(len(foq)):
+ fow3.append(foq[i][1])
+
+len(fow3)
+
+
+f = open("/Users/andrejeremcuk/Desktop/humanassociatedgenes.txt", "r")
+fop=f.read()
+fo=fop.splitlines()
+foq=[]
+for i in range(len(fo)):
+ foq.append(re.split(r' ', fo[i]))
+
+
+foq[0][1]
+len(foq[0])
+
+
+
+f = open("/Users/andrejeremcuk/Desktop/DrugAge Browse.csv", "r")
+fop=f.read()
+
+
+import csv
+drugA=[];
+with open('/Users/andrejeremcuk/Desktop/DrugAge Browse.csv', newline='') as csvfile:
+     spamreader = csv.reader(csvfile, delimiter=' ', quotechar='|')
+     for row in spamreader:
+       print(row);drugA.append(row)  #//print(', '.join(row))
+
+len(drugA)
+drugA[1:5]
+drugAb=[]
+for i in range(1,len(drugA)): 
+ drugAb.append(str(drugA[i][0].split(',')[0]).replace('"', '')) 
+
+
+sids = pcp.get_sids(drugAb[6], 'name')
+sids[0]['CID']
+
+
+
+
+PUBMed
+
+
+pip3 install biopython
+
+from Bio import Entrez
+from Bio import Medline
+
+MAX_COUNT = 1000
+Entrez.email = 'a-nai@yandex.ru'
+articles=[];
+TERM='compound'+' '+'anti tumour'
+TERM='inhibit'+' '+'carcinoma'
+TERM='compound'+' '+'cancer'
+
+try: h=Entrez.esearch(db='pubmed', retmax=MAX_COUNT, term=TERM)
+except: time.sleep(5);h=Entrez.esearch(db='pubmed', retmax=MAX_COUNT, term=TERM)
+
+
+result = Entrez.read(h)
+ids = result['IdList']
+h = Entrez.efetch(db='pubmed', id=ids, rettype='medline', retmode='text')
+ret = Medline.parse(h)
+
+fer=[];
+for re in ret:
+ try: tr=re['TI'];
+ except: tr='0';
+ fer.append(tr);
+
+
+чтобы раздобыть имя соединения - надо все слова типичные для биомедицинских статей вычесть.
+
+#######################
+
+
+pip3 install scispacy
+
+pip3 install https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.3.0/en_core_sci_sm-0.3.0.tar.gz
+
+pip3 install https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.3.0/en_ner_bc5cdr_md-0.3.0.tar.gz
+
+conda create -n scispacy python=3.9
+
+source activate scispacy
+
+
+#################################################################################################################################################################
+
+
+import spacy
+#nlp = spacy.load("en_core_sci_sm")
+nlp = spacy.load("en_ner_bc5cdr_md")
+#doc = nlp("CC-223 inhibits human head and neck squamous cell carcinoma cell growth.")
+
+
+from scispacy.abbreviation import AbbreviationDetector
+
+#nlp = spacy.load("en_core_sci_sm")
+abbreviation_pipe = AbbreviationDetector(nlp)
+nlp.add_pipe(abbreviation_pipe)
+
+
+ferr=[[None for i in range(6)]for u in range(len(fer))];
+for i in range(len(fer)): #len(fer)
+ doc = nlp(fer[i])
+ #print(doc.ents)
+ for ent in doc.ents: 
+  #print(ent,ent.label_)
+  if ferr[i][0] is None: ferr[i][0]=str(ent);ferr[i][1]=str(ent.label_);
+  elif ferr[i][2] is None: ferr[i][2]=str(ent);ferr[i][3]=str(ent.label_);
+  elif ferr[i][4] is None: ferr[i][4]=str(ent);ferr[i][5]=str(ent.label_);
+
+ferr1=[[None for i in range(6)]for u in range(len(fer))];
+for i in range(len(fer)): #len(fer)
+ doc = nlp(fer[i])
+ #print(doc.ents)
+ for ent in doc.ents: 
+  #print(ent,ent.label_)
+  if ferr1[i][0] is None: ferr1[i][0]=str(ent);ferr1[i][1]=str(ent.label_);
+  elif ferr1[i][2] is None: ferr1[i][2]=str(ent);ferr1[i][3]=str(ent.label_);
+  elif ferr1[i][4] is None: ferr1[i][4]=str(ent);ferr1[i][5]=str(ent.label_);
+
+ferr2=[[None for i in range(6)]for u in range(len(fer))];
+for i in range(len(fer)): #len(fer)
+ doc = nlp(fer[i])
+ #print(doc.ents)
+ for ent in doc.ents: 
+  #print(ent,ent.label_)
+  if ferr2[i][0] is None: ferr2[i][0]=str(ent);ferr2[i][1]=str(ent.label_);
+  elif ferr2[i][2] is None: ferr2[i][2]=str(ent);ferr2[i][3]=str(ent.label_);
+  elif ferr2[i][4] is None: ferr2[i][4]=str(ent);ferr2[i][5]=str(ent.label_);
+
+
+for i in range(len(fer)): 
+ for p in range(6):
+  if ferr[i][p] is None: ferr[i][p]='0';
+
+
+with open("ferr1.txt", "w") as txt_file:
+    for line in ferr1:
+        txt_file.write(" ".join(line) + "\n") 
+
+
+fe=[];
+for i in range(len(fer)): 
+ if ferr1[i][0]!='0': fe.append(ferr1[i]);
+ if ferr2[i][0]!='0': fe.append(ferr2[i]);
+ if ferr[i][0]!='0': fe.append(ferr[i]);
+
+
+
+
+with open("fe.txt", "w") as txt_file:
+    for line in fe:
+        txt_file.write(" ".join(line) + "\n") 
+
+
+
+
+
+
+
+------------------------------------------------------
+
+
+
+---------------------------------------------------------
+
+
+import re
+import pubchempy
+import time
+import urllib
+import json
+import urllib.request
+from time import sleep
+
+
+f = open("/Users/andrejeremcuk/Desktop/genetherapy.txt", "r")
+fop=f.read()
+fo=fop.splitlines()
+foq=[]
+for i in range(len(fo)):
+ foq.append(re.split(r' ', fo[i]))
+
+
+foq[9][1]
+genechemj=[];
+genecheme=[];
+error=[];
+#foq[0][0]='KLF4';
+
+for t in range(len(foq)): #len(foq)
+ genex=foq[t][0];sleep(5);
+ gen='https://pubchem.ncbi.nlm.nih.gov/gene/'+str(genex)+'/human'
+ try: 
+  urlanswer=urllib.request.urlopen(gen)
+  answer=urlanswer.read()
+  text = answer
+  te=text.decode('utf-8')
+  m = re.search('<meta name="pubchem_uid_value" content="(.+?)"', te)
+  idv=m.group(1)
+  respid='https://pubchem.ncbi.nlm.nih.gov/sdq/sdqagent.cgi?infmt=json&outfmt=csv&query={%22download%22:%22*%22,%22collection%22:%22ctdchemicalgene%22,%22where%22:{%22ands%22:[{%22geneid%22:%22'+str(idv)+'%22}]},%22order%22:[%22relevancescore,desc%22],%22start%22:1,%22limit%22:10000000,%22downloadfilename%22:%22GeneID_'+str(idv)+'_ctdchemicalgene%22}'
+  try:
+   urlanswer=urllib.request.urlopen(respid)
+   answer=urlanswer.read()
+   answe=answer.splitlines()
+   answe11=[0 for y in range(len(answe))];
+   genechemj.append(len(answe11))
+   genechem2=[[0 for y in range(5) ] for k in range(len(answe)-1)];
+   print(t);
+   for i in range(1,len(answe)):
+    answe11[i]=answe[i].decode().split(',')
+    genechem2[i-1][0]=answe11[i][3];genechem2[i-1][1]=answe11[i][4];genechem2[i-1][2]=i;genechem2[i-1][3]=t;genechem2[i-1][4]=answe11[i][-2];
+   #print(genechem2[0],t,9);
+   #for i in range(1,len(genechem2)):
+   # if (answe11[i][-2].find('decreased expression')>0)or(answe11[i][-2].find('decreased activity')>0): 
+   #  genechem2[i].append('down');genechem2[i].append(answe11[i][4]);genechem2[i].append(i);
+   # if (answe11[i][-2].find('increased expression')>0)or(answe11[i][-2].find('increased activity')>0): 
+   #   genechem2[i].append('up');genechem2[i].append(answe11[i][4]);genechem2[i].append(i);
+   #print(genechem2[0],t,8);
+   for i in range(len(genechem2)):
+    for j in range(len(genechem2)):
+     try:
+      if (genechem2[i][0]==genechem2[j][0])and(i!=j): 
+       genechem2.pop(j);j-=1;
+     except: t5=0;
+   #print(genechem2[0],t,7);
+   genecheme+=genechem2;
+  except: error.append(t);
+ except: error.append(t);
+
+
+#for i in range(len(genecheme)):
+# for j in range(len(foq)):
+#  if foq[j][0]==genecheme[i][1]: genecheme[i].append(foq[j][1])
+ #if len(genecheme[i]==8): genecheme[i][6]=(foq[genecheme[i][3]][0])
+
+for i in range(len(genecheme)):
+ genecheme[i]=genecheme[i][:5]
+ genecheme[i].append(foq[genecheme[i][3]][1]);
+ genecheme[i].append(foq[genecheme[i][3]][0])
+
+
+
+for i in range(len(genecheme)):
+ if (genecheme[i][4].find('decreased expression')>0)or(genecheme[i][4].find('decreased activity')>0): 
+  genecheme[i].append('down');genecheme[i].append(genecheme[i][1]);genecheme[i].append(i);
+ if (genecheme[i][4].find('increased expression')>0)or(genecheme[i][4].find('increased activity')>0): 
+  genecheme[i].append('up');genecheme[i].append(genecheme[i][1]);genecheme[i].append(i);
+
+
+genecheme1=[];
+
+for i in range(len(genecheme)):
+ if len(genecheme[i])==10:
+  if(genecheme[i][7]==genecheme[i][5]): 
+   genecheme1.append(genecheme[i]);pass;
+ elif len(genecheme[i])==6: 
+  print(i);pass;
+ else: print(genecheme[i]);
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+chemical=[];genecheme2=genecheme1;genecheme3=genecheme1;
+hi1=[0 for n in range(len(genecheme2))]
+for i in range(len(genecheme2)):
+ try:
+  for k in range(len(genecheme2)):
+   if (genecheme2[i][0]==genecheme2[k][0])&(i!=k): 
+    hi1[i]=hi1[k]+1;genecheme3[i].append(hi1[i]);genecheme3.pop(k);
+ except: yu=0;
+
+for i in range(len(genecheme3)): i,genecheme3[i][0],genecheme3[i][-1]
+
+
+
+drugalready=[];
+for i in range(len(drugAb)):
+ for k in range(len(genecheme1)):
+  if (drugAb[i]==genecheme1[k][0]): 
+   uu=[drugAb[i],i,k]
+   drugalready.append(uu)#append(drugAb[i]);drugalready[-1].append(i);drugalready[-1].append(k);
+
+
+drugalread=[];hi=[[0 for y in range(2)]for q in range(len(drugAb))]
+for k in range(len(drugalready)):
+ for i in range(len(drugalready)):
+  if (drugalready[i][0]==drugalready[k][0])&(i!=k)&(hi[drugalready[k][1]][0]==0): 
+   uu=[drugalready[k],hi[drugalready[k][1]][0],drugalready[i][1],len(drugalread)];
+   drugalread.append(uu);hi[drugalready[k][1]][0]+=1;
+  elif (drugalready[i][0]==drugalready[k][0])&(i!=k)&(hi[drugalready[k][1]][0]!=0):
+   uu=[drugalready[k],hi[drugalready[k][1]][0],drugalready[i][1],hi[drugalready[k][1]][1]]; 
+   drugalread[hi[drugalready[k][1]][1]]=uu;hi[drugalready[k][1]][0]+=1;
+
+
+
+for k in range(len(drugalread)):
+ for i in range(len(drugalread)):
+  try: 
+   drugalread[i]
+   try: 
+    drugalread[k]
+    if (drugalread[i][0][0]==drugalread[k][0][0])&(i!=k): drugalread.pop(i)
+   except: ty=0;
+  except: ty=0;
+
+
+with open("genecheme2.txt", "w") as txt_file:
+    for line in genecheme2:
+        txt_file.write(" ".join(line) + "\n") 
+
+
+with open("drugalread.txt", "w") as txt_file:
+    for line in drugalread:
+        txt_file.write(" ".join(line) + "\n") 
+
+
+
+
+
+
+==============================================================
+--------------------------------------------------------------
+
+import numpy as np
+import math
+import random
+
+class Dtw(object):
+    def __init__(self, seq1, seq2, distance_func=None):
+        '''
+        seq1, seq2 are two lists,
+        distance_func is a function for calculating
+        the local distance between two elements.
+        '''
+        self._seq1 = seq1
+        self._seq2 = seq2
+        self._distance_func = distance_func if distance_func else lambda: 0
+        self._map = {(-1, -1): 0.0}
+        self._distance_matrix = {}
+        self._path = []
+ 
+    def get_distance(self, i1, i2):
+        ret = self._distance_matrix.get((i1, i2))
+        if not ret:
+            ret = self._distance_func(self._seq1[i1], self._seq2[i2])
+            self._distance_matrix[(i1, i2)] = ret
+        return ret
+ 
+    def calculate_backward(self, i1, i2):
+        '''
+        Calculate the dtw distance between
+        seq1[:i1 + 1] and seq2[:i2 + 1]
+        '''
+        if self._map.get((i1, i2)) is not None:
+            return self._map[(i1, i2)]
+ 
+        if i1 == -1 or i2 == -1:
+            self._map[(i1, i2)] = float('inf')
+            return float('inf')
+ 
+        min_i1, min_i2 = min((i1 - 1, i2), (i1, i2 - 1), (i1 - 1, i2 - 1),
+                             key=lambda x: self.calculate_backward(*x))
+ 
+        self._map[(i1, i2)] = self.get_distance(i1, i2) + \
+            self.calculate_backward(min_i1, min_i2)
+ 
+        return self._map[(i1, i2)]
+ 
+    def get_path(self):
+        '''
+        Calculate the path mapping.
+        Must be called after calculate()
+        '''
+        i1, i2 = (len(self._seq1) - 1, len(self._seq2) - 1)
+        while (i1, i2) != (-1, -1):
+            self._path.append((i1, i2))
+            min_i1, min_i2 = min((i1 - 1, i2), (i1, i2 - 1), (i1 - 1, i2 - 1),
+                                 key=lambda x: self._map[x[0], x[1]])
+            i1, i2 = min_i1, min_i2
+        return self._path
+ 
+    def calculate(self):
+        return self.calculate_backward(len(self._seq1) - 1,
+                                       len(self._seq2) - 1)
+
+
+
+import re
+m=[];t=[];ma0=[];gene='ISG15';genes='SDF4';
+pathQ='/Users/andrejeremcuk/Desktop/Лекарственные комбинации/'
+
+def get():
+  global ma0;
+  gene='ISG15';genes='SDF4';#self.response.write(dynamic_png());
+  ma0.append([line.strip() for line in open(pathQ+'genes.fpkm_tracking')]);
+  ma0.append([line.strip() for line in open(pathQ+'genes1.fpkm_tracking')]);
+  ma0.append([line.strip() for line in open(pathQ+'genes2.fpkm_tracking')]);
+  ma0.append([line.strip() for line in open(pathQ+'genes3.fpkm_tracking')]);
+  ma0.append([line.strip() for line in open(pathQ+'genes4.fpkm_tracking')]);
+  ma0.append([line.strip() for line in open(pathQ+'genes5.fpkm_tracking')]);
+  ma0.append([line.strip() for line in open(pathQ+'genes6.fpkm_tracking')]);
+  ma0.append([line.strip() for line in open(pathQ+'genes7.fpkm_tracking')]);
+  ma0.append([line.strip() for line in open(pathQ+'genes8.fpkm_tracking')]);
+  ma0.append([line.strip() for line in open(pathQ+'genes9.fpkm_tracking')]);
+  ma0.append([line.strip() for line in open(pathQ+'genes10.fpkm_tracking')]);
+  ma0.append([line.strip() for line in open(pathQ+'genes11.fpkm_tracking')]);
+  ma0.append([line.strip() for line in open(pathQ+'genes12.fpkm_tracking')]);
+  ma0.append([line.strip() for line in open(pathQ+'genes13.fpkm_tracking')]);
+  ma0.append([line.strip() for line in open(pathQ+'genes14.fpkm_tracking')]);
+  ma0.append([line.strip() for line in open(pathQ+'genes15.fpkm_tracking')]);
+  ma0.append([line.strip() for line in open(pathQ+'genes16.fpkm_tracking')]);
+  ma0.append([line.strip() for line in open(pathQ+'genes17.fpkm_tracking')]);
+  ma0.append([line.strip() for line in open(pathQ+'genes18.fpkm_tracking')]);
+  ma0.append([line.strip() for line in open(pathQ+'genes19.fpkm_tracking')]);
+
+
+import sys
+print(sys.getrecursionlimit())
+sys.setrecursionlimit(1500)
+get()
+//len(ma0[g])
+//ma=re.findall(r"[a-zA-Z0-9-]+[a-zA-Z.-9-]", ma0[4][9])
+  //ma00[i][g]=float(ma[5]+ma[6]);
+
+
+ma00=[[0 for i in range(20)] for j in range(len(ma0[2]))]
+t0=[0 for i in range(len(ma0[2]))]
+#//gene,genes,m,t;
+#//if gene=='': gene='ISG15';genes='SDF4';
+#//ma00[i][g]=float(ma[5]+ma[6])
+
+for g in range(20):
+ for i in range(1,len(ma0[g])): 
+  ma=re.findall(r"[a-zA-Z0-9-]+[a-zA-Z.-9-]", ma0[g][i])
+  if len(ma)>6: 
+   try: 
+    t0[i]=ma[2];
+    ma00[i][g]=float(ma[5]+ma[6]);
+   except: print(i,g)
+
+
+s=[[0 for i in range(len(ma0[2]))] for j in range(len(ma0[2]))]
+
+
+for i in range(len(ma00)):
+ jj=len(t0)-i
+ for l in range(3900,len(ma00)-i):
+  m=ma00[i];t=ma00[l];
+  dtw = Dtw(m, t,distance_func=lambda m, t: abs(m - t));
+  dt=dtw.calculate();print(i,l)
+  s[i][l]=dt
+
+import numpy as np
+genes7=[0 for h in range(len(genes))];
+genes6=[0 for h in range(len(genes))];
+genes8=[0 for h in range(len(genes))];
+genes10=[0 for h in range(len(genes))];
+genes11=[0 for h in range(len(t0))];
+gene='POU5F1';genes=fow
+foww=fow;
+
+for i in range(len(fow)):
+ for j in range(len(an0)):
+  if (an0[j][-2].find('decreased expression'))or(an0[j][-2].find('decreased activity')): foww[i].append('down');foww[i].append(an0[j][4]);
+  if (an0[j][-2].find('increased expression'))or(an0[j][-2].find('increased activity')): foww[i].append('up');foww[i].append(an0[j][4]);
+
+
+
+for i in range(len(genes)):
+ for u in range(len(t0)):
+  if t0[u]==genes[i]: 
+   genes7[i]=ma00[u];genes10[i]=u;genes11[u]=i;
+   genes8[i]=max(ma00[u])
+   genes6[i]=min(i for i in ma00[u] if i > 0)
+   if (foww[i][1]=='up'): genes9[i]=genes8[i]
+   if (foww[i][1]=='down'): genes9[i]=genes6[i]
+
+
+import statistics
+ma000=[0 for h in range(len(ma00))];
+
+for i in range(len(t0)): ma000[i]=statistics.mean(ma00[i])
+
+s1=s;
+Summa=[0 for h in range(len(genes))];
+Prepare=[[0 for h in range(len(t0))]for h in range(len(t0))];
+
+for i in range(len(t0)):
+ for k in range(len(t0)):
+  ka=0;
+  if (genes10[i]!=i)&(genes10[i]!=k): ka=abs(ma000[i]-ma000[k]);
+  if (genes10[i]==i)&(genes10[i]!=k): ka=abs(genes9[genes11[i]]-ma000[k]);
+  if (genes10[i]!=i)&(genes10[i]==k): ka=abs(ma000[i]-genes9[genes11[k]]);
+  if s[i][k]!=0: Prepare[i][k]=ka/s[i][k]
+  else: Prepare[i][k]=0;
+  Summa[h]+=Prepare[i][k]
+
+
+
+// s = pickle.load( open( "s.pkl", "rb" ) );
+
+import pickle
+
+output = open('s.pkl', 'wb')
+pickle.dump(s, output)
+output.close()
+
+Тут надо для каждого соединения подгрузить список изменненых ап или даун генов. И количество компоудов это есть список геропротекторов.
+
+
+import numpy as np
+
+
+ma11=[0 for i in range(len(ma00));
+
+for i in range(len(compound)):
+ print i;
+ for r in range(len(geneC[i])):
+  for o in range(len(t0)):
+   if (geneC[i][0]=='up')and(geneC[i][1]==t0[o]): ma11[o]=np.max(ma00[o][np.nonzero(ma00[o])]);
+   if (geneC[i][0]=='down')and(geneC[i][1]==t0[o]): ma11[o]=np.min(ma00[o][np.nonzero(ma00[o])]);
+     
+
+#compoundS=[[0 for h in range(2)] for p in range(9)];
+compoundS=[[[[0 for h in range(len(t0))] for p in range(len(t0))]for q in range(len(compound))];for z in range(len(compound))];
+for i in range(len(compound)):
+ for e in range(len(compound)-i):
+  for r in range(len(t0)):
+   for w in range(len(t0)-r):
+    if (s[r][w]!=0): compoundS[i][e][r][w]=abs(ma11[r]-ma11[w])/s[r][w]
+    else: compoundS[i][e][r][w]=abs(ma11[r]-ma11[w])
+ print i;
+
+
+m=0;
+rating=[0 for l in range(len(compound)*len(compound)*len(compound)*len(compound))]
+lrating=[0 for l in range(len(compound)*len(compound)*len(compound)*len(compound))]
+for i in range(len(compound)):
+ for e in range(len(compound)):
+  for t in range(len(compound)):
+   for w in range(len(compound)):
+    for r in range(len(t0)):
+     for y in range(len(t0)-r):
+      lrating[m]+=compoundS[i][e][r][y]+compoundS[i][t][r][y]+compoundS[i][w][r][y]+compoundS[e][t][r][y];
+      lrating[m]+=compoundS[t][w][r][y]+compoundS[e][w][r][y];m+=1;
+    rating[m]=[i,e,t,w];
+
+
+
+lrating.sort(key= abs, reverse = True)
+
+
