@@ -1,0 +1,214 @@
+181727	aak-2	AMP-Activated Kinase 2	Caenorhabditis elegans	aak-2
+	853755	AAT1	Aspartate AminoTransferase 1	Saccharomyces cerevisiae	AAT1
+	224129	Adcy5	Adcy5 adenylate cyclase 5	Mus musculus	Adcy5
+	855346	ADE4	ADEnine requiring 4	Saccharomyces cerevisiae	ADE4
+	856737	AFG3	AAA family ATPase AFG3	Saccharomyces cerevisiae	AFG3
+	174762	age-1	AGEing alteration 1	Caenorhabditis elegans	age-1
+	852493	AIM4	Altered Inheritance rate of Mi 4	Saccharomyces cerevisiae	AIM4
+	38495	Akh	Adipokinetic hormone	Drosophila melanogaster	Akh
+	855764	ALG12	dolichyl-P-Man:Man(7)GlcNAc(2)-PP-dolichol alpha-1,6-mannosyltransferase	Saccharomyces cerevisiae	ALG12
+	173510	alh-6	ALdehyde deHydrogenase	Caenorhabditis elegans	alh-6
+	2540329	atf1	activating transcription factor 1	Schizosaccharomyces pombe	atf1
+	178005	atg-7	AuTophaGy (yeast Atg homolog) 7	Caenorhabditis elegans	atg-7
+	852695	ATG1	serine/threonine protein kinase ATG1	Saccharomyces cerevisiae	ATG1
+	850684	ATG10	AuTophaGy related 10	Saccharomyces cerevisiae	ATG10
+	856162	ATG11	AuTophaGy related 11	Saccharomyces cerevisiae	ATG11
+	850432	ATG15	AuTophaGy related 15	Saccharomyces cerevisiae	ATG15
+	855194	ATG16	AuTophaGy related 16	Saccharomyces cerevisiae	ATG16
+	851142	ATG17	AuTophaGy related 17	Saccharomyces cerevisiae	ATG17
+	855479	ATG2	AuTophaGy related 2	Saccharomyces cerevisiae	ATG2
+	855954	ATG5	Atg5p	Saccharomyces cerevisiae	ATG5
+	10533	ATG7	autophagy related 7	Saccharomyces cerevisiae	ATG7
+	852200	ATG8	ubiquitin-like protein ATG8	Saccharomyces cerevisiae	ATG8
+	177345	bec-1	BEClin (human autophagy) homolog 1	Caenorhabditis elegans	bec-1
+	855942	BEM4	Bem4p	Saccharomyces cerevisiae	BEM4
+	176380	cbp-1	CBP/p300 homolog 1	Caenorhabditis elegans	cbp-1
+	33081	Cbs	Cystathionine beta-synthase	Drosophila melanogaster	Cbs
+	181215	cbs-1	Cystathionine Beta-Synthase	Caenorhabditis elegans	cbs-1
+	851019	CDC25	Cell Division Cycle 25	Saccharomyces cerevisiae	CDC25
+	34276	CG4389	CG4389 gene product from transcript CG4389-RA	Drosophila melanogaster	CG4389
+	43515	CG7834	CG7834 gene product from transcript CG7834-RA	Drosophila melanogaster	CG7834
+	13192683	cha-1	abnormal CHoline Acetyltransferase 1	Caenorhabditis elegans	cha-1
+	64880	chico	Insulin receptor substrate-1	Drosophila melanogaster	chico
+	188774	ckr-1	CholecystoKinin Receptor homolog 1	Caenorhabditis elegans	ckr-1
+	175341	ckr-2	CholecystoKinin Receptor homolog 2	Caenorhabditis elegans	ckr-2
+	175729	clk-1	CLocK (biological timing) abnormality 1	Caenorhabditis elegans	clk-1
+	33918	CoVb	Cytochrome c oxidase subunit Vb	Drosophila melanogaster	CoVb
+	176104	cup-4	Coelomocyte UPtake defective 4	Caenorhabditis elegans	cup-4
+	176074	cup-5	Coelomocyte UPtake defective 5	Caenorhabditis elegans	cup-5
+	853452	CYR1	CYclic AMP Requirement 1	Saccharomyces cerevisiae	CYR1
+	854231	CYT1	Cyt1p	Saccharomyces cerevisiae	CYT1
+	172981	daf-16	Abnormal DAuer Formation DAF-16, fork head-related transcription factor (daf-16)	Caenorhabditis elegans	daf-16
+	175410	daf-2	abnormal DAuer Formation 2	Caenorhabditis elegans	daf-2
+	856423	DAP2	Dipeptidyl AminoPeptidase 2	Saccharomyces cerevisiae	DAP2
+	852802	DBP3	RNA-dependent ATPase DBP3	Saccharomyces cerevisiae	DBP3
+	855156	DLT1	Dlt1p	Saccharomyces cerevisiae	DLT1
+	178247	dod-22	Downstream Of DAF-16 (regulated by DAF-16)	Caenorhabditis elegans	dod-22
+	3565236	drl-1	Dietary Restriction Like	Caenorhabditis elegans	drl-1
+	174994	drr-1	Dietary Restriction Response (WT but not eat-2 lifespan increased) 1	Caenorhabditis elegans	drr-1
+	259546	drr-2	Dietary Restriction Response (WT but not eat-2 lifespan increased) 2	Caenorhabditis elegans	drr-2
+	180398	dve-1	DVE (Defective proVEntriculus in Drosophila) homolog) 1	Caenorhabditis elegans	dve-1
+	175072	eat-2	EATing: abnormal pharyngeal pumping	Caenorhabditis elegans	eat-2
+	179461	egl-9	EGg Laying defective 9	Caenorhabditis elegans	egl-9
+	181503	elt-3	Erythroid-Like Transcription factor 3	Caenorhabditis elegans	elt-3
+	850745	ERG3	ERGosterol biosynthesis	Saccharomyces cerevisiae	ERG3
+	855029	ERG5	ERGosterol biosynthesis 5	Saccharomyces cerevisiae	ERG5
+	855003	ERG6	ERGosterol biosynthesis 6	Saccharomyces cerevisiae	ERG6
+	186430	F57A8.4	Protein F57A8.4	Caenorhabditis elegans	F57A8.4
+	177613	faah-1	Fatty Acid Amide Hydrolase 1	Caenorhabditis elegans	faah-1
+	855080	FET3	FErrous Transport 3	Saccharomyces cerevisiae	FET3
+	179752	fkb-4	Peptidyl-prolyl cis-trans isomerase	Caenorhabditis elegans	fkb-4
+	854675	FKH1	ForK head Homolog 1	Saccharomyces cerevisiae	FKH1
+	855656	FKH2	ForK head Homolog 2	Saccharomyces cerevisiae	FKH2
+	177958	fmo-2	Dimethylaniline monooxygenase [N-oxide-forming]	Caenorhabditis elegans	fmo-2
+	178987	fos-1	FOS (B-Zip transcription factor) homolog	Caenorhabditis elegans	fos-1
+	41709	foxo	Forkhead box, sub-group O	Drosophila melanogaster	foxo
+	56484	Foxo3	forkhead box O3	Mus musculus	Foxo3
+	850675	FRE6	Ferric REductase 6	Saccharomyces cerevisiae	FRE6
+	855291	GAD1	glutamate decarboxylase GAD1	Saccharomyces cerevisiae	GAD1
+	181646	gas-1	Probable NADH dehydrogenase [ubiquinone] iron-sulfur protein 2, mitochondrial	Caenorhabditis elegans	gas-1
+	174953	gcn-2	gcn-2 Protein GCN-2	Caenorhabditis elegans	gcn-2
+	42832	Gdh	Glutamate dehydrogenase	Drosophila melanogaster	Gdh
+	14600	Ghr	Growth hormone receptor	Mus musculus	Ghr
+	40201	gig	gigas	Drosophila melanogaster	gig
+	851670	GIS1	GIg1-2 Suppressor 1	Saccharomyces cerevisiae	GIS1
+	2538770	GIT3	G-protein coupled receptor Git3	Schizosaccharomyces pombe	GIT3
+	856741	GPA2	G Protein Alpha subunit 2	Saccharomyces cerevisiae	GPA2
+	2541720	gpa2	Guanine nucleotide-binding protein alpha-2 subunit	Schizosaccharomyces pombe	gpa2
+	851527	GPR1	G-Protein coupled Receptor 1	Saccharomyces cerevisiae	GPR1
+	853344	GSH1	glutathione (GSH) 1	Saccharomyces cerevisiae	GSH1
+	854918	GTR1	GTp binding protein Resemblance 1	Saccharomyces cerevisiae	GTR1
+	852796	GUP1	Glycerol UPtake 1	Saccharomyces cerevisiae	GUP1
+	854651	GUT2	Glycerol UTilization 2	Saccharomyces cerevisiae	GUT2
+	853751	HAP4	Heme Activator Protein 4	Saccharomyces cerevisiae	HAP4
+	854412	HES1	Homologous to kES1 1	Saccharomyces cerevisiae	HES1
+	44008	Hex-C	Hexokinase C	Drosophila melanogaster	Hex-C
+	852294	HHF1	Histone H Four 1	Saccharomyces cerevisiae	HHF1
+	180359	hif-1	HIF (hypoxia inducible factor) homolog 1	Caenorhabditis elegans	hif-1
+	855293	HOR7	Hor7p	Saccharomyces cerevisiae	HOR7
+	173078	hsf-1	Heat Shock Factor 1	Caenorhabditis elegans	hsf-1
+	177778	hsp-12.6	Heat Shock Protein	Caenorhabditis elegans	hsp-12.6
+	850633	HSP104	chaperone ATPase HSP104	Saccharomyces cerevisiae	HSP104
+	850532	HSP12	Heat Shock Protein 12	Saccharomyces cerevisiae	HSP12
+	854086	HST1	Homolog of SIR Two (SIR2) 1	Saccharomyces cerevisiae	HST1
+	856092	HST2	Homolog of SIR Two (SIR2) 2	Saccharomyces cerevisiae	HST2
+	852639	HXK2	HeXoKinase 2	Saccharomyces cerevisiae	HXK2
+	855809	HXT17	HeXose Transporter 17	Saccharomyces cerevisiae	HXT17
+	172817	ikb-1	I Kappa B homolog	Caenorhabditis elegans	ikb-1
+	39150	Ilp2	Insulin-like peptide 2	Drosophila melanogaster	Ilp2
+	39151	Ilp3	Insulin-like peptide 3	Drosophila melanogaster	Ilp3
+	2768992	Ilp5	Insulin-like peptide 5	Drosophila melanogaster	Ilp5
+	40049	Indy	I'm not dead yet	Drosophila melanogaster	Indy
+	42549	InR	Insulin-like receptor	Drosophila melanogaster	InR
+	851910	IPK1	Inositol Polyphosphate Kinase 1	Saccharomyces cerevisiae	IPK1
+	174305	ire-1	IRE1 kinase related 1	Caenorhabditis elegans	ire-1
+	42358	Ire1	Inositol-requiring enzyme-1	Drosophila melanogaster	Ire1
+	856478	IRE1	bifunctional endoribonuclease/protein kinase IRE1	Saccharomyces cerevisiae	IRE1
+	854480	ISW2	Isw2p	Saccharomyces cerevisiae	ISW2
+	174452	jun-1	JUN transcription factor homolog	Caenorhabditis elegans	jun-1
+	176866	kgb-1	Kinase, GLH-Binding	Caenorhabditis elegans	kgb-1
+	175404	klf-1	Kruppel-Like Factor (zinc finger protein)	Caenorhabditis elegans	klf-1
+	46260	l(3)neo18	lethal (3) neo18	Drosophila melanogaster	l(3)neo18
+	855653	LAT1	dihydrolipoyllysine-residue acetyltransferase	Saccharomyces cerevisiae	LAT1
+	854342	LCB4	Long-Chain Base 4	Saccharomyces cerevisiae	LCB4
+	172167	let-363	LEThal 363	Caenorhabditis elegans	let-363
+	178554	lgc-26	Ligand-Gated ion Channel 26	Caenorhabditis elegans	lgc-26
+	853777	MDH1	Malate DeHydrogenase 1	Saccharomyces cerevisiae	MDH1
+	42185	Mdh2	Malate dehydrogenase 2	Drosophila melanogaster	Mdh2
+	854867	MDM1	Mdm1p	Saccharomyces cerevisiae	MDM1
+	181004	mek-1	MAP kinase kinase or Erk Kinase	Caenorhabditis elegans	mek-1
+	47173	Men	Malic enzyme	Drosophila melanogaster	Men
+	851010	MET17	bifunctional cysteine synthase/O-acetylhomoserine aminocarboxypropyltransferase MET17	Saccharomyces cerevisiae	MET17
+	855444	MET2	homoserine O-acetyltransferase	Saccharomyces cerevisiae	MET2
+	178895	mlk-1	human MLK (Mixed Lineage Kinase) homolog	Caenorhabditis elegans	mlk-1
+	851030	MMS22	Mms22p	Saccharomyces cerevisiae	MMS22
+	39761	ms(3)72Dt	male sterile (3) 72Dt	Drosophila melanogaster	ms(3)72Dt
+	855053	MSN2	Multicopy suppressor of SNF1 mutation 2	Saccharomyces cerevisiae	MSN2
+	853803	MSN4	Multicopy suppressor of SNF1 mutation 4	Saccharomyces cerevisiae	MSN4
+	855091	NAT4	Nat4p	Saccharomyces cerevisiae	NAT4
+	855176	NDE1	NADH Dehydrogenase, External 1	Saccharomyces cerevisiae	NDE1
+	851474	NDE2	NADH Dehydrogenase, External 2	Saccharomyces cerevisiae	NDE2
+	854919	NDI1	NADH-ubiquinone reductase (H(+)-translocating) NDI1	Saccharomyces cerevisiae	NDI1
+	853826	NFU1	NifU-like protein 1	Saccharomyces cerevisiae	NFU1
+	172836	nhr-62	nhr-62 Protein NHR-62	Caenorhabditis elegans	nhr-62
+	184647	nlp-7	Neuropeptide-Like Protein	Caenorhabditis elegans	nlp-7
+	850991	NNT1	Nicotinamide N-methylTransferase 1	Saccharomyces cerevisiae	NNT1
+	854384	NPT1	Nicotinate PhosphoribosylTransferase 1	Saccharomyces cerevisiae	NPT1
+	109648	Npy	neuropeptide Y	Mus musculus	Npy
+	24104671	nsy-1	Neuronal SYmmetry	Caenorhabditis elegans	nsy-1
+	850782	NYV1	New Yeast V-SNARE 1	Saccharomyces cerevisiae	NYV1
+	856324	OPT2	OligoPeptide Transporter 2	Saccharomyces cerevisiae	OPT2
+	40650	Or83b	Odorant receptor 83b	Drosophila melanogaster	Or83b
+	2768677	p53	CG33336 gene product from transcript CG33336-RB	Drosophila melanogaster	p53
+	853972	PCK1	Phosphoenolpyruvate CarboxyKinase 1	Saccharomyces cerevisiae	PCK1
+	18534	Pck1	phosphoenolpyruvate carboxykinase 1, cytosolic	Mus musculus	Pck1
+	850888	PEX13	peroxin PEX13	Saccharomyces cerevisiae	PEX13
+	851494	PEX19	Pex19p	Saccharomyces cerevisiae	PEX19
+	180357	pha-4	defective PHArynx development 4	Caenorhabditis elegans	pha-4
+	2539781	pka1	cAMP-dependent protein kinase 1	Schizosaccharomyces pombe	pka1
+	854053	PKH2	Pkb-activating Kinase Homolog 2	Saccharomyces cerevisiae	PKH2
+	852709	PMR1	Ca(2+)/Mn(2+)-transporting P-type ATPase PMR1	Saccharomyces cerevisiae	PMR1
+	176833	pnc-1	Pyrazinamidase and NiCotinamidase	Caenorhabditis elegans	pnc-1
+	852846	PNC1	Pyrazinamidase/NiCotinamidase 1	Saccharomyces cerevisiae	PNC1
+	174705	pqm-1	pqm-1 Protein PQM-1	Caenorhabditis elegans	pqm-1
+	19127	Prop1	paired like homeodomain factor 1	Mus musculus	Prop1
+	850441	PTC6	type 2C protein phosphatase PTC6	Saccharomyces cerevisiae	PTC6
+	853854	PUT3	Put3p	Saccharomyces cerevisiae	PUT3
+	266836	rab-10	RAB family	Caenorhabditis elegans	rab-10
+	856674	RAD23	Rad23p	Saccharomyces cerevisiae	RAD23
+	852822	RAD6	E2 ubiquitin-conjugating protein RAD6	Saccharomyces cerevisiae	RAD6
+	851566	RCR2	Resistance to Congo Red 2	Saccharomyces cerevisiae	RCR2
+	852563	RGD1	Rgd1p	Saccharomyces cerevisiae	RGD1
+	176327	rheb-1	RHEB (Ras Homolog Enriched in Brain) hom	Caenorhabditis elegans	rheb-1
+	850511	RIM15	Regulator of IME2 15	Saccharomyces cerevisiae	RIM15
+	855386	RPD3	Reduced Potassium Dependency 3	Saccharomyces cerevisiae	RPD3
+	38565	Rpd3	Histone deacetylase Rpd3	Drosophila melanogaster	Rpd3
+	851484	RPL31A	Ribosomal Protein of the Large subunit 31A	Saccharomyces cerevisiae	RPL31A
+	40015	rpr	reaper	Drosophila melanogaster	rpr
+	181370	sams-1	S-Adenosyl Methionine Synthetase 1	Caenorhabditis elegans	sams-1
+	856612	SCH9	serine/threonine protein kinase SCH9	Saccharomyces cerevisiae	SCH9
+	851386	SFA1	Sensitive to FormAldehyde 1	Saccharomyces cerevisiae	SFA1
+	174536	shk-1	SHaKer family of potassium channels 1	Caenorhabditis elegans	shk-1
+	177924	sir-2.1	Yeast SIR related 1	Caenorhabditis elegans	sir-2.1
+	851520	SIR2	Silent Information Regulator 2	Saccharomyces cerevisiae	SIR2
+	34708	Sir2	Protein Sir2	Drosophila melanogaster	Sir2
+	93759	Sirt1	sirtuin 1	Mus musculus	Sirt1
+	177343	skn-1	SKiNhead 1	Caenorhabditis elegans	skn-1
+	186633	slcf-1	SoLute Carrier Family 1	Caenorhabditis elegans	slcf-1
+	852369	SLM4	Synthetic Lethal with Mss4 4	Saccharomyces cerevisiae	SLM4
+	179243	smk-1	SMEK (Dictyostelium Suppressor of MEK null) homolog 1	Caenorhabditis elegans	smk-1
+	853568	SOD1	superoxide dismutase SOD1	Saccharomyces cerevisiae	SOD1
+	856399	SOD2	superoxide dismutase SOD2	Saccharomyces cerevisiae	SOD2
+	853776	SRX1	SulfiRedoXin 1	Saccharomyces cerevisiae	SRX1
+	852891	STF2	ATPase-stabilizing factor family protein	Saccharomyces cerevisiae	STF2
+	2541652	sty1	MAP kinase Sty1	Schizosaccharomyces pombe	sty1
+	36424	sug	sugarbabe	Drosophila melanogaster	sug
+	851087	SUR4	SUppressor of Rvs161 and rvs167 mutations 4	Saccharomyces cerevisiae	SUR4
+	855922	TCO89	Tor Complex One	Saccharomyces cerevisiae	TCO89
+	853465	TDH2	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating) TDH2	Saccharomyces cerevisiae	TDH2
+	33569	Thor	CG8846-PA	Drosophila melanogaster	Thor
+	853529	TOR1	Target Of Rapamycin 1	Saccharomyces cerevisiae	TOR1
+	181863	trx-1	ThioRedoXin 1	Caenorhabditis elegans	trx-1
+	854980	TSA1	Thiol-Specific Antioxidant 1	Saccharomyces cerevisiae	TSA1
+	175985	ubc-18	UBiquitin Conjugating enzyme 18	Caenorhabditis elegans	ubc-18
+	555812	ucp2	uncoupling protein 2	Caenorhabditis elegans	ucp2
+	180311	unc-51	UNCoordinated-51	Caenorhabditis elegans	unc-51
+	852660	VAM7	VAcuolar Morphogenesis 7	Saccharomyces cerevisiae	VAM7
+	851429	VCX1	Vcx1p	Saccharomyces cerevisiae	VCX1
+	856148	VMA13	H(+)-transporting V1 sector ATPase subunit H	Saccharomyces cerevisiae	VMA13
+	852424	VMA2	H(+)-transporting V1 sector ATPase subunit B	Saccharomyces cerevisiae	VMA2
+	852997	VMA21	Vma21p	Saccharomyces cerevisiae	VMA21
+	853782	VMA5	H(+)-transporting V1 sector ATPase subunit C	Saccharomyces cerevisiae	VMA5
+	851168	VMA6	H(+)-transporting V0 sector ATPase subunit d	Saccharomyces cerevisiae	VMA6
+	172280	vps-34	related to yeast Vacuolar Protein Sorting factor 34	Caenorhabditis elegans	vps-34
+	855101	VPS20	Vacuolar Protein Sorting 20	Saccharomyces cerevisiae	VPS20
+	854256	VPS21	Vacuolar Protein Sorting 21	Saccharomyces cerevisiae	VPS21
+	855983	VPS30	Vacuolar Protein Sorting 30	Saccharomyces cerevisiae	VPS30
+	856303	VPS4	AAA family ATPase VPS4	Saccharomyces cerevisiae	VPS4
+	851261	VPS8	Vacuolar Protein Sorting 8	Saccharomyces cerevisiae	VPS8
+	2541055	wis1	MAP kinase kinase Wis1	Schizosaccharomyces pombe	wis1
+	171647	wwp-1	WW domain Protein (E3 ubiquitin ligase) 1	Caenorhabditis elegans	wwp-1
+	852540	YBR238C	hypothetical protein	Saccharomyces cerevisiae	YBR238C
+	851374	YDL180W	YDL180W	Saccharomyces cerevisiae	YDL180W
+	853149	YHB4	Yeast HemogloBin-like protein 4	Saccharomyces cerevisiae	YHB4
+	855012	YPT7	Yeast Protein Two 7	Saccharomyces cerevisiae	YPT7

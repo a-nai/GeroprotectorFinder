@@ -1,0 +1,972 @@
+CETP cholesteryl ester transfer protein, plasma
+Mammalia
+190 (млн. лет)
+Euteleostomi
+метаболизм углеводов
+нет данных
+
+
+CTF1 cardiotrophin 1
+Mammalia
+190 (млн. лет)
+Boreoeutheria
+иммунная функция
+нервная система
+ответ на стресс
+дифференцировка клеток
+метаболизм углеводов
+повышается
+
+
+IFNB1 Interferon beta
+Mammalia
+190 (млн. лет)
+Boreoeutheria
+иммунная функция
+клеточный цикл
+нет данных
+
+
+IL7R interleukin 7 receptor
+Euteleostomi
+420 (млн. лет)
+Amniota
+иммунная функция
+дифференцировка клеток
+снижается
+
+
+IL2 interleukin 2
+Euteleostomi
+420 (млн. лет)
+Boreoeutheria
+иммунная функция
+дифференцировка клеток
+снижается
+
+
+IL7 interleukin 7
+Euteleostomi
+420 (млн. лет)
+Boreoeutheria
+иммунная функция
+дифференцировка клеток
+снижается
+
+
+TP53 tumor protein p53
+Vertebrata
+490 (млн. лет)
+Euteleostomi
+иммунная функция
+митотохнд-ная ф-я и редокс-потенциал
+протеостаз
+эпигенетические изменения
+достраивание и защита теломер
+сенесценция
+структура ядра
+ответ на оксидативный стресс
+сигналинг
+метаболизм ДНК
+нервная система
+аутофагия
+регуляция транскрипции
+ответ на стресс
+клеточный цикл
+дифференцировка клеток
+метаболизм углеводов
+неоднозначно
+
+
+KL klotho
+Vertebrata
+490 (млн. лет)
+Euteleostomi
+клеточный цикл
+дифференцировка клеток
+метаболизм углеводов
+метаболизм кальция
+нет данных
+
+
+IL2RG interleukin 2 receptor, gamma
+Vertebrata
+490 (млн. лет)
+Euteleostomi
+иммунная функция
+клеточный цикл
+дифференцировка клеток
+нет данных
+
+
+EGR1 early growth response 1
+Vertebrata
+490 (млн. лет)
+Euteleostomi
+регуляция транскрипции
+дифференцировка клеток
+нет данных
+
+
+APOC3 apolipoprotein C-III
+Vertebrata
+490 (млн. лет)
+Boreoeutheria
+метаболизм жиров
+нет данных
+
+
+APOE apolipoprotein E
+Vertebrata
+490 (млн. лет)
+Tetrapoda
+метаболизм жиров
+нет данных
+
+
+IL6 interleukin 6
+Vertebrata
+490 (млн. лет)
+Amniota
+иммунная функция
+дифференцировка клеток
+нет данных
+
+
+BDNF brain-derived neurotrophic factor
+Vertebrata
+490 (млн. лет)
+Euteleostomi
+нервная система
+регуляция транскрипции
+клеточный цикл
+эмбриональное развитие
+дифференцировка клеток
+нет данных
+
+
+CLU clusterin
+Vertebrata
+490 (млн. лет)
+Euteleostomi
+протеостаз
+межклеточный матрикс
+ответ на стресс
+клеточный цикл
+нет данных
+
+
+ELN elastin
+Vertebrata
+490 (млн. лет)
+Catarrhini
+межклеточный матрикс
+нет данных
+
+
+CNR1 cannabinoid receptor 1 (brain)
+Vertebrata
+490 (млн. лет)
+Euteleostomi
+иммунная функция
+митотохнд-ная ф-я и редокс-потенциал
+метаболизм углеводов
+нет данных
+
+
+C1QA complement component 1, q subcomponent, A chain
+Vertebrata
+490 (млн. лет)
+Euteleostomi
+иммунная функция
+сигналинг
+нервная система
+повышается
+
+
+AGTR1 angiotensin II receptor, type 1
+Chordata
+580 (млн. лет)
+Tetrapoda
+иммунная функция
+митотохнд-ная ф-я и редокс-потенциал
+метаболизм жиров
+метаболизм белков
+ответ на оксидативный стресс
+воспаление
+сердечно-сосудистая система
+клеточный цикл
+метаболизм углеводов
+нет данных
+
+
+ACE2 angiotensin I converting enzyme 2
+Chordata
+580 (млн. лет)
+
+иммунная функция
+ответ на оксидативный стресс
+воспаление
+эндокринная система
+сердечно-сосудистая система
+клеточный цикл
+снижается
+
+
+LMNA lamin A/C
+Eumetazoa
+800 (млн. лет)
+Bilateria
+
+нет данных
+
+
+IGF1R insulin-like growth factor 1 receptor
+Eumetazoa
+800 (млн. лет)
+Bilateria
+клеточный цикл
+эмбриональное развитие
+дифференцировка клеток
+метаболизм углеводов
+нет данных
+
+
+IGF1 insulin-like growth factor 1 (somatomedin C)
+Eumetazoa
+800 (млн. лет)
+Euteleostomi
+клеточный цикл
+эмбриональное развитие
+дифференцировка клеток
+метаболизм углеводов
+снижается
+
+
+IGF2 insulin-like growth factor 2
+Eumetazoa
+800 (млн. лет)
+Euteleostomi
+клеточный цикл
+эмбриональное развитие
+дифференцировка клеток
+метаболизм углеводов
+повышается
+
+
+INS insulin
+Eumetazoa
+800 (млн. лет)
+Euteleostomi
+дифференцировка клеток
+метаболизм углеводов
+нет данных
+
+
+IRS1 insulin receptor substrate 1
+Eumetazoa
+800 (млн. лет)
+Euteleostomi
+дифференцировка клеток
+метаболизм углеводов
+снижается
+
+
+IRS2 insulin receptor substrate 2
+Eumetazoa
+800 (млн. лет)
+Euteleostomi
+дифференцировка клеток
+метаболизм углеводов
+нет данных
+
+
+EGFR epidermal growth factor receptor
+Eumetazoa
+800 (млн. лет)
+Euteleostomi
+клеточный цикл
+дифференцировка клеток
+нет данных
+
+
+INSR insulin receptor
+Eumetazoa
+800 (млн. лет)
+Euteleostomi
+дифференцировка клеток
+метаболизм углеводов
+снижается
+
+
+EGF epidermal growth factor
+Eumetazoa
+800 (млн. лет)
+Euteleostomi
+клеточный цикл
+дифференцировка клеток
+нет данных
+
+
+EPOR Erythropoietin receptor
+Eumetazoa
+800 (млн. лет)
+Euteleostomi
+клеточный цикл
+дифференцировка клеток
+нет данных
+
+
+IGFBP3 insulin-like growth factor binding protein 3
+Eumetazoa
+800 (млн. лет)
+Euteleostomi
+клеточный цикл
+дифференцировка клеток
+метаболизм углеводов
+снижается
+
+
+ABL1 ABL proto-oncogene 1, non-receptor tyrosine kinase
+Eumetazoa
+800 (млн. лет)
+Euteleostomi
+иммунная функция
+цитоскелет
+аутофагия
+регуляция транскрипции
+ответ на стресс
+клеточный цикл
+нет данных
+
+
+HTT huntingtin
+Eumetazoa
+800 (млн. лет)
+Euteleostomi
+внутриклеточный транспорт
+нервная система
+регуляция транскрипции
+клеточный цикл
+эмбриональное развитие
+нет данных
+
+
+BAX BCL2-associated X protein
+Eumetazoa
+800 (млн. лет)
+Euteleostomi
+иммунная функция
+митотохнд-ная ф-я и редокс-потенциал
+нервная система
+клеточный цикл
+эмбриональное развитие
+дифференцировка клеток
+повышается
+
+
+LMNB1 lamin B1
+Eumetazoa
+800 (млн. лет)
+Bilateria
+
+нет данных
+
+
+CTGF connective tissue growth factor
+Eumetazoa
+800 (млн. лет)
+Euteleostomi
+межклеточный матрикс
+клеточный цикл
+дифференцировка клеток
+нет данных
+
+
+JAK2 Janus kinase 2
+Eumetazoa
+800 (млн. лет)
+Euteleostomi
+иммунная функция
+клеточный цикл
+эмбриональное развитие
+дифференцировка клеток
+нет данных
+
+
+DLL3 Delta-like protein 3
+Eumetazoa
+800 (млн. лет)
+Boreoeutheria
+дифференцировка клеток
+нет данных
+
+
+ARNTL aryl hydrocarbon receptor nuclear translocator-like
+Eumetazoa
+800 (млн. лет)
+Bilateria
+митотохнд-ная ф-я и редокс-потенциал
+протеостаз
+внутриклеточный транспорт
+сенесценция
+чувствительность к инсулину
+нервная система
+регуляция транскрипции
+клеточный цикл
+дифференцировка клеток
+нет данных
+
+
+CLOCK clock circadian regulator
+Eumetazoa
+800 (млн. лет)
+Euteleostomi
+регуляция транскрипции
+нет данных
+
+
+ADCY5 adenylate cyclase 5
+Eumetazoa
+800 (млн. лет)
+Bilateria
+чувствительность к инсулину
+сигналинг
+метаболизм углеводов
+нет данных
+
+
+EFEMP1 EGF containing fibulin-like extracellular matrix protein 1
+Eumetazoa
+800 (млн. лет)
+Euteleostomi
+межклеточный матрикс
+дифференцировка клеток
+нет данных
+
+
+KCNA3 potassium channel, voltage gated shaker related subfamily A, member 3
+Eumetazoa
+800 (млн. лет)
+Bilateria
+иммунная функция
+клеточный цикл
+метаболизм углеводов
+метаболизм кальция
+нет данных
+
+
+IGFBP2 insulin-like growth factor binding protein 2, 36kDa
+Eumetazoa
+800 (млн. лет)
+Euteleostomi
+клеточный цикл
+эмбриональное развитие
+дифференцировка клеток
+метаболизм углеводов
+повышается
+
+
+IKBKB inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase beta
+Eumetazoa
+800 (млн. лет)
+Euteleostomi
+иммунная функция
+клеточный цикл
+дифференцировка клеток
+повышается
+
+
+BCL2 B-cell CLL/lymphoma 2
+Opisthokonta
+900–1100 (млн. лет)
+Tetrapoda
+иммунная функция
+митотохнд-ная ф-я и редокс-потенциал
+протеостаз
+межклеточный матрикс
+клеточный цикл
+эмбриональное развитие
+повышается
+
+
+EMD emerin
+Opisthokonta
+900–1100 (млн. лет)
+Boreoeutheria
+цитоскелет
+эпигенетические изменения
+нет данных
+
+
+CTNNB1 catenin (cadherin-associated protein), beta 1, 88kDa
+Opisthokonta
+900–1100 (млн. лет)
+Bilateria
+межклеточный матрикс
+регуляция транскрипции
+эмбриональное развитие
+дифференцировка клеток
+нет данных
+
+
+ERCC2 excision repair cross-complementation group 2
+Eukaryota
+1000–1900 (млн. лет)
+Eukaryota
+метаболизм ДНК
+регуляция транскрипции
+ответ на стресс
+нет данных
+
+
+ERCC8 excision repair cross-complementation group 8
+Eukaryota
+1000–1900 (млн. лет)
+Eukaryota
+метаболизм ДНК
+регуляция транскрипции
+ответ на стресс
+нет данных
+
+
+E2F1 E2F transcription factor 1
+Eukaryota
+1000–1900 (млн. лет)
+Euteleostomi
+регуляция транскрипции
+клеточный цикл
+нет данных
+
+
+JUND jun D proto-oncogene
+Eukaryota
+1000–1900 (млн. лет)
+Euteleostomi
+иммунная функция
+митотохнд-ная ф-я и редокс-потенциал
+клеточный цикл
+дифференцировка клеток
+метаболизм углеводов
+снижается
+
+
+BRCA1 breast cancer 1, early onset
+Eukaryota
+1000–1900 (млн. лет)
+Amniota
+метаболизм ДНК
+нет данных
+
+
+BRCA2 breast cancer 2, early onset
+Eukaryota
+1000–1900 (млн. лет)
+Amniota
+метаболизм ДНК
+нет данных
+
+
+ERCC6 excision repair cross-complementation group 6
+Eukaryota
+1000–1900 (млн. лет)
+Euteleostomi
+метаболизм ДНК
+регуляция транскрипции
+ответ на стресс
+нет данных
+
+
+ERCC3 excision repair cross-complementation group 3
+Eukaryota
+1000–1900 (млн. лет)
+Eukaryota
+метаболизм ДНК
+регуляция транскрипции
+ответ на стресс
+нет данных
+
+
+ERCC5 excision repair cross-complementation group 5
+Eukaryota
+1000–1900 (млн. лет)
+Amniota
+метаболизм ДНК
+регуляция транскрипции
+ответ на стресс
+нет данных
+
+
+HSF1 heat shock transcription factor 1
+Eukaryota
+1000–1900 (млн. лет)
+Euteleostomi
+цитоскелет
+протеостаз
+регуляция транскрипции
+ответ на стресс
+клеточный цикл
+эмбриональное развитие
+нет данных
+
+
+ERCC1 excision repair cross-complementation group 1
+Eukaryota
+1000–1900 (млн. лет)
+Eukaryota
+метаболизм ДНК
+регуляция транскрипции
+ответ на стресс
+нет данных
+
+
+JUN jun proto-oncogene
+Eukaryota
+1000–1900 (млн. лет)
+Bilateria
+иммунная функция
+регуляция транскрипции
+клеточный цикл
+эмбриональное развитие
+дифференцировка клеток
+нет данных
+
+
+CCNA2 cyclin A2
+Eukaryota
+1000–1900 (млн. лет)
+Eukaryota
+клеточный цикл
+нет данных
+
+
+BSCL2 Berardinelli-Seip congenital lipodystrophy 2 (seipin)
+Eukaryota
+1000–1900 (млн. лет)
+Euteleostomi
+метаболизм жиров
+нет данных
+
+
+BMI1 BMI1 proto-oncogene, polycomb ring finger
+Eukaryota
+1000–1900 (млн. лет)
+Euteleostomi
+эпигенетические изменения
+метаболизм ДНК
+регуляция транскрипции
+клеточный цикл
+нет данных
+
+
+BUB1B BUB1 mitotic checkpoint serine/threonine kinase B
+Eukaryota
+1000–1900 (млн. лет)
+Eukaryota
+протеостаз
+клеточный цикл
+нет данных
+
+
+CDK1 cyclin-dependent kinase 1
+Eukaryota
+1000–1900 (млн. лет)
+Bilateria
+достраивание и защита теломер
+клеточный цикл
+нет данных
+
+
+CDKN2A cyclin-dependent kinase inhibitor 2A
+Eukaryota
+1000–1900 (млн. лет)
+Euteleostomi
+регуляция транскрипции
+клеточный цикл
+нет данных
+
+
+DBN1 drebrin 1
+Eukaryota
+1000–1900 (млн. лет)
+Euteleostomi
+цитоскелет
+дифференцировка клеток
+неоднозначно
+
+
+BUB3 BUB3 mitotic checkpoint protein
+Eukaryota
+1000–1900 (млн. лет)
+Eukaryota
+клеточный цикл
+нет данных
+
+
+CSNK1E casein kinase 1, epsilon
+Eukaryota
+1000–1900 (млн. лет)
+Eukaryota
+эпигенетические изменения
+клеточный цикл
+дифференцировка клеток
+нет данных
+
+
+CHEK2 checkpoint kinase 2
+Eukaryota
+1000–1900 (млн. лет)
+Opisthokonta
+метаболизм ДНК
+ответ на стресс
+клеточный цикл
+нет данных
+
+
+ARHGAP1 Rho GTPase activating protein 1
+Eukaryota
+1000–1900 (млн. лет)
+Opisthokonta
+сигналинг
+нет данных
+
+
+ERCC4 excision repair cross-complementation group 4
+Eukaryota
+1000–1900 (млн. лет)
+Eukaryota
+метаболизм ДНК
+регуляция транскрипции
+ответ на стресс
+нет данных
+
+
+CDKN1A cyclin-dependent kinase inhibitor 1A (p21, Cip1)
+Eukaryota
+1000–1900 (млн. лет)
+Boreoeutheria
+метаболизм ДНК
+ответ на стресс
+клеточный цикл
+нет данных
+
+
+CDKN2B cyclin-dependent kinase inhibitor 2B (p15, inhibits CDK4)
+Eukaryota
+1000–1900 (млн. лет)
+Amniota
+ответ на стресс
+клеточный цикл
+нет данных
+
+
+DGAT1 diacylglycerol O-acyltransferase 1
+Eukaryota
+1000–1900 (млн. лет)
+Eukaryota
+метаболизм углеводов
+нет данных
+
+
+CDK7 cyclin-dependent kinase 7
+Eukaryota
+1000–1900 (млн. лет)
+Eukaryota
+достраивание и защита теломер
+клеточный цикл
+нет данных
+
+
+BLM Bloom syndrome, RecQ helicase-like
+Сellular organisms
+3000–3500 (млн. лет)
+Euteleostomi
+метаболизм ДНК
+регуляция транскрипции
+клеточный цикл
+нет данных
+
+
+HSP90AA1 heat shock protein 90kDa alpha (cytosolic), class A member 1
+Сellular organisms
+3000–3500 (млн. лет)
+Eukaryota
+митотохнд-ная ф-я и редокс-потенциал
+протеостаз
+достраивание и защита теломер
+аутофагия
+ответ на стресс
+снижается
+
+
+EEF2 eukaryotic translation elongation factor 2
+Сellular organisms
+3000–3500 (млн. лет)
+Eukaryota
+регуляция транскрипции
+нет данных
+
+
+CAT catalase
+Сellular organisms
+3000–3500 (млн. лет)
+Eukaryota
+митотохнд-ная ф-я и редокс-потенциал
+ответ на стресс
+нет данных
+
+
+COQ7 coenzyme Q7 homolog, ubiquinone
+Сellular organisms
+3000–3500 (млн. лет)
+Opisthokonta
+митотохнд-ная ф-я и редокс-потенциал
+нет данных
+
+
+A2M alpha-2-macroglobulin
+Сellular organisms
+3000–3500 (млн. лет)
+Euteleostomi
+иммунная функция
+межклеточный матрикс
+воспаление
+сердечно-сосудистая система
+дифференцировка клеток
+повышается
+
+
+HSPA9 heat shock 70kDa protein 9 (mortalin)
+Сellular organisms
+3000–3500 (млн. лет)
+Eukaryota
+митотохнд-ная ф-я и редокс-потенциал
+протеостаз
+гемопоэз
+клеточный цикл
+дифференцировка клеток
+нет данных
+
+
+HSPD1 heat shock 60kDa protein 1 (chaperonin)
+Сellular organisms
+3000–3500 (млн. лет)
+Eukaryota
+иммунная функция
+митотохнд-ная ф-я и редокс-потенциал
+протеостаз
+ответ на стресс
+клеточный цикл
+снижается
+
+
+HSPA1A heat shock 70kDa protein 1A
+Сellular organisms
+3000–3500 (млн. лет)
+Eukaryota
+иммунная функция
+цитоскелет
+протеостаз
+регуляция транскрипции
+ответ на стресс
+клеточный цикл
+снижается
+
+
+HSPA1B heat shock 70kDa protein 1B
+Сellular organisms
+3000–3500 (млн. лет)
+Eukaryota
+иммунная функция
+цитоскелет
+протеостаз
+регуляция транскрипции
+ответ на стресс
+клеточный цикл
+снижается
+
+
+AGPAT2 1-acylglycerol-3-phosphate O-acyltransferase 2
+Сellular organisms
+3000–3500 (млн. лет)
+Tetrapoda
+иммунная функция
+чувствительность к инсулину
+метаболизм жиров
+воспаление
+метаболизм углеводов
+нет данных
+
+
+EEF1A1 eukaryotic translation elongation factor 1 alpha 1
+Сellular organisms
+3000–3500 (млн. лет)
+Eukaryota
+иммунная функция
+регуляция транскрипции
+нет данных
+
+
+APEX1 APEX nuclease (multifunctional DNA repair enzyme) 1
+Сellular organisms
+3000–3500 (млн. лет)
+Eukaryota
+достраивание и защита теломер
+метаболизм ДНК
+регуляция транскрипции
+ответ на стресс
+повышается
+
+
+HSPA8 heat shock 70kDa protein 8
+Сellular organisms
+3000–3500 (млн. лет)
+Eukaryota
+протеостаз
+сигналинг
+аутофагия
+регуляция транскрипции
+ответ на стресс
+нет данных
+
+
+CISD2 CDGSH iron sulfur domain 2
+Сellular organisms
+3000–3500 (млн. лет)
+Bilateria
+ответ на стресс
+клеточный цикл
+метаболизм кальция
+нет данных
+
+
+EEF1E1 eukaryotic translation elongation factor 1 epsilon 1
+Сellular organisms
+3000–3500 (млн. лет)
+Euteleostomi
+регуляция транскрипции
+эмбриональное развитие
+нет данных
+
+
+HTRA2 HtrA serine peptidase 2
+Сellular organisms
+3000–3500 (млн. лет)
+Bilateria
+митотохнд-ная ф-я и редокс-потенциал
+протеостаз
+нервная система
+аутофагия
+ответ на стресс
+клеточный цикл
+неоднозначно
+
+
+TERC telomerase RNA component
+
+
+
+нет данных
+
+
+
