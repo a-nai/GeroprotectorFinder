@@ -1,0 +1,2594 @@
+adenosine CHEMICAL 0 0 0 0
+Naringin CHEMICAL cisplatin- CHEMICAL aminoglycoside-induced hair cell injury DISEASE
+gastric carcinoma DISEASE 0 0 0 0
+ERalpha CHEMICAL castration-resistant prostate cancer DISEASE 0 0
+Colorectal Tumors DISEASE 0 0 0 0
+Human Hepatocellular Carcinoma DISEASE 0 0 0 0
+infection DISEASE acute leukemia DISEASE 0 0
+MicroRNA-326 CHEMICAL Hepatocellular Carcinoma DISEASE 0 0
+salinomycin CHEMICAL 0 0 0 0
+Baicalein CHEMICAL Breast Cancer DISEASE 0 0
+Isoquercitrin CHEMICAL hepatocellular carcinoma DISEASE K CHEMICAL
+breast cancer DISEASE 0 0 0 0
+sulforaphane CHEMICAL 0 0 0 0
+esophageal squamous cell carcinoma DISEASE 0 0 0 0
+Napabucasin CHEMICAL Streptococcal DISEASE 0 0
+triazole CHEMICAL 0 0 0 0
+hepatocellular carcinoma radio-sensitivity DISEASE ionizing DISEASE 0 0
+Cancer DISEASE 0 0 0 0
+Chlorogenic acid CHEMICAL pancreatic carcinoma DISEASE 0 0
+T-cell lymphoma DISEASE 0 0 0 0
+Germacrone CHEMICAL HBXIP-Mediated CHEMICAL Gastric Cancer DISEASE
+tetrahydroquinolines CHEMICAL benzomorpholines CHEMICAL 0 0
+Staphylococcus DISEASE Acute Lung Injury DISEASE 0 0
+ovarian carcinoma DISEASE ivermectin CHEMICAL 0 0
+N-diethylpiperidine-1-carboxamide CHEMICAL colorectal cancer DISEASE 0 0
+protocatechuic acid CHEMICAL tumor DISEASE 0 0
+cycle arrest DISEASE esophageal carcinoma DISEASE 0 0
+Shikimic Acid CHEMICAL Renal Injury DISEASE 0 0
+Crocin CHEMICAL 0 0 0 0
+tumor DISEASE 0 0 0 0
+Colorectal Tumors DISEASE 0 0 0 0
+nitrate CHEMICAL 0 0 0 0
+Hepatocellular Carcinoma DISEASE 0 0 0 0
+colorectal cancer DISEASE 5-fluorouracil CHEMICAL autophagic cell death DISEASE
+cancer DISEASE nasopharyngeal carcinoma DISEASE 0 0
+pancreatic cancer DISEASE 0 0 0 0
+Regorafenib CHEMICAL hepatocellular carcinoma DISEASE 0 0
+flavonoids CHEMICAL 0 0 0 0
+4-amino-1H-pyrazolo[3,4-d]pyrimidin CHEMICAL 0 0 0 0
+Cancer DISEASE 0 0 0 0
+Methoxyeugenol CHEMICAL endometrial cancer DISEASE 0 0
+pyrrolo[1,2-b]pyridazine CHEMICAL 0 0 0 0
+renal cell carcinoma DISEASE 0 0 0 0
+breast cancer DISEASE 0 0 0 0
+Rapamycin CHEMICAL lung squamous cell carcinoma DISEASE glypican-3/Wnt/beta-catenin CHEMICAL
+Arecoline CHEMICAL 0 0 0 0
+Ligustrazine CHEMICAL ovarian cancer DISEASE 0 0
+TAMs CHEMICAL Tumor DISEASE 0 0
+Gefitinib CHEMICAL 0 0 0 0
+Cannabidiol CHEMICAL head and neck squamous cell carcinoma DISEASE 0 0
+clear cell renal cell carcinoma DISEASE 0 0 0 0
+Baicalein CHEMICAL Breast Cancer DISEASE 0 0
+4H-chromeno[2,3-d]pyrimidin-4-one CHEMICAL cancer DISEASE 0 0
+camptothecin CHEMICAL 0 0 0 0
+Shikonin CHEMICAL glucose CHEMICAL HCC DISEASE
+Schisandrin B CHEMICAL cervical cancer DISEASE 0 0
+hepatocellular carcinoma DISEASE 0 0 0 0
+Celastrol CHEMICAL Lung Carcinoma DISEASE 0 0
+hepatocellular carcinoma DISEASE miR-149 CHEMICAL 0 0
+Sterol CHEMICAL 0 0 0 0
+Acacetin CHEMICAL Osteosarcoma DISEASE 0 0
+laryngeal squamous cell carcinoma DISEASE 0 0 0 0
+Diarylheptanoids CHEMICAL Curcuma comosa Rhizomes CHEMICAL 0 0
+hepatocellular carcinoma DISEASE 0 0 0 0
+Resorcinol CHEMICAL Cancer DISEASE 0 0
+Hyperin CHEMICAL Gastric Cancer DISEASE 0 0
+hepatocellular carcinoma DISEASE temozolomide CHEMICAL 0 0
+Gentiopicroside CHEMICAL Gastric Cancer DISEASE 0 0
+breast cancer DISEASE doxorubicin CHEMICAL glycyrrhetinic acid CHEMICAL
+hepatocellular carcinoma DISEASE hepatocarcinogenesis DISEASE 0 0
+triazole CHEMICAL 0 0 0 0
+Decursin CHEMICAL cervical cancer DISEASE 0 0
+5-aza-2'-deoxycytidine CHEMICAL Colon Cancer HT DISEASE 0 0
+artemisinin CHEMICAL liver and ovarian cancers DISEASE 0 0
+Periplocin CHEMICAL pancreatic cancer DISEASE 0 0
+squamous cell carcinoma DISEASE OSCC DISEASE 0 0
+beta-carboline-benzothiazole DISEASE carboxamide CHEMICAL 0 0
+Camellia oleifera CHEMICAL 0 0 0 0
+squamous cell carcinoma DISEASE 0 0 0 0
+Hybrides of Alkaloid Lappaconitine CHEMICAL Pyrimidine CHEMICAL 0 0
+deoxynojirimycin CHEMICAL 0 0 0 0
+Tumor DISEASE Endometrial Carcinoma DISEASE 0 0
+Cancer DISEASE 0 0 0 0
+Thymidylate CHEMICAL 0 0 0 0
+Colon Cancer DISEASE 0 0 0 0
+dinaphthospiropyranran CHEMICAL 0 0 0 0
+Proscillaridin A CHEMICAL hepatocellular carcinoma DISEASE mitochondrial damage DISEASE
+Chiral 2-Methyl-5,6,7,8-tetrahydroquinolin-8-amine-based CHEMICAL 0 0 0 0
+hepatocellular carcinoma DISEASE 0 0 0 0
+coumarin-3-carboxylic acid DISEASE 0 0 0 0
+Gastric Carcinoma DISEASE Axis DISEASE 0 0
+human bladder cancer DISEASE 0 0 0 0
+hepatocellular carcinoma DISEASE 0 0 0 0
+gefitinib CHEMICAL 0 0 0 0
+Tyrosine CHEMICAL Anti-Glioblastoma CHEMICAL 0 0
+Apatinib CHEMICAL hepatocellular carcinoma DISEASE 0 0
+tumor DISEASE 0 0 0 0
+pyruvate CHEMICAL pancreatic cancer DISEASE 0 0
+Hepatocellular Carcinoma DISEASE miR-154 CHEMICAL 0 0
+Metabolic abnormalities DISEASE functional defects DISEASE 0 0
+indole CHEMICAL 0 0 0 0
+Caprine Bactenecins CHEMICAL 0 0 0 0
+Rukamtenol CHEMICAL Flacourtia rukam DISEASE 0 0
+curcumin CHEMICAL oral diseases DISEASE 0 0
+Metronomic Celecoxib CHEMICAL Carcinoma DISEASE 0 0
+Parthenolide CHEMICAL gastric cancer DISEASE 0 0
+silver CHEMICAL 0 0 0 0
+All-trans-retinoic acid CHEMICAL malignant behaviors DISEASE hepatocarcinoma DISEASE
+AAZTA(5 CHEMICAL gastrin CHEMICAL 0 0
+Cancer DISEASE 0 0 0 0
+doxorubicin CHEMICAL 0 0 0 0
+bleomycin CHEMICAL Hodgkin's lymphoma DISEASE testicular cancer DISEASE
+Liver Cancer DISEASE 0 0 0 0
+bi-chaperone CHEMICAL 0 0 0 0
+tumour DISEASE tyrosine CHEMICAL lung cancer DISEASE
+N-(Pyrimidin-2-yl)-1,2,3,4-tetrahydroisoquinolin-6-amine CHEMICAL Myeloproliferative Neoplasms DISEASE 0 0
+Neuroendocrine Cancer DISEASE 0 0 0 0
+Calycosin CHEMICAL 0 0 0 0
+Axis DISEASE Squamous Cell Carcinoma DISEASE 0 0
+Ovarian Cancer DISEASE 0 0 0 0
+Propofol CHEMICAL Pancreatic Cancer DISEASE 0 0
+hepatocellular carcinoma DISEASE 0 0 0 0
+Prostate Cancer DISEASE 0 0 0 0
+chrysin thiazole CHEMICAL 0 0 0 0
+calix[4]arene-based carbonyl amide CHEMICAL 0 0 0 0
+Amino Chalcone CHEMICAL 0 0 0 0
+icotinib CHEMICAL 0 0 0 0
+Hepatocellular Carcinoma DISEASE E2 CHEMICAL 0 0
+Russelioside B CHEMICAL pregnane glycoside CHEMICAL gastric ulcer DISEASE
+Esophageal Squamous Cell Carcinoma DISEASE 0 0 0 0
+Antikinetoplastid CHEMICAL 0 0 0 0
+Biochanin CHEMICAL inflammation DISEASE alveolar bone loss DISEASE
+hepatocellular carcinoma DISEASE 0 0 0 0
+Cisplatin CHEMICAL OSCC DISEASE 0 0
+Metastasis DISEASE Human Bladder Cancer DISEASE 0 0
+Cancer DISEASE 0 0 0 0
+Acid CHEMICAL Phoma macrostoma DISEASE 0 0
+tamoxifen CHEMICAL MCF-7 CHEMICAL 0 0
+Esophageal Squamous Cell Carcinoma DISEASE 0 0 0 0
+Catalpol CHEMICAL metastasis DISEASE HCC DISEASE
+triptonide CHEMICAL acute myeloid leukemia DISEASE FLT3-ITD DISEASE
+Pterostilbene CHEMICAL 0 0 0 0
+thyroid carcinoma metastasis DISEASE 0 0 0 0
+breast cancer tumor DISEASE 0 0 0 0
+Hepatitis B Virus-Related Hepatocellular Carcinoma DISEASE Tumors DISEASE 0 0
+Hepatocellular Carcinoma DISEASE 0 0 0 0
+Oxazol-2-amine CHEMICAL 0 0 0 0
+Hepatocellular Carcinoma DISEASE Hepatitis DISEASE Cirrhosis DISEASE
+Tetrapleura tetraptera fruits CHEMICAL cancer DISEASE 0 0
+Puerariae Lobatae Radix CHEMICAL hepatocellular carcinoma DISEASE 0 0
+Cancer DISEASE 0 0 0 0
+protocatechuic acid CHEMICAL tumor DISEASE 0 0
+indomethacin CHEMICAL cancer DISEASE lapatinib CHEMICAL
+tumor DISEASE hepatocellular carcinoma DISEASE 0 0
+Glioma DISEASE 0 0 0 0
+cervical carcinoma DISEASE 0 0 0 0
+Docosahexaenoic acid CHEMICAL breast tumor DISEASE 0 0
+Tumor DISEASE Chemoresistance DISEASE 0 0
+Acid CHEMICAL 0 0 0 0
+hepatocellular carcinogenesis DISEASE miR-200b-3p CHEMICAL 0 0
+Ursolic acid CHEMICAL heat stress-induced lung injury DISEASE 0 0
+Furo[2,3-b]quinoline CHEMICAL Anti-Breast Cancer DISEASE 0 0
+esophageal squamous cell carcinomas DISEASE 0 0 0 0
+Sophoricoside CHEMICAL acute lung injury DISEASE 0 0
+prostate cancer DISEASE 0 0 0 0
+cancer DISEASE cancer DISEASE cervical cancer DISEASE
+3-d]pyrimidin-7(8H)-ones CHEMICAL Threonine CHEMICAL 0 0
+Mycobacterium tuberculosis CHEMICAL 0 0 0 0
+colorectal cancer DISEASE 0 0 0 0
+Melatonin CHEMICAL inflammation-related cancer DISEASE 0 0
+tumor DISEASE hepatocellular carcinoma DISEASE 0 0
+urea CHEMICAL ciprofloxacin-chalcone CHEMICAL caspases-mediated apoptosis DISEASE
+kaempferol CHEMICAL Notch1/PTEN/AKT CHEMICAL 0 0
+renal cell carcinoma DISEASE 0 0 0 0
+Tryptanthrin CHEMICAL cancer DISEASE tumor DISEASE
+Costunolide CHEMICAL dehydrocostuslactone CHEMICAL hepatocellular carcinoma DISEASE
+colorectal cancer DISEASE 5-fluorouracil CHEMICAL autophagic cell death DISEASE
+dihydroartemisinin CHEMICAL resveratrol CHEMICAL cancer DISEASE
+TRAIL CHEMICAL hepatocellular carcinoma DISEASE 0 0
+prostate cancer DISEASE 0 0 0 0
+osteosarcoma DISEASE metastasis DISEASE 0 0
+Merkel Cell Carcinomas DISEASE 0 0 0 0
+4-amino-1H-pyrazolo[3,4-d]pyrimidin CHEMICAL 0 0 0 0
+Ellagic Acid CHEMICAL 0 0 0 0
+nasopharyngeal carcinoma DISEASE 0 0 0 0
+pyrrolo[1,2-b]pyridazine CHEMICAL 0 0 0 0
+Dopamine CHEMICAL Cancer DISEASE 0 0
+Hepatocellular Carcinoma DISEASE 0 0 0 0
+breast cancer DISEASE 0 0 0 0
+Anhydride CHEMICAL Neuroinflammation DISEASE Parkinson's Disease DISEASE
+Cabazitaxel CHEMICAL MSC-TRAIL CHEMICAL Squamous Cell Carcinoma DISEASE
+Cyanine CHEMICAL 0 0 0 0
+Alangium chinense CHEMICAL 0 0 0 0
+MDS DISEASE decrusin CHEMICAL ibuprofen CHEMICAL
+Licochalcone A CHEMICAL Arginine CHEMICAL 0 0
+TRAIL CHEMICAL breast cancer DISEASE 0 0
+NSCLC DISEASE 0 0 0 0
+Ligustrazine CHEMICAL ovarian cancer DISEASE 0 0
+Curcumin CHEMICAL Cancer DISEASE 0 0
+Cannabidiol CHEMICAL head and neck squamous cell carcinoma DISEASE 0 0
+Ferulate CHEMICAL Colon Cancer DISEASE 0 0
+Helicobacter pylori DISEASE Infection DISEASE Human Gastric Carcinoma DISEASE
+Cavernous Nerve Injury DISEASE 0 0 0 0
+Prenylated xanthones and benzophenones CHEMICAL Garcinia bracteata CHEMICAL 0 0
+hepatocellular carcinoma DISEASE miR-584 CHEMICAL 0 0
+Nocardiosis DISEASE glomerular disease DISEASE 0 0
+Cancer DISEASE 0 0 0 0
+Cancer DISEASE 0 0 0 0
+bone loss DISEASE 0 0 0 0
+oesophageal squamous cell carcinoma DISEASE 0 0 0 0
+camptothecin CHEMICAL 0 0 0 0
+liver diseases DISEASE 0 0 0 0
+Schisandrin B CHEMICAL cervical cancer DISEASE 0 0
+Ascorbic Acid CHEMICAL Polyneuropathy DISEASE Sepsis DISEASE
+human colorectal carcinoma DISEASE 0 0 0 0
+TRAIL CHEMICAL Cancer DISEASE NRH DISEASE
+methyl beta-orsellinate CHEMICAL breast cancer DISEASE 0 0
+fructus DISEASE hepatocellular carcinoma DISEASE 0 0
+neurodevelopment disorders DISEASE tumors DISEASE 0 0
+Caffeine CHEMICAL Renal Cell Carcinoma DISEASE 0 0
+Celastrol CHEMICAL Lung Carcinoma DISEASE 0 0
+Eslicarbazepine Acetate CHEMICAL S-Licarbazepine CHEMICAL 0 0
+cancer DISEASE 0 0 0 0
+Lycorine hydrochloride CHEMICAL FBXW7-MCL1 CHEMICAL gastric cancer DISEASE
+Ponatinib CHEMICAL cholangiocarcinoma DISEASE 0 0
+nicotinamide CHEMICAL cancer DISEASE 0 0
+Aggressive Human Breast Adenocarcinoma DISEASE 0 0 0 0
+Squamous Cell Carcinoma DISEASE 0 0 0 0
+arylaminothiazole CHEMICAL 0 0 0 0
+curcumin CHEMICAL glioma DISEASE 0 0
+Hepatocellular Carcinoma DISEASE Metastasis DISEASE 0 0
+Pregnenolone CHEMICAL 0 0 0 0
+Indole hydrazide compound CHEMICAL ZJQ-24 DISEASE death DISEASE
+Lung Carcinoma DISEASE 0 0 0 0
+Thymoquinone CHEMICAL 0 0 0 0
+Hepatocellular Carcinoma DISEASE Axis DISEASE 0 0
+Carcinoma DISEASE 0 0 0 0
+acid CHEMICAL 0 0 0 0
+Kidney Cancer DISEASE Axis DISEASE 0 0
+butanolic extract CHEMICAL bladder cancer DISEASE 0 0
+chromen-7-one CHEMICAL 0 0 0 0
+Receptor-Enhanced Hepatocellular Carcinoma DISEASE HIF-2alpha/c-Myc/P27 DISEASE 0 0
+Cisplatin CHEMICAL Cancer DISEASE 0 0
+Promyelocytic Leukemia DISEASE Organosulfur CHEMICAL 0 0
+tumor DISEASE hepatocellular carcinoma DISEASE 0 0
+Diarylheptanoids CHEMICAL Curcuma comosa Rhizomes CHEMICAL 0 0
+methyl CHEMICAL K alpha inhibitor CHEMICAL tumors DISEASE
+Nasopharyngeal Carcinoma DISEASE Cisplatin CHEMICAL miR-454 CHEMICAL
+Lung Carcinoma DISEASE 0 0 0 0
+Arnebia euchroma CHEMICAL leukemia DISEASE 0 0
+Auranofin CHEMICAL 0 0 0 0
+Alzheimer's Disease DISEASE 0 0 0 0
+Viburnum opulus CHEMICAL p-coumaric acid CHEMICAL human colorectal carcinoma DISEASE
+Metformin CHEMICAL AMPK/p53 CHEMICAL human cervical cancer DISEASE
+Curcumin CHEMICAL Neuroblastoma DISEASE 0 0
+miR-30a-3p DISEASE hepatocellular carcinoma DISEASE 0 0
+arginine dithiocarbamate CHEMICAL breast cancer DISEASE 0 0
+Antipancreatic Cancer DISEASE 0 0 0 0
+Acylated CHEMICAL ghrelin CHEMICAL cancer cachexia DISEASE
+oxazinonaphthalene-3-one CHEMICAL 0 0 0 0
+glioma DISEASE MYO1B CHEMICAL 0 0
+squamous cell carcinoma DISEASE 0 0 0 0
+Hyperin CHEMICAL Gastric Cancer DISEASE 0 0
+5-fluorouracil CHEMICAL gastric cancer DISEASE 0 0
+tongue squamous cell carcinoma DISEASE 0 0 0 0
+Conjugated CHEMICAL SKOV-3 CHEMICAL 0 0
+Breast Tumor DISEASE 0 0 0 0
+Sulfur CHEMICAL Hepatocellular Carcinoma DISEASE 0 0
+hepatocellular carcinoma DISEASE 0 0 0 0
+disubstituted adamantyl CHEMICAL cancer DISEASE 0 0
+pyrazole CHEMICAL 0 0 0 0
+pyrrolidone CHEMICAL 0 0 0 0
+breast cancer DISEASE doxorubicin CHEMICAL glycyrrhetinic acid CHEMICAL
+Mevalonate CHEMICAL gastric cancer DISEASE 0 0
+5-fluorouracil CHEMICAL gastric cancer DISEASE 0 0
+Decursin CHEMICAL cervical cancer DISEASE 0 0
+flavonoids CHEMICAL autoimmune encephalomyelitis DISEASE 0 0
+hepatocellular carcinoma DISEASE metastasis DISEASE 0 0
+Ophiobolins CHEMICAL WHU0154 CHEMICAL 0 0
+N-phenylindazolyl CHEMICAL 0 0 0 0
+nasopharyngeal carcinoma DISEASE 0 0 0 0
+Glioma DISEASE Boronophenylalanine CHEMICAL 0 0
+ginsenoside Rg3 CHEMICAL cancer DISEASE breast cancer DISEASE
+hepatocellular carcinoma DISEASE 0 0 0 0
+hepatocellular carcinoma DISEASE 0 0 0 0
+aryltriazole CHEMICAL 0 0 0 0
+pyrazolo[3,4-d]pyrimidin-4-one CHEMICAL quinoline CHEMICAL PDE5 CHEMICAL
+glutathione CHEMICAL cutaneous squamous cell carcinoma DISEASE 0 0
+Periplocin CHEMICAL pancreatic cancer DISEASE 0 0
+1,3,4-thiadiazole CHEMICAL anti-glioblastoma agents CHEMICAL 0 0
+ouabain CHEMICAL hepatocellular carcinoma DISEASE 0 0
+Celastrol CHEMICAL afatinib CHEMICAL non-small cell lung cancer DISEASE
+N (4)-aryl substituted thiosemicarbazone CHEMICAL breast cancer DISEASE 0 0
+kynurenine CHEMICAL hepatocellular carcinoma DISEASE 0 0
+Pseudonocardia DISEASE 0 0 0 0
+apigenin CHEMICAL multiple myeloma DISEASE 0 0
+GSK126 CHEMICAL squamous cell carcinoma DISEASE 0 0
+tumor DISEASE 0 0 0 0
+methanol CHEMICAL Antarctic lichen DISEASE 0 0
+hepatocellular carcinoma DISEASE AMPK/mTOR/ULK1 CHEMICAL 0 0
+human gastric cancer DISEASE 0 0 0 0
+neuroinflammation DISEASE memory impairment DISEASE Rosmarinic acid CHEMICAL
+papillary thyroid carcinoma DISEASE 0 0 0 0
+self-activating nanovesicle CHEMICAL cancer DISEASE 0 0
+breast and prostate tumor DISEASE 0 0 0 0
+hepatocellular carcinoma metastasis DISEASE HGF/c-Met CHEMICAL 0 0
+Cancer DISEASE 0 0 0 0
+Fucoidan CHEMICAL 0 0 0 0
+5-Aza-2'-Deoxycytidine CHEMICAL Hepatocellular Carcinoma DISEASE 0 0
+Carvacrol-Based DISEASE AGS DISEASE 0 0
+Garcinia nujiangensis CHEMICAL Ovarian Cancers DISEASE 0 0
+Renal Cell Carcinoma Tumorigenesis DISEASE 0 0 0 0
+intercalators CHEMICAL 0 0 0 0
+cytarabine CHEMICAL ginsenoside compound K CHEMICAL acute myeloid leukemia DISEASE
+Hepatocellular Carcinoma DISEASE 0 0 0 0
+pyran derivative CHEMICAL 0 0 0 0
+Theileria annulata DISEASE 0 0 0 0
+Liver Cancer DISEASE 0 0 0 0
+Breast Cancer DISEASE 0 0 0 0
+Cancer DISEASE 0 0 0 0
+miR-758 CHEMICAL Clear Cell Renal Cell Carcinoma DISEASE 0 0
+Cancer DISEASE 0 0 0 0
+CDR1as/miR-1287/Raf1 Axis CHEMICAL Hepatocellular Carcinoma DISEASE MEK/ERK CHEMICAL
+cancer DISEASE 0 0 0 0
+Papillary Thyroid Carcinoma DISEASE Metastasis DISEASE miR-375 CHEMICAL
+Fanconi Anemia DISEASE 0 0 0 0
+Physapubescin B CHEMICAL gastric cancer DISEASE trametinib CHEMICAL
+miR-133a-3p CHEMICAL Hepatocellular Carcinoma DISEASE 0 0
+dinaphthospiropyranran CHEMICAL 0 0 0 0
+phenanthroimidazole CHEMICAL inflammation DISEASE 0 0
+Febuxostat CHEMICAL Colon Cancer DISEASE 0 0
+piperidine CHEMICAL 0 0 0 0
+Amplifies CHEMICAL Cancer DISEASE 0 0
+Beauvericin CHEMICAL Pancreatic Cancer DISEASE 0 0
+breast cancer DISEASE 0 0 0 0
+Alanine CHEMICAL Steatosis DISEASE Metabolic Syndrome DISEASE
+silver/silver chloride CHEMICAL glioblastoma DISEASE Ehrlich ascites carcinoma DISEASE
+Anti-Hepatoma DISEASE Scheflera heptaphylla CHEMICAL 0 0
+hepatocellular carcinoma DISEASE 0 0 0 0
+2, 4, 5-Trideoxyhexopyranosides CHEMICAL Demethylepipodophyllotoxin DISEASE 0 0
+CYZ2017 CHEMICAL 0 0 0 0
+NHP2 CHEMICAL hepatitis B DISEASE hepatocarcinogenesis DISEASE
+9-cis-UAB30 CHEMICAL decreases tumorigenicity DISEASE cancer DISEASE
+carcinogenesis DISEASE 0 0 0 0
+colorectal tumors DISEASE 0 0 0 0
+Isoflurane CHEMICAL cervical carcinoma DISEASE 0 0
+Deoxycholic acid CHEMICAL 0 0 0 0
+tumor DISEASE 0 0 0 0
+skin squamous cell carcinoma DISEASE miR-126 CHEMICAL 0 0
+fibrosis DISEASE 0 0 0 0
+Chalcones CHEMICAL ketones CHEMICAL 0 0
+ethyl acetate extract of peony (Paeonia suffruticosa) seed coat CHEMICAL squamous carcinoma DISEASE 0 0
+cisplatin CHEMICAL mitochondrial functionality DISEASE breast cancer DISEASE
+gramicidin A CHEMICAL 0 0 0 0
+Wogonin CHEMICAL 0 0 0 0
+Pyrrolo[2,3-b]pyridine-3-one CHEMICAL hepatocellular carcinoma DISEASE 0 0
+cancer DISEASE hepatocellular carcinoma DISEASE 0 0
+Circ_0091581 DISEASE Hepatocellular Carcinoma DISEASE Axis DISEASE
+human bladder cancer DISEASE 0 0 0 0
+breast cancer DISEASE 0 0 0 0
+pancreatic cancer DISEASE 0 0 0 0
+indole CHEMICAL pyranoindole CHEMICAL 0 0
+airway neurogenic inflammation DISEASE 0 0 0 0
+Paeoniflorin CHEMICAL hepatocellular carcinoma DISEASE 0 0
+Benzophenone CHEMICAL Benzoylphloroglucinol CHEMICAL Otogirinin A. CHEMICAL
+hepatocellular carcinoma DISEASE 0 0 0 0
+pyrimidine-dione CHEMICAL Mycobacterium tuberculosis CHEMICAL 0 0
+Indole CHEMICAL Ovarian Cancer DISEASE 0 0
+Akebia saponin E CHEMICAL hepatocellular carcinoma DISEASE 0 0
+halogenated amino acids CHEMICAL 0 0 0 0
+4-thiazolidinone CHEMICAL cancer DISEASE 0 0
+Cancer DISEASE 0 0 0 0
+Liquiritigenin CHEMICAL Cognitive Decline DISEASE AD DISEASE
+fructose CHEMICAL hepatocellular carcinoma DISEASE 0 0
+7-Azaindole CHEMICAL 0 0 0 0
+thymoquinone CHEMICAL ebselen CHEMICAL hepatotoxicity DISEASE
+hepatocellular carcinoma DISEASE 0 0 0 0
+Lymphoma DISEASE 0 0 0 0
+Triple-negative Breast Cancer Metastasis DISEASE 0 0 0 0
+hepatocellular carcinoma DISEASE 0 0 0 0
+Colorectal Cancer DISEASE 0 0 0 0
+DCZ3301 CHEMICAL ocular neovascularization DISEASE 0 0
+Bladder Carcinoma DISEASE Axis DISEASE 0 0
+GLN CHEMICAL Glioblastoma DISEASE 0 0
+hepatocellular carcinoma DISEASE 0 0 0 0
+tanshinone CHEMICAL breast cancer DISEASE 0 0
+cancer DISEASE Na/K-ATPase-dependent cell death DISEASE 0 0
+Metastasis DISEASE Hepatocellular Carcinoma DISEASE 0 0
+Gynostemma pentaphyllum CHEMICAL hydrogen peroxide-induced neurotoxicity CHEMICAL 0 0
+ebselen CHEMICAL silver CHEMICAL 0 0
+skin cancer DISEASE 0 0 0 0
+Downregulate CHEMICAL 0 0 0 0
+Hyaluronic Acid CHEMICAL Squamous Cell Carcinoma DISEASE 0 0
+chiral tetrahydronaphthalene-fused spirooxindole CHEMICAL MDM2-CDK4 dual inhibitor CHEMICAL glioblastoma DISEASE
+Eugenol CHEMICAL capsaicin CHEMICAL gastric carcinoma DISEASE
+Erianthridin DISEASE Non-small Cell Lung Cancer DISEASE 0 0
+breast cancer DISEASE honokiol CHEMICAL 0 0
+nasopharyngeal carcinoma DISEASE 0 0 0 0
+Berbamine CHEMICAL Sorafenib CHEMICAL Hepatocellular Carcinoma DISEASE
+Cross-Talk CHEMICAL Colorectal Cancer DISEASE Tumor DISEASE
+Breast Carcinoma DISEASE 0 0 0 0
+andrographolide CHEMICAL breast cancer DISEASE 0 0
+Ehrlich Tumor-Bearing DISEASE 0 0 0 0
+Tryptophan CHEMICAL Hepatocellular Carcinoma DISEASE 0 0
+colorectal cancer DISEASE 0 0 0 0
+Caffeic Acid CHEMICAL Phenethyl Ester CHEMICAL Axis DISEASE
+Curcumin CHEMICAL Tumor DISEASE Breast Cancer DISEASE
+hepatocellular carcinoma DISEASE 0 0 0 0
+Cobalt Bis(dicarbollide CHEMICAL Alkylsulfonamides CHEMICAL Tumor DISEASE
+chronic liver disease DISEASE 0 0 0 0
+cGAS-STING CHEMICAL hepatocellular carcinoma DISEASE 0 0
+3-bromopyruvate CHEMICAL MPNST DISEASE 0 0
+tumor DISEASE tumor DISEASE 0 0
+miR-155 CHEMICAL tumor DISEASE 0 0
+isoflavone CHEMICAL triple-negative breast cancer DISEASE 0 0
+estrogen CHEMICAL ovarian granulosa cancer DISEASE 0 0
+pyruvate CHEMICAL pancreatic cancer DISEASE 0 0
+death DISEASE Curcumin CHEMICAL gastrointestinal cancers DISEASE
+Coptisine CHEMICAL Glucose CHEMICAL Hepatocellular Carcinoma DISEASE
+Equol CHEMICAL 0 0 0 0
+Epigallocatechin gallate CHEMICAL diethylnitrosamineinduced liver cancer DISEASE 0 0
+N-Phenyl-4-Hydroxy-6-Methyl-2-Quinolone-3-CarboxAmides CHEMICAL 0 0 0 0
+Ameliorate CHEMICAL Arthritis DISEASE 0 0
+DDX46 DISEASE squamous cell carcinoma DISEASE 0 0
+indole CHEMICAL 0 0 0 0
+curcumin CHEMICAL liver cancer DISEASE 0 0
+tumor DISEASE metastasis DISEASE hepatocellular carcinoma DISEASE
+Diterpene CHEMICAL Ovarian Cancer DISEASE 0 0
+squamous cell carcinoma DISEASE 0 0 0 0
+Cucurbitacin E CHEMICAL Chemosensitizes Colorectal Cancer DISEASE TFAP4/Wnt/beta-Catenin CHEMICAL
+Melanoma DISEASE 0 0 0 0
+Cancer DISEASE 0 0 0 0
+curcumin CHEMICAL oral diseases DISEASE 0 0
+lenalidomide CHEMICAL rotenone CHEMICAL Parkinson's Disease DISEASE
+metallocene dichlorides CHEMICAL transferrin CHEMICAL cancer DISEASE
+nootkatone CHEMICAL colorectal cancer DISEASE 0 0
+bone metastasis DISEASE renal cell carcinoma DISEASE 0 0
+silver CHEMICAL 0 0 0 0
+Sarmentosamide CHEMICAL 0 0 0 0
+Lung Carcinoma DISEASE Cancer DISEASE 0 0
+colorectal cancer DISEASE 0 0 0 0
+bleomycin-induced pulmonary fibrosis DISEASE 0 0 0 0
+diamino substituted cyclobut-3-ene-1,2-dione CHEMICAL tuberculosis DISEASE 0 0
+Tumor DISEASE Renal Carcinoma DISEASE 0 0
+Stabilizers CHEMICAL 0 0 0 0
+neurodegenerative alterations DISEASE TREM-2/DAP-12/Syk CHEMICAL 0 0
+Proanthocyanidins CHEMICAL cancers DISEASE 0 0
+S-Adenosylmethionine CHEMICAL Cancer DISEASE 0 0
+Sclareol CHEMICAL Breast Cancer DISEASE Cyclophosphamide CHEMICAL
+hepatocellular carcinoma DISEASE 0 0 0 0
+Thymidylate CHEMICAL 0 0 0 0
+DN604 CHEMICAL gemcitabine CHEMICAL NSCLC DISEASE
+Lycopene CHEMICAL Hepatocellular Carcinoma DISEASE 0 0
+carbon dots-based CHEMICAL 0 0 0 0
+Oridonin CHEMICAL Laryngeal Carcinoma DISEASE 0 0
+Cancer DISEASE 0 0 0 0
+sphingosine CHEMICAL 0 0 0 0
+Hepatocellular Carcinoma DISEASE 0 0 0 0
+Agastache CHEMICAL Gastritis DISEASE 0 0
+Thomsen-Friedenreich DISEASE Thyroid Cancer DISEASE 0 0
+Olaparib CHEMICAL Breast Cancer DISEASE 0 0
+breast cancer DISEASE 0 0 0 0
+Hepatocellular Carcinoma DISEASE 0 0 0 0
+Shikonin CHEMICAL Melanoma DISEASE 0 0
+Lathyrus sativus diamine CHEMICAL Clostridium difficile DISEASE toxicity DISEASE
+Solanine CHEMICAL Hepatocarcinoma DISEASE Acetylcholine CHEMICAL
+Plumbagin CHEMICAL 0 0 0 0
+Tumor DISEASE Cancer DISEASE Lung Carcinoma DISEASE
+Rh2 CHEMICAL T-cell acute lymphoblastic leukemia DISEASE 0 0
+Transporter-1 CHEMICAL Ammonium CHEMICAL Pancreatic Cancer DISEASE
+lactate CHEMICAL 1,3-benzodioxole CHEMICAL 0 0
+Baohuoside CHEMICAL breast cancer metastasis DISEASE 0 0
+nasopharyngeal carcinoma DISEASE miR-16 CHEMICAL 0 0
+cisplatin CHEMICAL 0 0 0 0
+thyroid cancer DISEASE 0 0 0 0
+HCC DISEASE sorafenib CHEMICAL regorafenib CHEMICAL
+Tumor DISEASE colon cancer DISEASE 0 0
+basal cell carcinoma DISEASE 0 0 0 0
+1-(2-Chloro-2-(4-chlorophenyl-ethyl)-N-(4-fluorobenzyl)-1H-pyrazolo[3,4-d CHEMICAL pyrimidin-4-amine CHEMICAL Neuroblastoma DISEASE
+Anti-GPC3 Antibody-Conjugated CHEMICAL Radiosensitivity in Hepatocellular Carcinoma DISEASE 0 0
+Decursin CHEMICAL hypoxic tumour DISEASE 0 0
+AHNAK2 CHEMICAL papillary thyroid carcinoma DISEASE 0 0
+liothyronine CHEMICAL cancer DISEASE 0 0
+nasopharyngeal carcinoma DISEASE 0 0 0 0
+melanoma DISEASE 0 0 0 0
+quercetin CHEMICAL 0 0 0 0
+buparlisib CHEMICAL BKM120 CHEMICAL cetuximab CHEMICAL
+Alternaria DISEASE 0 0 0 0
+sulforaphane CHEMICAL doxorubicin CHEMICAL breast cancer DISEASE
+8-cyclopentyl-7,8-dihydropteridin-6(5H)-one CHEMICAL 0 0 0 0
+breast cancer DISEASE 0 0 0 0
+Tumors DISEASE 0 0 0 0
+Cancers DISEASE 0 0 0 0
+Allergic DISEASE 0 0 0 0
+hepatocellular carcinoma DISEASE miR-195 CHEMICAL 0 0
+Micheliolide CHEMICAL Inflammation DISEASE Axis DISEASE
+esophageal squamous cell carcinoma DISEASE 0 0 0 0
+colon cancer DISEASE 0 0 0 0
+Spiro-acridine CHEMICAL 0 0 0 0
+adenine CHEMICAL hepatocellular carcinoma DISEASE glycyrrhetinic CHEMICAL
+Lenalidomide CHEMICAL 0 0 0 0
+Ephemeranthol CHEMICAL Cancer DISEASE 0 0
+acetazolamide CHEMICAL cisplatin CHEMICAL head and neck squamous cell carcinoma DISEASE
+Costunolide CHEMICAL Renal Cell Carcinoma DISEASE 0 0
+Safflower CHEMICAL osteoarthritis DISEASE inflammation DISEASE
+Tumor DISEASE hepatocellular carcinoma DISEASE vincristine sulfate CHEMICAL
+P-Glycoprotein DISEASE Cancers DISEASE 0 0
+1-aryl-1H-naphtho[2,3-d][1,2,3]triazole-4,9-dione CHEMICAL trytophan CHEMICAL 0 0
+colorectal carcinoma DISEASE 0 0 0 0
+tyrosol CHEMICAL inflammation DISEASE 0 0
+tumor DISEASE thyroid carcinoma DISEASE 0 0
+isocitrate CHEMICAL glioma DISEASE 0 0
+Plantamajoside CHEMICAL human cervical cancer DISEASE 0 0
+metastasis DISEASE nasopharyngeal carcinoma DISEASE 0 0
+2-O-Methylmagnolol CHEMICAL Magnolol CHEMICAL Hepatocellular Carcinoma DISEASE
+tumour DISEASE pancreatic cancer DISEASE 0 0
+Curcumin CHEMICAL Colorectal Cancer DISEASE 0 0
+1H-indazole-3-carboxamide CHEMICAL 0 0 0 0
+triple-negative breast cancer DISEASE 0 0 0 0
+Podophyllotoxin-polyacrylic acid conjugate CHEMICAL breast cancer DISEASE 0 0
+Papaverine CHEMICAL Neuropathy DISEASE Axis DISEASE
+Thymosin CHEMICAL myeloid DISEASE NSCLC DISEASE
+imidazolopyridone CHEMICAL 0 0 0 0
+Hydroxytyrosol CHEMICAL Gut Injury DISEASE 0 0
+Linalool CHEMICAL human T cell acute lymphoblastic leukemia DISEASE 0 0
+indolizine CHEMICAL G2/M CHEMICAL 0 0
+ethylenediamine CHEMICAL oxygen CHEMICAL NO CHEMICAL
+curcumin CHEMICAL liver cancer DISEASE 0 0
+aconitine CHEMICAL 0 0 0 0
+Ebselen CHEMICAL 0 0 0 0
+SHH CHEMICAL cervical carcinoma DISEASE 0 0
+N,N'-bis(1,5-dimethyl-2-phenyl-1,2-dihydro-3-oxopyrazol-4-yl) sebacamide CHEMICAL osteoarthritis DISEASE 0 0
+flavone Chrysin CHEMICAL 0 0 0 0
+Hepatocellular carcinoma DISEASE 0 0 0 0
+bran CHEMICAL cyanidin 3-glucoside CHEMICAL prostate cancer DISEASE
+Squamous Carcinoma DISEASE 0 0 0 0
+Q deficiency DISEASE 0 0 0 0
+curcumin CHEMICAL cancer DISEASE 0 0
+Hepatocellular Carcinoma DISEASE AMPK-FOXO1-ULK1 CHEMICAL 0 0
+Caffeic Acid CHEMICAL Bortezomib CHEMICAL Cancer DISEASE
+Azine CHEMICAL Colorectal Cancer DISEASE 0 0
+tumor DISEASE metastasis DISEASE renal cell carcinoma DISEASE
+Neuroendocrine Cancer DISEASE 0 0 0 0
+NMDA CHEMICAL encephalitis DISEASE 0 0
+PER1/TUBB2B CHEMICAL endometrial cancer DISEASE circadian rhythm disorders DISEASE
+Cancer DISEASE 0 0 0 0
+Pyrrolo[2,3-d]pyrimidine CHEMICAL 0 0 0 0
+Lung Adenocarcinoma DISEASE 0 0 0 0
+Aliphatic Amine-Linked Triaryl CHEMICAL 0 0 0 0
+breast cancer DISEASE 0 0 0 0
+Tumor DISEASE NSCLC DISEASE 0 0
+Chromenopyridin A DISEASE N-methoxy-1-pyridone alkaloid CHEMICAL Penicillium nothofagi CHEMICAL
+Kaempferol CHEMICAL Penthorum chinense CHEMICAL acetaminophen-induced hepatotoxicity DISEASE
+Cervical Carcinoma DISEASE 0 0 0 0
+acquisition - Cullen corylifolium DISEASE 0 0 0 0
+hepatocarcinogenesis DISEASE 0 0 0 0
+Anaplastic Lymphoma DISEASE Tumor DISEASE 0 0
+Curcumin CHEMICAL Derivates CHEMICAL Gastric Cancer DISEASE
+Samarium-153 CHEMICAL iPSMA-Bombesin Heterodimeric CHEMICAL 0 0
+Excitotoxic Damage DISEASE 0 0 0 0
+aminolevulinic CHEMICAL protoporphyrin CHEMICAL renal cell carcinoma DISEASE
+bilocularin A carbamate CHEMICAL leucine CHEMICAL prostate cancer DISEASE
+Vitamin D CHEMICAL Nonmelanoma Skin Cancers DISEASE 0 0
+calix[4]arene-based carbonyl amide CHEMICAL 0 0 0 0
+Acid CHEMICAL Epilepsy DISEASE 0 0
+urothelial carcinoma DISEASE 0 0 0 0
+Propofol CHEMICAL Pancreatic Cancer DISEASE 0 0
+Tieghemella CHEMICAL Pierre DISEASE skin cancer DISEASE
+laryngeal squamous cell carcinoma DISEASE 0 0 0 0
+Withanolide CHEMICAL Withaferin CHEMICAL 0 0
+death DISEASE 0 0 0 0
+flavanone CHEMICAL 0 0 0 0
+Acid A CHEMICAL Breast Cancer DISEASE Metastasis DISEASE
+ginsenoside CHEMICAL tumor DISEASE metastasis DISEASE
+Tyrosine CHEMICAL Erlotinib CHEMICAL Gefitinib CHEMICAL
+Semisynthesis CHEMICAL cancer DISEASE 0 0
+Hepatocellular Carcinoma DISEASE 0 0 0 0
+Glioma DISEASE TE671 Rhabdomyosarcoma Cancer DISEASE 0 0
+Parkinsonism DISEASE Ursolic Acid CHEMICAL PD DISEASE
+ACVR1 CHEMICAL Esophageal Squamous Cell Carcinoma DISEASE 0 0
+Tumor DISEASE 0 0 0 0
+Ductal Adenocarcinoma DISEASE 0 0 0 0
+Cryptotanshinone CHEMICAL Hepatocellular Carcinoma DISEASE 0 0
+BPS CHEMICAL breast cancer DISEASE 0 0
+alpha-Cyperone CHEMICAL 0 0 0 0
+Tumor DISEASE Hepatocellular Carcinoma DISEASE 0 0
+icotinib CHEMICAL 0 0 0 0
+Baicalein CHEMICAL 0 0 0 0
+esophageal squamous cell carcinoma DISEASE 0 0 0 0
+Solidagenone CHEMICAL Solidago chilensis Meyen CHEMICAL skin inflammation DISEASE
+Lithium Chloride CHEMICAL Cancer DISEASE 0 0
+Penisarins A CHEMICAL B, Sesquiterpene Coumarins CHEMICAL Penicillium DISEASE
+aggressive osteosarcoma DISEASE melphalan flufenamide CHEMICAL 0 0
+cancer DISEASE 0 0 0 0
+Benzamide CHEMICAL 0 0 0 0
+tumor DISEASE 0 0 0 0
+colorectal cancer DISEASE 0 0 0 0
+Odontoma DISEASE 0 0 0 0
+Irisin CHEMICAL 0 0 0 0
+Gefitinib CHEMICAL glycolysis CHEMICAL death DISEASE
+carbazole CHEMICAL lung cancer DISEASE 0 0
+pyrrolidine CHEMICAL 0 0 0 0
+hepatocarcinogenesis DISEASE 0 0 0 0
+formaldehyde CHEMICAL 0 0 0 0
+Thymoquinone CHEMICAL Breast Cancer DISEASE 0 0
+honokiol CHEMICAL human tongue cancer DISEASE 0 0
+IAP CHEMICAL Embelin CHEMICAL 0 0
+Cudraflavanone B CHEMICAL Cudrania DISEASE 0 0
+heterocyclic hydroxamic acids CHEMICAL 0 0 0 0
+valproic acid CHEMICAL PAHs CHEMICAL 0 0
+doxorubicin CHEMICAL phthalocyanines CHEMICAL 0 0
+thyroid cancer DISEASE 0 0 0 0
+Metastasis DISEASE Human Bladder Cancer DISEASE 0 0
+Lymphoma DISEASE 0 0 0 0
+Crocin CHEMICAL thyroid cancer DISEASE FTC-133 CHEMICAL
+tamoxifen CHEMICAL MCF-7 CHEMICAL 0 0
+Cancer DISEASE Pancreatic Cancer DISEASE 0 0
+Esophageal Squamous Cell Carcinoma DISEASE 0 0 0 0
+cancer DISEASE cancer DISEASE major chronic diseases DISEASE
+Acriflavine CHEMICAL Pancreas Cancer DISEASE 0 0
+metastasis DISEASE prostate carcinoma DISEASE 0 0
+S-petasin CHEMICAL melanoma DISEASE 0 0
+tumour DISEASE papillary thyroid carcinoma DISEASE 0 0
+Capsaicin CHEMICAL breast cancer DISEASE 0 0
+Procyanidin CHEMICAL polyphenolic compound CHEMICAL 0 0
+Ephemeranthol CHEMICAL Cancer DISEASE 0 0
+Spermine CHEMICAL 0 0 0 0
+Saffron Crudes CHEMICAL Colorectal Cancer DISEASE 0 0
+Sclareol CHEMICAL Small Cell Lung Carcinoma DISEASE 0 0
+Esophageal Cancer DISEASE Fanconi anemia DISEASE 0 0
+gallic acid CHEMICAL 0 0 0 0
+Paclitaxel CHEMICAL Cancer DISEASE 0 0
+beta-anhydroicaritine CHEMICAL 0 0 0 0
+Vanillin CHEMICAL 0 0 0 0
+1-aryl-1H-naphtho[2,3-d][1,2,3]triazole-4,9-dione CHEMICAL trytophan CHEMICAL 0 0
+human hepatocellular carcinoma DISEASE 0 0 0 0
+Estragole CHEMICAL ulcers DISEASE 0 0
+Nobiletin CHEMICAL cancer DISEASE 0 0
+cell cycle arrest DISEASE triple-negative breast cancer DISEASE 0 0
+Matrine CHEMICAL liver injury DISEASE 0 0
+Conjugate CHEMICAL Breast, Gastric DISEASE Lung Cancers DISEASE
+heparin CHEMICAL rivaroxaban CHEMICAL tumor DISEASE
+Sorafenib CHEMICAL 0 0 0 0
+diallyl trisulfide CHEMICAL DATS CHEMICAL inflammation DISEASE
+Esophageal Squamous Carcinoma DISEASE 0 0 0 0
+rhein CHEMICAL Rv0183 CHEMICAL 0 0
+Micheliolide CHEMICAL 0 0 0 0
+death DISEASE ciprofloxacin CHEMICAL 0 0
+Hydroxybenzofuranyl-pyrazolyl CHEMICAL Hydroxyphenyl-pyrazolyl Chalcones CHEMICAL Pyrazoline CHEMICAL
+Norwogonin flavone CHEMICAL human colon cancer DISEASE 0 0
+ethyl pyruvate CHEMICAL 0 0 0 0
+troxerutin CHEMICAL cervical cancer DISEASE 0 0
+rosmarinic acid CHEMICAL Hep-G2 liver carcinoma DISEASE 0 0
+benzo[d]oxazol-5-amine CHEMICAL cervical cancer DISEASE 0 0
+hepatocellular carcinoma DISEASE 0 0 0 0
+thumb-palm DISEASE 0 0 0 0
+caffeic acid CHEMICAL 0 0 0 0
+hepatocellular carcinoma DISEASE 0 0 0 0
+Aromatic CHEMICAL Aaptamine DISEASE Lymphoma DISEASE
+chrysin-chromene-spirooxindole CHEMICAL Lewis lung carcinoma DISEASE 0 0
+spiralis muscle larvae excretory/secretory DISEASE non-small-cell lung cancer DISEASE 0 0
+cyanine CHEMICAL 0 0 0 0
+hepatitis C DISEASE 0 0 0 0
+Metastasis of Hepatocellular Carcinoma DISEASE 0 0 0 0
+CD133- DISEASE Liver Cancer DISEASE 0 0
+ATRA CHEMICAL Cancer DISEASE 0 0
+Hepatitis B DISEASE 0 0 0 0
+Triptolide CHEMICAL pancreatic cancer DISEASE 0 0
+osteoarthritis DISEASE 0 0 0 0
+Mefloquine CHEMICAL Esophageal Squamous Cell Carcinoma Tumor DISEASE 0 0
+dextran sulfate sodium-induced CHEMICAL colitis DISEASE PERK-ATF4-CHOP CHEMICAL
+Cancer DISEASE 0 0 0 0
+Cancer DISEASE 0 0 0 0
+Cetyltrimethylammonium Bromide CHEMICAL HA22T/VGH CHEMICAL 0 0
+Thymoquinone CHEMICAL Human Renal Carcinoma Caki-1 DISEASE 0 0
+Oxazol-2-amine CHEMICAL 0 0 0 0
+Pyrazoline CHEMICAL Pyrrolidine-2,5-dione CHEMICAL 0 0
+Pristine C60 Fullerene CHEMICAL Hepatocellular Carcinoma DISEASE 0 0
+Dual-Inhibitors DISEASE Neuroendocrine Prostate Cancer DISEASE 0 0
+Cancer DISEASE 0 0 0 0
+nasopharyngeal carcinoma DISEASE 0 0 0 0
+breast cancer DISEASE 0 0 0 0
+trypthantrin CHEMICAL cancer DISEASE 0 0
+Death DISEASE Colorectal Carcinoma DISEASE 0 0
+death DISEASE luminal CHEMICAL triple-negative breast cancer DISEASE
+Fraxinellone CHEMICAL cancer DISEASE 0 0
+irinotecan CHEMICAL hepatocellular carcinoma DISEASE 0 0
+cancer DISEASE 0 0 0 0
+acridone CHEMICAL liver damage DISEASE NAFLD/NASH DISEASE
+Clear Cell Renal Carcinoma DISEASE Toxicity DISEASE 0 0
+Human Pain DISEASE 0 0 0 0
+Mitoxantrone CHEMICAL prostate cancer DISEASE 0 0
+Hepatocellular Carcinoma DISEASE 0 0 0 0
+Cancer DISEASE 0 0 0 0
+hepatocellular carcinoma DISEASE 0 0 0 0
+P. falciparum DISEASE 0 0 0 0
+Tumor DISEASE CRC DISEASE 0 0
+Hypoxic gastric cancer-derived DISEASE metastasis DISEASE 0 0
+bone gain DISEASE 0 0 0 0
+pyridoxine CHEMICAL Flavobacterium DISEASE 0 0
+metastasis DISEASE clear cell renal cell carcinoma DISEASE 0 0
+Puerariae Lobatae Radix CHEMICAL hepatocellular carcinoma DISEASE 0 0
+pyrazole CHEMICAL 0 0 0 0
+Metastasis DISEASE Colorectal Carcinoma DISEASE 0 0
+barbata-Hedyotis DISEASE breast cancer DISEASE 0 0
+triple-negative breast cancers DISEASE 0 0 0 0
+Gastric Carcinoma DISEASE 0 0 0 0
+garlic organosulfur CHEMICAL respiratory diseases DISEASE 0 0
+Tyrosine CHEMICAL 0 0 0 0
+DU145 prostate carcinoma DISEASE oxygen CHEMICAL 0 0
+oesophageal tumours DISEASE oxygen CHEMICAL Pyrazinib CHEMICAL
+Neferine CHEMICAL carcinoma DISEASE Taxol CHEMICAL
+Gelatin- CHEMICAL 0 0 0 0
+vitexinin septic encephalopathy DISEASE 0 0 0 0
+triple-negative breast cancer DISEASE 0 0 0 0
+indomethacin CHEMICAL cancer DISEASE lapatinib CHEMICAL
+Capsaicin CHEMICAL Nasopharyngeal Carcinoma DISEASE 0 0
+calcium CHEMICAL lung adenocarcinoma DISEASE 0 0
+Lobetyolin CHEMICAL Radix Codonopsis CHEMICAL Dangshen CHEMICAL
+ellagic acid-derived CHEMICAL 0 0 0 0
+miR-143 CHEMICAL Hepatocellular Carcinoma DISEASE 0 0
+[1,2,3]triazolo[4,5-d]pyrimidine CHEMICAL hydrazone CHEMICAL 0 0
+Dermatitis DISEASE 0 0 0 0
+Laryngeal Squamous Cell Carcinoma DISEASE 0 0 0 0
+3,4-dihydroquinolin-2(1H)-one CHEMICAL diabetic complications DISEASE 0 0
+nasopharyngeal carcinoma DISEASE tumor DISEASE 0 0
+Vandetanib CHEMICAL EGFR-expressing cutaneous squamous cell carcinoma DISEASE 0 0
+chronic myeloid leukemia DISEASE 0 0 0 0
+Vitamin K3 CHEMICAL Cervical Carcinoma DISEASE 0 0
+Docosahexaenoic acid CHEMICAL breast tumor DISEASE 0 0
+Proptosis DISEASE 0 0 0 0
+diabetes mellitus DISEASE metformin CHEMICAL bladder cancer DISEASE
+acids CHEMICAL graft-versus-host disease DISEASE 0 0
+hepatocellular carcinoma DISEASE 0 0 0 0
+Galeterone CHEMICAL breast cancer DISEASE MNK/eIF4E CHEMICAL
+resveratrol CHEMICAL 0 0 0 0
+Bacterial-like nonribosomal peptide synthetases CHEMICAL Mortierella alpina CHEMICAL 0 0
+esophageal squamous cell carcinoma DISEASE 0 0 0 0
+nanoparticles CHEMICAL 0 0 0 0
+benzimidazole CHEMICAL methoxylated aryl radicals CHEMICAL colon cancer DISEASE
+Hepatocellular Carcinoma DISEASE 0 0 0 0
+tumor DISEASE clear cell renal cell carcinoma DISEASE 0 0
+Acid CHEMICAL 0 0 0 0
+N-methyl-2-pyrollidone CHEMICAL NMP CHEMICAL inflammation DISEASE
+Estradiol CHEMICAL Esophageal Carcinoma DISEASE 0 0
+Albendazole CHEMICAL 0 0 0 0
+Colibactin CHEMICAL 0 0 0 0
+Papillary Thyroid Carcinoma DISEASE 0 0 0 0
+death DISEASE melanoma DISEASE 0 0
+darapladib CHEMICAL glioma DISEASE mitochondrial dysfunction DISEASE
+quinazolinone CHEMICAL 0 0 0 0
+Oxazolidinone CHEMICAL Multidrug-Resistant Tuberculosis CHEMICAL 0 0
+HCC DISEASE 0 0 0 0
+Furo[2,3-b]quinoline CHEMICAL Anti-Breast Cancer DISEASE 0 0
+miriplatin CHEMICAL hepatocellular carcinoma DISEASE 0 0
+Hepatitis B DISEASE 0 0 0 0
+Sublethal CHEMICAL hepatocellular carcinoma DISEASE 0 0
+FL3 Combats CHEMICAL 0 0 0 0
+laryngeal squamous cell carcinoma DISEASE 0 0 0 0
+Quinazoline CHEMICAL 0 0 0 0
+Aguerin B CHEMICAL Sesquiterpene Lactone CHEMICAL behen CHEMICAL
+decreases esophageal squamous carcinoma DISEASE 0 0 0 0
+Schisandrin B CHEMICAL cerebral ischemia DISEASE reperfusion injury DISEASE
+A3G-induced DISEASE hepatitis B DISEASE carcinoma DISEASE
+prostate cancer DISEASE 0 0 0 0
+7-Acetoxycoumarin CHEMICAL 0 0 0 0
+Paclitaxel CHEMICAL Malignant Behaviors of Hepatocellular Carcinoma DISEASE 0 0
+LSD1 CHEMICAL ovarian cancer DISEASE 0 0
+esophageal cancer DISEASE 0 0 0 0
+Cetuximab-Triptolide Conjugate CHEMICAL Cancers DISEASE 0 0
+Diphenyl Diselenide CHEMICAL 0 0 0 0
+sterols CHEMICAL 0 0 0 0
+liver cancer DISEASE 0 0 0 0
+Norcantharidin CHEMICAL G2/M arrest DISEASE ERK CHEMICAL
+cancer DISEASE 0 0 0 0
+metastasis DISEASE hepatocellular carcinoma DISEASE 0 0
+Tryptanthrin CHEMICAL cancer DISEASE tumor DISEASE
+Typhonium flagelliforme leaves ethanol extract CHEMICAL 0 0 0 0
+Fu Recipe CHEMICAL Colorectal Cancer DISEASE Metastasis DISEASE
+Pancreatic Cancer DISEASE 0 0 0 0
+TET2 CHEMICAL nasopharyngeal carcinoma DISEASE 0 0
+Rapamycin CHEMICAL Renal Cancer DISEASE Tumor DISEASE
+thiazolo[4,5-d]pyrimidine CHEMICAL 0 0 0 0
+dihydroartemisinin CHEMICAL resveratrol CHEMICAL cancer DISEASE
+6-phenyl-1,3a,4,10b-tetrahydro-2H-benzo[c]thiazolo[4,5-e]azepin-2-one CHEMICAL 0 0 0 0
+Lung Squamous Cell Carcinoma DISEASE 0 0 0 0
+Butorphanol CHEMICAL Ovarian Cancer DISEASE 0 0
+hydrazone CHEMICAL PLK1 CHEMICAL 0 0
+cisplatin CHEMICAL non-small cell lung cancer DISEASE 0 0
+Stemness in Thyroid Carcinoma DISEASE 0 0 0 0
+miR-138 CHEMICAL invasion of lung cancer DISEASE 0 0
+osteosarcoma DISEASE metastasis DISEASE 0 0
+Glycolysis CHEMICAL 0 0 0 0
+papillary thyroid carcinoma DISEASE 0 0 0 0
+curcumin CHEMICAL cancers DISEASE 0 0
+esophageal cancer DISEASE 0 0 0 0
+metastasis DISEASE esophageal squamous cell carcinoma DISEASE 0 0
+Dopamine CHEMICAL Cancer DISEASE 0 0
+4-aniline quinazoline CHEMICAL hydrogen sulfide CHEMICAL H2S CHEMICAL
+cisplatin CHEMICAL non-small-cell lung carcinoma DISEASE 0 0
+imatinib CHEMICAL chronic myeloid leukemia DISEASE 0 0
+Tumor DISEASE 5-Fu CHEMICAL Hepatocellular Carcinoma DISEASE
+TRAIL CHEMICAL breast cancer DISEASE 0 0
+Mandelic Acid Peptidomimetic CHEMICAL 0 0 0 0
+Cervical Squamous Cell Carcinoma DISEASE 0 0 0 0
+Malignant Thyroid Nodular Disease DISEASE 0 0 0 0
+increases multiple myeloma DISEASE bortezomib CHEMICAL 0 0
+hepatocellular carcinoma DISEASE 0 0 0 0
+arginine CHEMICAL adenosine CHEMICAL breast cancer DISEASE
+cervical cancer DISEASE 0 0 0 0
+Curcumin CHEMICAL Cancer DISEASE 0 0
+Panax notoginseng saponins CHEMICAL colitis-associated colorectal cancer DISEASE 0 0
+Carcinoma DISEASE 0 0 0 0
+3',4'-dihydroxyphenyl- CHEMICAL quinazolinone CHEMICAL 0 0
+amentoflavone CHEMICAL 0 0 0 0
+Liver Cancer DISEASE 0 0 0 0
+Ferulate CHEMICAL Colon Cancer DISEASE 0 0
+Celecoxib CHEMICAL poly(amidoamine CHEMICAL temozolomide CHEMICAL
+cyclosporin CHEMICAL NV556 CHEMICAL HCV infection DISEASE
+human lung cancer DISEASE myeloid leukemia DISEASE 0 0
+trisubstituted pyrazolines CHEMICAL 0 0 0 0
+Oridonin CHEMICAL Breast Cancer DISEASE 0 0
+hepatocellular carcinoma DISEASE 0 0 0 0
+Cytochalasins CHEMICAL 0 0 0 0
+Apigenin CHEMICAL 0 0 0 0
+Bladder Cancer Metastasis DISEASE Everolimus CHEMICAL Sulforaphane CHEMICAL
+cordycepin CHEMICAL 0 0 0 0
+Cisplatin CHEMICAL Squamous Cell Carcinoma DISEASE 0 0
+diazepam CHEMICAL sulfonamide CHEMICAL 0 0
+Natural bioactive 4-Hydroxyisophthalic acid CHEMICAL cancer DISEASE 0 0
+tumor DISEASE hepatocellular carcinoma DISEASE 0 0
+Saponin CHEMICAL Hepatocellular Carcinoma DISEASE 0 0
+Ganoderic acid D CHEMICAL autophagic cell death DISEASE ESCC DISEASE
+Prenylated xanthones and benzophenones CHEMICAL Garcinia bracteata CHEMICAL 0 0
+Magnolol CHEMICAL Tumor DISEASE Hepatocellular Carcinoma DISEASE
+lactate CHEMICAL human renal cell carcinoma DISEASE 0 0
+cancer DISEASE 0 0 0 0
+PI3Kdelta CHEMICAL B cell lymphomas DISEASE chronic lymphocytic leukemia DISEASE
+cancer DISEASE 0 0 0 0
+PDAC CHEMICAL demethylating CHEMICAL Hedgehog CHEMICAL
+Bousigonia CHEMICAL 0 0 0 0
+BET CHEMICAL HMBA CHEMICAL MEK CHEMICAL
+gallic acid CHEMICAL human colon carcinoma DISEASE 0 0
+Interferon alpha CHEMICAL thrombocythemia DISEASE 0 0
+ent-kaur-15-en-17-al-18-oic acid CHEMICAL P38/MAPK CHEMICAL 0 0
+miR-96/EVI1/miR-449a Axis CHEMICAL Nasopharyngeal Carcinoma DISEASE Tumor DISEASE
+superagonist CHEMICAL IFNgamma CHEMICAL leukemia DISEASE
+Magnolol CHEMICAL atrophy DISEASE cancer cachexia DISEASE
+SAR439859 CHEMICAL estrogen CHEMICAL 0 0
+Vicenin-2 DISEASE Liver Carcinoma DISEASE 0 0
+bradykinin CHEMICAL 0 0 0 0
+curcumin CHEMICAL resveratrol CHEMICAL colorectal cancers DISEASE
+Hepatocellular Carcinoma DISEASE IFN-gamma CHEMICAL 0 0
+Paeonol CHEMICAL dextran sodium sulfate CHEMICAL colitis DISEASE
+Polyamine CHEMICAL Myeloid DISEASE 0 0
+nitrate CHEMICAL cancer DISEASE 0 0
+methotrexate CHEMICAL 0 0 0 0
+OSCC DISEASE oral squamous cell carcinoma DISEASE 0 0
+flavanone CHEMICAL 0 0 0 0
+Curcumin CHEMICAL cancer DISEASE paclitaxel CHEMICAL
+Hedgehog CHEMICAL gallbladder carcinoma DISEASE 0 0
+aryl sulfonyl hydrazones CHEMICAL 1,3-diaryl CHEMICAL 0 0
+Patrinia CHEMICAL 0 0 0 0
+cancer DISEASE 0 0 0 0
+Endertiins CHEMICAL 0 0 0 0
+colorectal cancer DISEASE 0 0 0 0
+sinularin CHEMICAL 0 0 0 0
+Naringenin CHEMICAL Sericin CHEMICAL 0 0
+human lung cancer DISEASE 0 0 0 0
+Shikonin CHEMICAL Cancer DISEASE 0 0
+bladder cancer DISEASE 0 0 0 0
+IgA nephropathy DISEASE 0 0 0 0
+naringin CHEMICAL glioblastoma cancer DISEASE 0 0
+chrysin-chromene-spirooxindole CHEMICAL Lewis lung carcinoma DISEASE 0 0
+P- CHEMICAL ruthenium CHEMICAL rhodium CHEMICAL
+phenanthroimidazole CHEMICAL stabilizers CHEMICAL 0 0
+obtusaquinone CHEMICAL gliomas DISEASE 0 0
+selenium CHEMICAL 0 0 0 0
+renal cell cancer DISEASE 0 0 0 0
+Spirooxindole CHEMICAL 0 0 0 0
+Berberine CHEMICAL Colitis DISEASE 0 0
+ROX CHEMICAL HCC DISEASE 0 0
+L-3-n-butylphthalide CHEMICAL inflammation DISEASE edema DISEASE
+Angustoline CHEMICAL Esophageal Tumors DISEASE 0 0
+Gamma-aminobutyric acid CHEMICAL Lactobacillus brevis A3 CHEMICAL toxicity DISEASE
+tumour DISEASE 0 0 0 0
+triple-negative breast cancer DISEASE 0 0 0 0
+Acetyl-11-keto-beta-boswellic acid CHEMICAL cisplatin CHEMICAL non-small cell lung cancer DISEASE
+Statins CHEMICAL OSCC DISEASE 0 0
+Taxanes CHEMICAL Cancer DISEASE 0 0
+cancer DISEASE 0 0 0 0
+Curcumin CHEMICAL triple-negative breast cancer DISEASE 0 0
+Germacrone CHEMICAL Toxicity DISEASE 0 0
+head and neck cancer DISEASE 0 0 0 0
+Nobiletin CHEMICAL squamous cell carcinoma DISEASE 0 0
+Sanguinarine CHEMICAL 0 0 0 0
+HCC DISEASE 0 0 0 0
+hypersensitivity DISEASE oxaliplatin CHEMICAL 0 0
+Kaempferol CHEMICAL calcium CHEMICAL 0 0
+Curcumin CHEMICAL Hepatocellular Carcinoma DISEASE Axis DISEASE
+Berberine CHEMICAL hepatocellular carcinoma DISEASE 0 0
+adenosine CHEMICAL antagonist-Caffeine CHEMICAL obesity DISEASE
+Licochalcone A CHEMICAL lung cancer DISEASE 0 0
+thiazole CHEMICAL Metalloproteinase-2 CHEMICAL 0 0
+Arsenic trioxide CHEMICAL head and neck cancer DISEASE 0 0
+fungal alkaloid CHEMICAL mycoleptodiscin B CHEMICAL 0 0
+sulfate CHEMICAL 0 0 0 0
+Curcumin CHEMICAL Hepatocellular Carcinoma DISEASE 0 0
+emodin CHEMICAL breast cancer DISEASE 0 0
+miR-768-3p DISEASE HBV-related hepatocellular carcinoma DISEASE 0 0
+methyl beta-orsellinate CHEMICAL breast cancer DISEASE 0 0
+5-HT CHEMICAL glioblastoma DISEASE 0 0
+Nano-Cerium CHEMICAL 0 0 0 0
+cancer DISEASE 0 0 0 0
+proanthocyanidin-chitosan CHEMICAL human colorectal carcinoma DISEASE 0 0
+Breast Cancer DISEASE 0 0 0 0
+cancer DISEASE 0 0 0 0
+Lysine CHEMICAL Nasopharyngeal Carcinoma DISEASE 0 0
+breast cancer DISEASE 0 0 0 0
+neuroinflammation DISEASE pilocarpine-induced status epilepticus DISEASE 0 0
+tumor DISEASE malignant bone diseases DISEASE 0 0
+Cancer DISEASE 0 0 0 0
+tumor DISEASE 0 0 0 0
+Aurovertin B CHEMICAL triple-negative breast cancer DISEASE ATP CHEMICAL
+Neferine CHEMICAL esophageal squamous cell carcinoma DISEASE 0 0
+B-norcholesteryl benzimidazole CHEMICAL ovarian cancer DISEASE 0 0
+Parthenolide CHEMICAL human lung cancer DISEASE 0 0
+myelodysplastic syndromes DISEASE neoplasms DISEASE 0 0
+non-small cell lung cancer DISEASE 0 0 0 0
+MiR-221/222 DISEASE aggressive papillary thyroid carcinoma DISEASE 0 0
+epigallocatechin-3-gallate CHEMICAL diallyl trisulfide CHEMICAL nanoparticles CHEMICAL
+Procyanidin B1 CHEMICAL 0 0 0 0
+chemoresistance of colon cancer DISEASE 0 0 0 0
+Lycorine hydrochloride CHEMICAL FBXW7-MCL1 CHEMICAL gastric cancer DISEASE
+Solasonine CHEMICAL hepatoma carcinoma DISEASE glutathione CHEMICAL
+Imidazo[2,1-b]Thiazole CHEMICAL Thiadiazole CHEMICAL 0 0
+rapamycin CHEMICAL papillary thyroid cancer DISEASE 0 0
+esophageal squamous cell carcinoma DISEASE 0 0 0 0
+benzofuran CHEMICAL 0 0 0 0
+17-AAG glucoside CHEMICAL 0 0 0 0
+Cancer DISEASE Metastasis DISEASE 0 0
+hepatocellular carcinoma DISEASE 0 0 0 0
+Annexin CHEMICAL Carcinoma DISEASE 0 0
+Fibrosis DISEASE 0 0 0 0
+pirfenidone CHEMICAL pyridone compound CHEMICAL 5-methyl-1-phenylpyridin-2[H-1]-one CHEMICAL
+tyrosine CHEMICAL renal cell carcinoma DISEASE 0 0
+Antidepressant CHEMICAL sertraline CHEMICAL 0 0
+cancer DISEASE cancer DISEASE 0 0
+Puerarin 6''-O-xyloside CHEMICAL HCC DISEASE 0 0
+quinic acid CHEMICAL glioblastoma DISEASE 0 0
+chlorogenic acid CHEMICAL sodium CHEMICAL inflammation DISEASE
+gefitinib CHEMICAL 0 0 0 0
+pentamethoxylated flavone CHEMICAL MCF-7 breast cancer CHEMICAL 0 0
+DCZ3301 CHEMICAL bortezomib CHEMICAL multiple myeloma DISEASE
+Tumorigenesis of Hepatocellular Carcinoma DISEASE 0 0 0 0
+tyrosine CHEMICAL non-small cell lung cancer DISEASE 0 0
+gastric cancer DISEASE 0 0 0 0
+tumor DISEASE kidney renal clear cell carcinoma DISEASE 0 0
+Aggressive Human Breast Adenocarcinoma DISEASE 0 0 0 0
+PAWI-2 CHEMICAL tumor DISEASE pancreatic cancer DISEASE
+nasopharyngeal carcinoma DISEASE 0 0 0 0
+Tetrazole CHEMICAL 0 0 0 0
+multiple myeloma DISEASE 0 0 0 0
+Astaxanthin CHEMICAL Helicobacter pylori-Induced Gastric Carcinoma DISEASE 0 0
+non-small cell lung cancer DISEASE 0 0 0 0
+hepatocellular carcinoma DISEASE 0 0 0 0
+3-(N-benzyltriazolylmethyl)-13alpha-oestrone CHEMICAL 0 0 0 0
+Dihydroquercetin CHEMICAL Inflammation DISEASE 0 0
+Nanodroplets CHEMICAL Hepatocellular Carcinoma DISEASE 0 0
+paclitaxel CHEMICAL 0 0 0 0
+heparin CHEMICAL cancer DISEASE 0 0
+isoquinolinone CHEMICAL 0 0 0 0
+troxerutin CHEMICAL breast cancer DISEASE 0 0
+Cryptotanshinone CHEMICAL muscle wasting DISEASE cancer cachexia DISEASE
+Squamous Cell Carcinoma DISEASE 0 0 0 0
+Hepatocellular Carcinoma DISEASE Vandetanib CHEMICAL 0 0
+IPN60090 CHEMICAL GLS-1 CHEMICAL 0 0
+GSH CHEMICAL 0 0 0 0
+hepatocellular carcinoma DISEASE 0 0 0 0
+lysine CHEMICAL tumor DISEASE tumor DISEASE
+skin tumors DISEASE 0 0 0 0
+curcumin CHEMICAL glioma DISEASE 0 0
+toxicity DISEASE Stephania tetrandra S. CHEMICAL 0 0
+esophageal cancer tumor DISEASE 0 0 0 0
+Aglycone DISEASE 0 0 0 0
+Carboximidamide CHEMICAL 0 0 0 0
+amino acid CHEMICAL 0 0 0 0
+4'-Geranyloxyferulic Acid CHEMICAL 0 0 0 0
+apatinib CHEMICAL hepatocellular carcinoma DISEASE 0 0
+Oxytocin CHEMICAL Vulvovaginal Atrophy DISEASE 0 0
+Gambogic acid CHEMICAL nanomedicine CHEMICAL cancer DISEASE
+nasopharyngeal carcinoma DISEASE 0 0 0 0
+Afatinib CHEMICAL Lung Adenocarcinoma DISEASE 0 0
+silibinin CHEMICAL nanoparticles CHEMICAL MIA CHEMICAL
+Paclitaxel CHEMICAL ovarian cancer DISEASE 0 0
+Metastatic Lung Adenocarcinoma DISEASE 0 0 0 0
+Ascofuranone CHEMICAL cancer DISEASE 0 0
+hepatocellular carcinoma DISEASE 0 0 0 0
+Aloperine CHEMICAL Bladder Cancer DISEASE 0 0
+FOLFOX CHEMICAL Nivolumab CHEMICAL Trastuzumab CHEMICAL
+hepatocellular carcinoma DISEASE 0 0 0 0
+Malignant Melanoma Cancer DISEASE 0 0 0 0
+Combretastatins CHEMICAL 0 0 0 0
+papillary thyroid cancer DISEASE 0 0 0 0
+Bismuth Oxide CHEMICAL Cisplatin CHEMICAL 0 0
+hepatocellular carcinoma DISEASE 0 0 0 0
+Cancer DISEASE 0 0 0 0
+seizure DISEASE neuroinflammation DISEASE 0 0
+oxadiazoles CHEMICAL hepatocellular cancer DISEASE 0 0
+acute myeloid leukaemia DISEASE 0 0 0 0
+Hyperforin CHEMICAL glioblastoma DISEASE 0 0
+Fibrosis DISEASE 0 0 0 0
+enzalutamide CHEMICAL 0 0 0 0
+vitamin D3 CHEMICAL colorectal cancer DISEASE 0 0
+Curcumin CHEMICAL head and neck cancer DISEASE 0 0
+Indole hydrazide compound CHEMICAL ZJQ-24 DISEASE death DISEASE
+Aspirin CHEMICAL hepatocellular carcinoma DISEASE 0 0
+glioma DISEASE doxorubicin CHEMICAL cycle arrest DISEASE
+oxygen species-mediate CHEMICAL gastric cancer DISEASE 0 0
+disulfiram CHEMICAL squamous cell carcinoma DISEASE 0 0
+[3,4-b]-quinolin-9-amine CHEMICAL triple-negative breast cancer DISEASE 0 0
+let-7b CHEMICAL hepatocellular carcinoma DISEASE 0 0
+Thymoquinone CHEMICAL 0 0 0 0
+Cordycepin CHEMICAL pancreatic cancer DISEASE 0 0
+Bufalin CHEMICAL hepatitis B virus-associated hepatocellular carcinoma DISEASE 0 0
+Breast Cancer DISEASE 0 0 0 0
+tetrahydroacridine CHEMICAL 0 0 0 0
+epigallocatechin gallate CHEMICAL cardiotoxicity DISEASE daunorubicin CHEMICAL
+Makaluvamine CHEMICAL Tumor DISEASE 0 0
+antitumor polyketide mithramycin CHEMICAL 0 0 0 0
+cancer DISEASE 0 0 0 0
+Pterostilbene CHEMICAL Inflammation DISEASE Steatohepatitis DISEASE
+cardiotoxicity DISEASE 0 0 0 0
+hydroxyapatite nanoparticles CHEMICAL 0 0 0 0
+hyperoside CHEMICAL breast cancer DISEASE paclitaxel CHEMICAL
+miR-143 CHEMICAL hepatocellular carcinoma DISEASE 0 0
+curcumin CHEMICAL PDT CHEMICAL amelanotic melanoma DISEASE
+cancer DISEASE 0 0 0 0
+esophageal squamous cell carcinoma DISEASE 0 0 0 0
+Cryptotanshinone CHEMICAL 0 0 0 0
+Tumor DISEASE 0 0 0 0
+5,6,8,9-tetrahydropyrazolo[5,1-b]quinazolin-7(3H)-one CHEMICAL Cyclohexa-1,4-dione CHEMICAL 0 0
+hepatocellular carcinoma DISEASE 0 0 0 0
+Metformin CHEMICAL colorectal cancer DISEASE 0 0
+hepatocellular carcinoma DISEASE 0 0 0 0
+reticulophagy CHEMICAL glioblastoma DISEASE 0 0
+Cancer DISEASE 0 0 0 0
+Renal Cell Carcinoma DISEASE 0 0 0 0
+cyclic heptapeptide CHEMICAL 0 0 0 0
+Tumor DISEASE Metastasis DISEASE Nasopharyngeal Carcinoma DISEASE
+Tetrahydroxy stilbene glycoside CHEMICAL acetaminophen-induced hepatotoxicity DISEASE 0 0
+sesamin CHEMICAL prostate adenocarcinoma DISEASE 0 0
+hepatocellular carcinoma DISEASE 0 0 0 0
+Viburnum opulus CHEMICAL p-coumaric acid CHEMICAL human colorectal carcinoma DISEASE
+thymoquinone CHEMICAL cancer DISEASE 0 0
+obesity DISEASE 0 0 0 0
+mutant-BRAF CHEMICAL melanoma DISEASE 0 0
+colorectal cancer DISEASE 0 0 0 0
+Promyelocytic Leukemia DISEASE Organosulfur CHEMICAL 0 0
+cucumbers CHEMICAL 0 0 0 0
+colorectal carcinoma DISEASE abdominal pain DISEASE 0 0
+MRT CHEMICAL MRT CHEMICAL 0 0
+Dehydroeffusol DISEASE non-small cell lung cancer DISEASE 0 0
+Hepatocellular Carcinoma DISEASE 0 0 0 0
+Thiobarbituric Acid CHEMICAL Lung Cancer DISEASE 0 0
+(Z)-2-Acetoxy-3-(3,4-Dihydroxyphenyl) Acrylic Acid CHEMICAL 0 0 0 0
+methyl CHEMICAL K alpha inhibitor CHEMICAL tumors DISEASE
+PI3Kalpha CHEMICAL cancer DISEASE 0 0
+MiR-625 DISEASE Tumor DISEASE 0 0
+Peripheral Neuropathy DISEASE Cancer DISEASE 0 0
+Carcinoma DISEASE Hepatotoxicity DISEASE 0 0
+3-(4-phenyl-1H-imidazol-2-yl)-1H-pyrazole CHEMICAL 0 0 0 0
+breast cancer DISEASE 0 0 0 0
+fatty acid CHEMICAL NAFLD DISEASE 0 0
+Breast Cancer DISEASE 0 0 0 0
+chlamydosporol CHEMICAL 0 0 0 0
+hepatocellular carcinoma DISEASE 0 0 0 0
+Cancer DISEASE 0 0 0 0
+Tanshinone CHEMICAL squamous cell carcinoma DISEASE 0 0
+hepatocellular carcinoma DISEASE 0 0 0 0
+beta-Cyclodextrin CHEMICAL Inflammation DISEASE 0 0
+lung cancer DISEASE 0 0 0 0
+Mangiferin CHEMICAL tumor DISEASE non-small cell lung cancer DISEASE
+Metastasis DISEASE Tumorigenesis DISEASE 0 0
+Multi-gene DISEASE breast cancer DISEASE 0 0
+Curcumin CHEMICAL hepatocellular carcinoma DISEASE 0 0
+Circ-ABCB10 CHEMICAL esophageal squamous cell carcinoma DISEASE 0 0
+castration-resistant prostate cancer DISEASE 0 0 0 0
+Quinoline CHEMICAL 0 0 0 0
+hepatocellular carcinoma DISEASE 0 0 0 0
+NAD CHEMICAL 0 0 0 0
+esophageal squamous cell carcinoma DISEASE 0 0 0 0
+Curcumin CHEMICAL Neuroblastoma DISEASE 0 0
+Carbon CHEMICAL Tumor Necrosis DISEASE 0 0
+Antihistamine CHEMICAL Hepatoma Cell Death DISEASE 0 0
+gastric cancer DISEASE 0 0 0 0
+tumor DISEASE squamous cell carcinoma DISEASE 0 0
+Gemcitabine CHEMICAL lung carcinoma DISEASE 0 0
+crocin CHEMICAL cancer DISEASE 0 0
+tumor DISEASE squamous cell carcinomas DISEASE LAMC2 CHEMICAL
+Garcinol CHEMICAL human gastric cancer DISEASE 0 0
+acute kidney injury DISEASE 0 0 0 0
+Cancer DISEASE 0 0 0 0
+hepatocellular carcinoma DISEASE 0 0 0 0
+Lung Squamous Cell Carcinoma DISEASE 0 0 0 0
+Hepatitis B DISEASE Hepatocellular Carcinoma DISEASE 0 0
+Esophageal Squamous Cell Carcinoma DISEASE 0 0 0 0
+Prostate Cancer DISEASE 0 0 0 0
+Carcinoma DISEASE Cbz-dFdC DISEASE 0 0
+hepatocellular carcinoma DISEASE 0 0 0 0
+Temporal Lobe Epilepsy DISEASE 0 0 0 0
+Harmine CHEMICAL Abrogates CHEMICAL 0 0
+Antigene CHEMICAL Oligonucleotide CHEMICAL TFO CHEMICAL
+Icotinib-1,2,3-Triazole CHEMICAL 0 0 0 0
+Septic Myocardial Injury DISEASE 0 0 0 0
+emodin CHEMICAL liver disease DISEASE 0 0
+Nootkatone CHEMICAL 0 0 0 0
+human hepatocellular carcinoma DISEASE 0 0 0 0
+Ganoderma lucidum CHEMICAL silver CHEMICAL CAUTI DISEASE
+4'-hydroxy-3,4,5-trimetoxystilbene CHEMICAL Resveratrol CHEMICAL DLD-1 CHEMICAL
+DOX CHEMICAL Tumor DISEASE Death DISEASE
+Liothyronine CHEMICAL 0 0 0 0
+Tumor Necrosis DISEASE Breast Cancer DISEASE 0 0
+lung cancer DISEASE 0 0 0 0
+Antipancreatic Cancer DISEASE 0 0 0 0
+flavonoid baicalin CHEMICAL 0 0 0 0
+Metastasis of Hepatocellular Carcinoma DISEASE 0 0 0 0
+Cancer DISEASE 0 0 0 0
+cancer DISEASE 0 0 0 0
+malignancy DISEASE oral cancer DISEASE miR-154 CHEMICAL
+aprepitant CHEMICAL cancer DISEASE 0 0
+bazedoxifene CHEMICAL 0 0 0 0
+DIO3OS CHEMICAL Malignant Behaviors of Hepatocellular Carcinoma DISEASE Axis DISEASE
+usnic acid CHEMICAL 0 0 0 0
+colorectal cancer DISEASE 0 0 0 0
+Esophageal Squamous Cell Carcinoma DISEASE 0 0 0 0
+lichen DISEASE 0 0 0 0
+PDT CHEMICAL Lung Cancer DISEASE Phthalocyanine CHEMICAL
+Hepatocellular Carcinoma DISEASE 0 0 0 0
+glioma DISEASE MYO1B CHEMICAL 0 0
+conjugate CHEMICAL breast cancer DISEASE 0 0
+Carcinoma DISEASE 0 0 0 0
+5-fluorouracil CHEMICAL gastric cancer DISEASE 0 0
+aryl hydrocarbon CHEMICAL esophageal squamous cell carcinoma DISEASE 0 0
+arecoline CHEMICAL areca CHEMICAL 0 0
+N-alkylpiperidine carbamates CHEMICAL 0 0 0 0
+Cardamonin CHEMICAL Hepatocellular Carcinoma DISEASE 0 0
+Ricicomin A CHEMICAL 0 0 0 0
+Non-small Cell Lung Cancer DISEASE 0 0 0 0
+Acetogenins CHEMICAL 0 0 0 0
+medullary thyroid carcinoma DISEASE 0 0 0 0
+Breast Tumor DISEASE 0 0 0 0
+Hemistepsin A CHEMICAL Human Hepatocellular Carcinoma DISEASE 0 0
+Patrinia herba aqueous extract CHEMICAL hepatocellular carcinoma DISEASE 0 0
+SARxxxx92 CHEMICAL tumor DISEASE 0 0
+glioblastoma DISEASE 0 0 0 0
+DCLK1 CHEMICAL esophageal squamous cell carcinoma DISEASE 0 0
+neuroblastoma DISEASE 0 0 0 0
+uridine CHEMICAL cycle arrest DISEASE 0 0
+rapamycin CHEMICAL papillary thyroid cancer DISEASE 0 0
+breast cancer DISEASE 0 0 0 0
+Benzoxazine CHEMICAL Cancer DISEASE 0 0
+Nanoformulation DISEASE 0 0 0 0
+Tricin CHEMICAL Zizania latifolia Extract CHEMICAL Allergic Reactions DISEASE
+sulfonamide CHEMICAL 0 0 0 0
+Mevalonate CHEMICAL gastric cancer DISEASE 0 0
+Ethanol CHEMICAL 0 0 0 0
+hepatocellular carcinoma DISEASE 0 0 0 0
+Polyphenol CHEMICAL Cancer DISEASE Stomach Cancer DISEASE
+Pancreatic Cancer DISEASE 0 0 0 0
+thiadiazolo-carboxamide CHEMICAL beta-carboline-indole CHEMICAL 0 0
+Gelsemine CHEMICAL Gelsemium CHEMICAL neuroinflammation DISEASE
+hepatocellular carcinoma DISEASE 0 0 0 0
+1,2,4-triazole CHEMICAL 0 0 0 0
+myricitrin CHEMICAL osteoarthritis DISEASE 0 0
+ursolic acid CHEMICAL ovarian cancer DISEASE 0 0
+Hyperglycemia DISEASE leukemia DISEASE 0 0
+butein CHEMICAL lymphedema DISEASE 0 0
+Hyaluronic acid CHEMICAL nanoparticles CHEMICAL 0 0
+Acylated 1H-1,2,4-Triazol-5-amines CHEMICAL 0 0 0 0
+pyrrolopyridone CHEMICAL 0 0 0 0
+Hinokiflavone CHEMICAL hepatocellular carcinoma DISEASE 0 0
+Arginine CHEMICAL 0 0 0 0
+bladder cancer DISEASE GW501516 CHEMICAL 0 0
+unsymmetrical 1,3,4-oxadiazole CHEMICAL 0 0 0 0
+ferulic acid CHEMICAL nephrotoxicity DISEASE 0 0
+sorafenib CHEMICAL 0 0 0 0
+Curcumin CHEMICAL laryngeal squamous carcinoma radiosensitivity DISEASE IKKgamma CHEMICAL
+liver cancer DISEASE K CHEMICAL 0 0
+clear cell renal cell carcinoma DISEASE 0 0 0 0
+carcinoma DISEASE 0 0 0 0
+N-phenylindazolyl CHEMICAL 0 0 0 0
+agonist- CHEMICAL prostate cancer DISEASE 0 0
+aryl hydrocarbon CHEMICAL drug-resistance in hepatocellular carcinoma DISEASE 0 0
+fatty acid CHEMICAL breast cancer DISEASE 0 0
+lenalidomide CHEMICAL 0 0 0 0
+squamous cell carcinoma DISEASE 0 0 0 0
+Overrides CHEMICAL Colorectal Cancer DISEASE 0 0
+colchicine CHEMICAL 0 0 0 0
+nasopharyngeal carcinoma DISEASE 0 0 0 0
+Azide CHEMICAL 0 0 0 0
+Jinlongshe CHEMICAL gastric precancerous lesions DISEASE 0 0
+glioblastoma DISEASE 0 0 0 0
+Cannabis CHEMICAL Delta(9)-tetrahydrocannabinol CHEMICAL 0 0
+Parthenolide CHEMICAL anti-thyroid cancer DISEASE 0 0
+Non-small Cell Lung and Colorectal Cancers DISEASE 0 0 0 0
+Coronarin D CHEMICAL 5-fluorouracil CHEMICAL cancer DISEASE
+AA3266 CHEMICAL Agonist/NK1R CHEMICAL 0 0
+edema DISEASE 0 0 0 0
+flavaglines CHEMICAL KRAS nanoclustering CHEMICAL 0 0
+Ilamycins CHEMICAL 0 0 0 0
+ovarian cancer DISEASE 0 0 0 0
+Glioma DISEASE Boronophenylalanine CHEMICAL 0 0
+Prostaglandin CHEMICAL 0 0 0 0
+triple-negative breast cancer DISEASE 0 0 0 0
+Adenocarcinoma of the Gastroesophageal DISEASE Esophageal and Gastric Adenocarcinomas DISEASE 0 0
+lappaconitine CHEMICAL 0 0 0 0
+esophageal squamous cell carcinoma DISEASE 0 0 0 0
+Phenylmethylenecyclohexenone CHEMICAL 0 0 0 0
+colchicine CHEMICAL cancer DISEASE 0 0
+xanthone CHEMICAL 0 0 0 0
+Curcumin CHEMICAL Breast Cancer DISEASE 0 0
+C6-ceramide CHEMICAL Anaplastic Thyroid Carcinoma DISEASE 0 0
+Lagerindicine CHEMICAL Pyrrole Alkaloid CHEMICAL 0 0
+Sesquiterpene Lactone CHEMICAL Leukemia DISEASE HL-60 CHEMICAL
+renal cell carcinoma DISEASE 0 0 0 0
+gallic acid CHEMICAL 0 0 0 0
+Paeonol CHEMICAL ischaemia-reperfusion injury DISEASE inflammation DISEASE
+hepatocellular carcinoma DISEASE 0 0 0 0
+Ferulic Acid CHEMICAL 0 0 0 0
+beta-elemene CHEMICAL cetuximab CHEMICAL KRAS mutant colorectal cancer DISEASE
+Cholangiocarcinoma DISEASE 0 0 0 0
+Allium CHEMICAL 0 0 0 0
+curcumin CHEMICAL non-small-cell lung carcinoma DISEASE 0 0
+gastric carcinoma DISEASE 0 0 0 0
+Phenylalanine CHEMICAL 0 0 0 0
+Paclitaxel CHEMICAL Carboplatin CHEMICAL Ovarian Cancer DISEASE
+Esculetin CHEMICAL Hyperuricemia DISEASE Fibrosis DISEASE
+Thymoquinone CHEMICAL Cancer DISEASE 0 0
+Hepatocellular Carcinoma DISEASE miR-134 CHEMICAL 0 0
+pyrazolo[3,4-d]pyrimidin-4-one CHEMICAL quinoline CHEMICAL PDE5 CHEMICAL
+Morusin CHEMICAL Osteosarcoma DISEASE 0 0
+Hepatitis B DISEASE 0 0 0 0
+carcinoma DISEASE 0 0 0 0
+breast cancer DISEASE 0 0 0 0
+miR-18a CHEMICAL basal cell carcinoma DISEASE 0 0
+Z25h CHEMICAL non-small cell lung adenocarcinoma DISEASE 0 0
+metastasis DISEASE hepatocellular carcinoma DISEASE 0 0
+Tetrahydroquinazoline CHEMICAL 0 0 0 0
+Esculetin CHEMICAL Cancer DISEASE Tumor DISEASE
+non-small cell lung cancer DISEASE 0 0 0 0
+nasopharyngeal carcinoma DISEASE 0 0 0 0
+Green Tea Polyphenol EGCG CHEMICAL Breast Cancer DISEASE 0 0
+Cancer DISEASE Cancer DISEASE 0 0
+squamous cell carcinoma DISEASE 0 0 0 0
+Hymenialdisine CHEMICAL 0 0 0 0
+Cancer DISEASE Breast Ductal Carcinoma DISEASE Vitamin D CHEMICAL
+tumor DISEASE metastasis DISEASE cancer DISEASE
+DNM3OS/miR-204-5p/HIP1 CHEMICAL cancer DISEASE 0 0
+Epigallocatechin-3-Gallate CHEMICAL TRAIL CHEMICAL Death DISEASE
+oxathiino[6,5-b]pyridine 2,2-dioxide CHEMICAL 0 0 0 0
+acrylamide CHEMICAL dihydroorotate CHEMICAL rheumatoid arthritis DISEASE
+Artesunate CHEMICAL Merkel Cell Carcinoma DISEASE 0 0
+cancer DISEASE head and neck squamous cell carcinoma DISEASE 0 0
+Toxicity DISEASE Uveal Melanoma DISEASE 0 0
+Poria cocos ethanol extract CHEMICAL breast cancer DISEASE 0 0
+nasopharyngeal carcinoma DISEASE 0 0 0 0
+Rotenone CHEMICAL colon cancer DISEASE 0 0
+nasopharyngeal carcinoma DISEASE 0 0 0 0
+Indole-3-Carbinol CHEMICAL 0 0 0 0
+Combat DISEASE Cancer DISEASE 0 0
+zinc CHEMICAL pyrithione CHEMICAL ovarian cancer DISEASE
+Cancer DISEASE 0 0 0 0
+norquassinoids CHEMICAL 0 0 0 0
+Hakai CHEMICAL Carcinoma DISEASE 0 0
+hepatic cancer DISEASE 0 0 0 0
+CD8(+)T CHEMICAL Colorectal Carcinoma DISEASE 0 0
+N-arylpiperazine CHEMICAL 0 0 0 0
+rheumatoid arthritis DISEASE 0 0 0 0
+GSK461364A DISEASE Burkitt's lymphoma DISEASE 0 0
+alcohol-induced liver injury DISEASE 0 0 0 0
+Hyrtios CHEMICAL Erectus DISEASE 0 0
+acids CHEMICAL 0 0 0 0
+alteronol CHEMICAL melanoma DISEASE 0 0
+miR-346 CHEMICAL invasion of renal cell carcinoma DISEASE 0 0
+homoserine CHEMICAL 0 0 0 0
+resveratrol CHEMICAL cycle arrest DISEASE 0 0
+artesunate CHEMICAL hepatocellular carcinoma DISEASE 0 0
+Pancreatic Cancer DISEASE 0 0 0 0
+tumor DISEASE conjugate MI130110 CHEMICAL 0 0
+Hesperetin CHEMICAL 0 0 0 0
+1,3,4-thiadiazole CHEMICAL anti-glioblastoma agents CHEMICAL 0 0
+Anthraquinone CHEMICAL Colon Cancer DISEASE Oxygen CHEMICAL
+BF2-naphthyridine CHEMICAL 0 0 0 0
+2-styrylquinazoline CHEMICAL 0 0 0 0
+cyclophosphamide CHEMICAL pterostilbene CHEMICAL 0 0
+Adrenocortical Carcinoma DISEASE Mitotane CHEMICAL 0 0
+methylenecyclohexenone CHEMICAL metastasis DISEASE human cancer DISEASE
+osteosarcoma DISEASE 0 0 0 0
+Citrate CHEMICAL Metformin CHEMICAL 0 0
+Ailanthoidol CHEMICAL Homoegonol CHEMICAL Egonol CHEMICAL
+sulforaphane CHEMICAL 0 0 0 0
+hepatocellular carcinoma DISEASE PHF8 CHEMICAL 0 0
+Bloom syndrome DISEASE 0 0 0 0
+Everolimus CHEMICAL receptor-positive HER2-negative breast cancer DISEASE 0 0
+Semaphorin CHEMICAL Tumor DISEASE Esophageal Squamous Cell Carcinoma DISEASE
+Tumor DISEASE berberine 9-O-pyrazole CHEMICAL cancer DISEASE
+Breast Cancer DISEASE 0 0 0 0
+Melanoma DISEASE 0 0 0 0
+Diamines CHEMICAL Orthoformate CHEMICAL Diethyl Phosphite CHEMICAL
+Metastasis DISEASE Squamous Cell Carcinoma DISEASE 0 0
+Phthalocyanine CHEMICAL 0 0 0 0
+breast cancer DISEASE 0 0 0 0
+N (4)-aryl substituted thiosemicarbazone CHEMICAL breast cancer DISEASE 0 0
+atherosclerotic DISEASE 0 0 0 0
+Dasatinib CHEMICAL head and neck squamous cell carcinoma DISEASE 0 0
+Cancer DISEASE Chemoresistance DISEASE Cisplatin CHEMICAL
+colonic malignant tumors DISEASE 0 0 0 0
+Propofol CHEMICAL papillary thyroid carcinoma DISEASE 0 0
+5-Aza-2'-Deoxycytidine CHEMICAL Hepatocellular Carcinoma DISEASE 0 0
+Diterpenoids CHEMICAL Siegesbeckia CHEMICAL 0 0
+metastasis DISEASE laryngeal squamous cell carcinoma DISEASE 0 0
+apigenin CHEMICAL multiple myeloma DISEASE 0 0
+Methylsulfonylmethane CHEMICAL Cancer DISEASE G2/M CHEMICAL
+miR-26a-5p CHEMICAL Hepatocellular Carcinoma DISEASE 0 0
+magnolol CHEMICAL non-small cell lung cancer DISEASE 0 0
+cancer DISEASE 0 0 0 0
+Hepatocellular Carcinoma DISEASE Sorafenib CHEMICAL 0 0
+thiazolidinediones CHEMICAL 0 0 0 0
+ABCA8 DISEASE metastasis DISEASE hepatocellular carcinoma DISEASE
+2,4-diaminopyrimidine CHEMICAL 0 0 0 0
+Amidoximes CHEMICAL 0 0 0 0
+alpha-naphthoflavone CHEMICAL 0 0 0 0
+Hepatocellular Carcinoma DISEASE 0 0 0 0
+colorectal cancer DISEASE RGD-peptide CHEMICAL 0 0
+Voacangine CHEMICAL DARTS CHEMICAL 0 0
+Dihydroartemisinin CHEMICAL Metastasis DISEASE Carcinoma DISEASE
+breast and prostate tumor DISEASE 0 0 0 0
+Psidium guajava L. CHEMICAL 0 0 0 0
+Tumor DISEASE Papillary Thyroid Carcinoma DISEASE 0 0
+Sulforaphane CHEMICAL muscular dysfunction DISEASE 0 0
+Oleanolic Acid CHEMICAL 0 0 0 0
+Learning-based CHEMICAL 0 0 0 0
+Calprotectin CHEMICAL Leukemia DISEASE 0 0
+renal tumor DISEASE inferior vena cava tumor thrombus DISEASE 0 0
+camptothecin CHEMICAL nanoparticles CHEMICAL liver tumor DISEASE
+cancers DISEASE 0 0 0 0
+Hispidulin CHEMICAL Neuroinflammation DISEASE 0 0
+itraconazole CHEMICAL squamous cell carcinoma DISEASE Hedgehog CHEMICAL
+C. difficile infection DISEASE 0 0 0 0
+human hepatocellular carcinoma DISEASE 0 0 0 0
+S-adenosylmethionine CHEMICAL cycle arrest DISEASE gallbladder carcinoma DISEASE
+clear cell renal cell carcinoma DISEASE 0 0 0 0
+Cancer DISEASE 0 0 0 0
+Atherosclerosis DISEASE 0 0 0 0
+Esophageal Squamous Cell Carcinoma DISEASE 0 0 0 0
+heterocyclic carbohydrazide CHEMICAL fatty acid CHEMICAL 0 0
+squamous cell carcinoma DISEASE 0 0 0 0
+Metalloproteinase9 CHEMICAL Breast Cancer DISEASE 0 0
+Tripterine CHEMICAL 0 0 0 0
+PCC0208025 CHEMICAL 0 0 0 0
+Rapamycin CHEMICAL Liver Cancer DISEASE 0 0
+Saffron Natural Monoterpene CHEMICAL Colon Cancer DISEASE 0 0
+lung cancer DISEASE 0 0 0 0
+Lactate CHEMICAL oropharyngeal squamous cell carcinoma DISEASE 0 0
+isoxazole CHEMICAL EGFR-TK CHEMICAL 0 0
+Curcumin CHEMICAL cancer DISEASE 0 0
+phenothiazine CHEMICAL ischemic stroke DISEASE 0 0
+Phenyl Urea CHEMICAL 0 0 0 0
+Hepatocellular Carcinoma DISEASE 0 0 0 0
+Vascular dysfunction DISEASE formaldehyde CHEMICAL 0 0
+Phthalimide CHEMICAL 0 0 0 0
+cervical cancer DISEASE 0 0 0 0
+Tumor DISEASE Gallic Acid CHEMICAL Cancer DISEASE
+Coumarin CHEMICAL 0 0 0 0
+Harmaline CHEMICAL 0 0 0 0
+naphthoquinone CHEMICAL 0 0 0 0
+Nasopharyngeal Carcinoma DISEASE TNF-alpha CHEMICAL Polyphthalamide CHEMICAL
+pyrimidine CHEMICAL cancer DISEASE 0 0
+Nasopharyngeal Carcinoma DISEASE 0 0 0 0
+Cancer DISEASE 0 0 0 0
+isoflavones aglycone CHEMICAL lung cancer DISEASE 0 0
+Chaihu-Shugan-San DISEASE Breast Cancer DISEASE 0 0
+limonin CHEMICAL ovarian cancer DISEASE 0 0
+Metastasis DISEASE Squamous Cell Carcinoma DISEASE 0 0
+colon cancer DISEASE 0 0 0 0
+Conjugated CHEMICAL Afatinib CHEMICAL Lung Adenocarcinoma DISEASE
+IU1 CHEMICAL cervical cancer DISEASE 0 0
+Ethyl 2-anilino-4-oxo-4,5-dihydrofuran-3-carboxylate CHEMICAL promyelocytic leukemia HL-60 DISEASE 0 0
+Erchen CHEMICAL Laryngeal Carcinoma DISEASE 0 0
+Colorectal Cancer Metastasis DISEASE 0 0 0 0
+Cancer DISEASE Ebselen CHEMICAL 0 0
+colon cancer DISEASE 0 0 0 0
+Aqueous Extract CHEMICAL Moringa oleifera CHEMICAL Cancer DISEASE
+miR-372 CHEMICAL Gastric Carcinoma DISEASE DDP CHEMICAL
+Garcinia nujiangensis CHEMICAL Ovarian Cancers DISEASE 0 0
+Thiazacridine CHEMICAL 0 0 0 0
+hepatocellular carcinoma DISEASE 0 0 0 0
+cytarabine CHEMICAL ginsenoside compound K CHEMICAL acute myeloid leukemia DISEASE
+oral carcinoma DISEASE 0 0 0 0
+MiR-506-3p CHEMICAL papillary thyroid cancer DISEASE 0 0
+tumor DISEASE pancreatic cancer DISEASE 0 0
+renal cell carcinoma DISEASE 0 0 0 0
+tumor DISEASE 0 0 0 0
+Chloroquine CHEMICAL nasopharyngeal carcinoma DISEASE 0 0
+Theileria annulata DISEASE 0 0 0 0
+beta-elemene CHEMICAL malignant behavior DISEASE esophageal cancer DISEASE
+mammary gland carcinomas DISEASE 0 0 0 0
+Chlorogenic acid CHEMICAL 4T1 breast cancer tumor DISEASE 0 0
+Ovarian Cancer DISEASE 0 0 0 0
+Ellagic acid CHEMICAL esophageal squamous cell carcinoma DISEASE 0 0
+hepatocellular carcinoma DISEASE sorafenib CHEMICAL 0 0
+Human Hepatocellular Carcinoma DISEASE 0 0 0 0
+Leucettamine B CHEMICAL 0 0 0 0
+nasopharyngeal carcinoma DISEASE 0 0 0 0
+Cytotoxic triterpenoid saponins CHEMICAL 0 0 0 0
+liver cancer DISEASE 0 0 0 0
+polyphenol rutin CHEMICAL 0 0 0 0
+elemene CHEMICAL gastric cancer DISEASE 0 0
+Gefitinib CHEMICAL Metastasis DISEASE Osteosarcoma DISEASE
+ATR CHEMICAL multiple myeloma DISEASE 0 0
+Coumarin CHEMICAL 0 0 0 0
+Curcumin CHEMICAL Kidney Cancer DISEASE JNK-CHOP DISEASE
+dieckol CHEMICAL pancreatic cancer DISEASE 0 0
+Ailanthone CHEMICAL 0 0 0 0
+lancifolium CHEMICAL gastric carcinoma DISEASE 0 0
+Quercetin CHEMICAL caerulein-induced DISEASE pancreatitis DISEASE
+Lycorine CHEMICAL multiple myeloma DISEASE 0 0
+Polyprenol CHEMICAL Betulinic Acid CHEMICAL Low-Substituted Hydroxyl Fullerenol CHEMICAL
+Cancer DISEASE 0 0 0 0
+Fullerene CHEMICAL Lung Cancer DISEASE 0 0
+Cancers DISEASE 0 0 0 0
+Chaetomium nigricolor DISEASE 0 0 0 0
+Noncalcemic Vitamin D Hydroxyderivatives CHEMICAL Squamous Cell Carcinoma DISEASE Hedgehog CHEMICAL
+Gallic Acid CHEMICAL 0 0 0 0
+Breast Cancer DISEASE 0 0 0 0
+Garcinol CHEMICAL Tumor DISEASE 0 0
+Magnolol CHEMICAL TRAIL CHEMICAL Cancer DISEASE
+2-amino 3-cyano chromene-chrysin CHEMICAL 0 0 0 0
+Cancer DISEASE 0 0 0 0
+Penicillin CHEMICAL Melanoma DISEASE 0 0
+trypsin CHEMICAL ovarian cancer DISEASE 0 0
+Depsides CHEMICAL Folious Lichens CHEMICAL Parmelia dilatata CHEMICAL
+Eriodictyol CHEMICAL Metastasis DISEASE Glioma DISEASE
+non-small cell lung cancer DISEASE 0 0 0 0
+cancer DISEASE 0 0 0 0
+Cancers DISEASE Chelidonine CHEMICAL 0 0
+MicroRNA-100 DISEASE Renal Cell Carcinoma DISEASE 0 0
+cancer DISEASE resveratrol CHEMICAL 0 0
+Semicarbazone/Thiosemicarbazone CHEMICAL 0 0 0 0
+lung squamous cell carcinoma DISEASE 0 0 0 0
+phloretin CHEMICAL 0 0 0 0
+ruthenium CHEMICAL 0 0 0 0
+tumor DISEASE KPC1 CHEMICAL gastric carcinoma DISEASE
+Cryptotanshinone CHEMICAL gefitinib CHEMICAL non-small cell lung cancer DISEASE
+Helveticoside Exhibited CHEMICAL Colorectal Cancer DISEASE 0 0
+TET2 CHEMICAL tumor DISEASE head neck squamous cell carcinoma DISEASE
+piperine CHEMICAL 0 0 0 0
+furylketones CHEMICAL 0 0 0 0
+Morusin CHEMICAL renal cell carcinoma DISEASE 0 0
+K CHEMICAL 0 0 0 0
+nanoparticles CHEMICAL cancer DISEASE 0 0
+Imperatorin CHEMICAL Cancer DISEASE Rhabdomyosarcoma DISEASE
+colorectal cancer DISEASE 0 0 0 0
+Gossypol CHEMICAL 0 0 0 0
+miR-30a-5p CHEMICAL Carcinoma DISEASE 0 0
+Lycium barbarum on CHEMICAL Colorectal Cancer DISEASE 0 0
+platelet toxicity DISEASE 0 0 0 0
+esophageal cancer DISEASE cancer DISEASE 0 0
+aminoguanidine CHEMICAL 0 0 0 0
+geniposide CHEMICAL hepatocellular carcinoma DISEASE 0 0
+Ehrlich ascites carcinoma DISEASE 0 0 0 0
+Ethanol CHEMICAL 0 0 0 0
+Isoflurane CHEMICAL cervical carcinoma DISEASE 0 0
+Atractylenolide I CHEMICAL colorectal cancer DISEASE 0 0
+FLJ37505 CHEMICAL bladder cancer DISEASE 0 0
+Verticillin A CHEMICAL colon cancer DISEASE 0 0
+diallyl disulfide CHEMICAL organosulfur compound CHEMICAL 0 0
+PENG CHEMICAL miR-15b CHEMICAL clear cell renal cell carcinoma DISEASE
+TPA CHEMICAL 0 0 0 0
+Platinum Nanocatalysts CHEMICAL Cancer DISEASE 0 0
+lupus erythematosus DISEASE 0 0 0 0
+5-Aza-2'-Deoxycytidine CHEMICAL Vorinostat CHEMICAL LCL-PI CHEMICAL
+Tyrosine CHEMICAL Anti-Breast Cancer DISEASE 0 0
+Curcumin CHEMICAL 0 0 0 0
+miR-744 CHEMICAL papillary thyroid carcinoma DISEASE 0 0
+glutamate CHEMICAL 0 0 0 0
+Glutamate CHEMICAL 0 0 0 0
+labdane diterpene coronarin D. CHEMICAL 0 0 0 0
+Thymoquinone CHEMICAL Hepatocellular Carcinoma DISEASE 0 0
+uracil CHEMICAL human leukemia HL-60 DISEASE 0 0
+head and neck squamous cell carcinoma DISEASE 0 0 0 0
+Cisplatin CHEMICAL Cancer DISEASE 0 0
+TNF-alpha CHEMICAL gallbladder carcinoma DISEASE 0 0
+Quercetin CHEMICAL autophagic cell death DISEASE oxygen CHEMICAL
+Amygdalin - A CHEMICAL 0 0 0 0
+tumour DISEASE colon cancer DISEASE 0 0
+5-Fluorouracil CHEMICAL Allicin CHEMICAL Carcinoma DISEASE
+multidrug-resistant breast cancer DISEASE 0 0 0 0
+Thymoquinone CHEMICAL metastasis DISEASE bladder cancer DISEASE
+hepatocellular carcinoma DISEASE 0 0 0 0
+hepatocellular carcinoma DISEASE 0 0 0 0
+Astragaloside CHEMICAL Hepatocellular Carcinoma DISEASE 0 0
+squamous cell carcinoma DISEASE 0 0 0 0
+nanoparticles CHEMICAL breast cancer DISEASE 0 0
+camptothecin CHEMICAL breast cancer metastasis DISEASE 0 0
+FBXW7 DISEASE miR-27a CHEMICAL squamous cell carcinoma DISEASE
+Andrographolide CHEMICAL 0 0 0 0
+breast cancer metastasis DISEASE 0 0 0 0
+clear cell renal cell carcinoma DISEASE 0 0 0 0
+Osthole CHEMICAL 0 0 0 0
+coumarin CHEMICAL breast cancer DISEASE 0 0
+Colon Carcinoma DISEASE 0 0 0 0
+cancer DISEASE 0 0 0 0
+inflammation DISEASE 0 0 0 0
+Grias CHEMICAL Colon Cancer DISEASE 0 0
+Cancers DISEASE 0 0 0 0
+Paeonol CHEMICAL Cardiac Toxicity DISEASE 0 0
+Epigallocatechin CHEMICAL Nasopharyngeal Carcinoma DISEASE 0 0
+Fo CHEMICAL 0 0 0 0
+Curcumin CHEMICAL 0 0 0 0
+Cancer DISEASE 0 0 0 0
+Ethanolic Extract of Ocimum sanctum CHEMICAL Head and Neck Cancer DISEASE 0 0
+17AAG CHEMICAL Torin2 CHEMICAL anaplastic thyroid carcinoma DISEASE
+Nitric Oxide CHEMICAL Torenia concolor DISEASE Yamazaki DISEASE
+4,4'Bond secalonic acid D CHEMICAL SP CHEMICAL metastasis DISEASE
+sphingosine CHEMICAL 0 0 0 0
+resveratrol CHEMICAL 0 0 0 0
+esophageal squamous cell carcinoma DISEASE 0 0 0 0
+Physapubescin B CHEMICAL gastric cancer DISEASE trametinib CHEMICAL
+naphthalimide CHEMICAL 0 0 0 0
+hepatocellular carcinoma DISEASE 0 0 0 0
+Erianin CHEMICAL hepatocellular carcinoma DISEASE 0 0
+diabetic DISEASE 0 0 0 0
+hepatitis B DISEASE 0 0 0 0
+naringin CHEMICAL tensin CHEMICAL prostate cancer DISEASE
+renal injury DISEASE 0 0 0 0
+hepatocellular carcinoma DISEASE 0 0 0 0
+depsidone CHEMICAL lichen Usnea ceratina CHEMICAL 0 0
+SadenosylLmethionine CHEMICAL head and neck squamous cancer DISEASE 0 0
+ALK-positive compound Spitz nevus DISEASE 0 0 0 0
+cyclohexane-1,3-dione CHEMICAL tyrosine CHEMICAL 0 0
+Dehydrocostus lactone CHEMICAL human laryngeal carcinoma DISEASE 0 0
+gastrointestinal carcinomas DISEASE 0 0 0 0
+serotonin CHEMICAL melanoma DISEASE 0 0
+cancer DISEASE hepatocellular carcinoma DISEASE 0 0
+Carcinoma DISEASE JNK CHEMICAL 0 0
+head and neck squamous cell carcinoma DISEASE 0 0 0 0
+phenanthroimidazole CHEMICAL inflammation DISEASE 0 0
+PCC0208017 CHEMICAL glioma DISEASE 0 0
+miR-204 CHEMICAL squamous cell carcinoma DISEASE 0 0
+Hepatocellular Carcinoma DISEASE 0 0 0 0
+Deguelin CHEMICAL non-small cell lung cancer DISEASE 0 0
+cancer DISEASE liver hepatocellular carcinoma DISEASE 0 0
+Ellagic Acid CHEMICAL Sorafenib CHEMICAL Hepatocellular Carcinoma DISEASE
+glycyrrhizic acid CHEMICAL colon carcinoma DISEASE 0 0
+hepatocellular carcinoma DISEASE aggressiveness DISEASE 0 0
+morusin CHEMICAL human non-small cell lung cancer DISEASE 0 0
+PI3Kdelta/gamma CHEMICAL seven-membered spirocyclic spacer CHEMICAL 0 0
+Renal Cell Carcinoma DISEASE Axis DISEASE 0 0
+tumors DISEASE 0 0 0 0
+Cisplatin CHEMICAL 0 0 0 0
+Chrysin CHEMICAL 0 0 0 0
+Curdione CHEMICAL bleomycin-induced DISEASE fibrosis DISEASE
+phosphorus CHEMICAL tumor DISEASE 0 0
+Cryptotanshinone CHEMICAL chemotherapy-induced colitis DISEASE colon cancer DISEASE
+Cassaine CHEMICAL Cancer DISEASE Lymphoma DISEASE
+Lung Carcinoma DISEASE 0 0 0 0
+Piperlonguminine CHEMICAL Piperine CHEMICAL 0 0
+Stearic Acid CHEMICAL 0 0 0 0
+breast cancer DISEASE 0 0 0 0
+Cancers DISEASE 0 0 0 0
+Glycyrrhizin CHEMICAL osteoarthritis DISEASE 0 0
+cancer DISEASE 0 0 0 0
+secoisolariciresinol diglucoside CHEMICAL breast cancer DISEASE 0 0
+S-allylmercaptocysteine CHEMICAL acute lung injury DISEASE inflammation DISEASE
+breast cancer DISEASE 0 0 0 0
+Amplifies CHEMICAL Cancer DISEASE 0 0
+lactone androstane derivative CHEMICAL 0 0 0 0
+hepatitis B DISEASE 0 0 0 0
+neoplasia DISEASE Gitelman syndrome DISEASE MUTYH CHEMICAL
+Curcumin CHEMICAL thymic carcinoma DISEASE 0 0
+Pluronic hydrogel CHEMICAL resveratrol CHEMICAL cisplatin CHEMICAL
+Yaku'amide B CHEMICAL 0 0 0 0
+Pterostilbene CHEMICAL 0 0 0 0
+Alpinumisoflavone CHEMICAL hepatocellular carcinoma DISEASE metastasis DISEASE
+type 2 diabetes mellitus DISEASE 0 0 0 0
+Melatonin CHEMICAL 0 0 0 0
+cervical squamous cell carcinoma DISEASE E-P CHEMICAL 0 0
+Dehydrofalcarinol CHEMICAL Breast Cancer DISEASE 0 0
+MDA-9/Syntenin CHEMICAL cancer metastasis DISEASE 0 0
+Uveal Melanoma DISEASE 0 0 0 0
+Volatile organic compound breath CHEMICAL squamous cell carcinoma DISEASE bronchial and laryngeal regions DISEASE
+Cancer DISEASE 0 0 0 0
+5,6,7-trimethoxy flavonoid salicylate CHEMICAL 0 0 0 0
+tumor DISEASE hepatocellular carcinoma DISEASE 0 0
+Malignant Mesothelioma DISEASE 0 0 0 0
+Amentoflavone CHEMICAL death DISEASE glioma DISEASE
+hepatocellular carcinoma DISEASE 0 0 0 0
+thymoquinone CHEMICAL cancer DISEASE 0 0
+tumor DISEASE 0 0 0 0
+glucose CHEMICAL metastasis DISEASE hepatocellular carcinoma DISEASE
+sulfonate CHEMICAL sulfamate CHEMICAL benzofuran CHEMICAL
+sphaeropsidin A DISEASE 0 0 0 0
+3'-Hydroxy-3,4,5,4'-Tetramethoxy -stilbene CHEMICAL Ovarian Cancer DISEASE 0 0
+laryngeal squamous cell carcinoma DISEASE 0 0 0 0
+CASC15 DISEASE tumour DISEASE SOX4/Wnt/beta-catenin CHEMICAL
+Acid CHEMICAL Aspergillus aculeatus DISEASE Breast Cancer DISEASE
+Evodiamine CHEMICAL 0 0 0 0
+metastasis DISEASE colorectal cancer DISEASE 0 0
+Orlistat CHEMICAL hepatocarcinogenesis DISEASE hepatic co-activation DISEASE
+tumour DISEASE lung adenocarcinoma DISEASE 0 0
+breast cancer DISEASE 0 0 0 0
+skin carcinogenesis DISEASE 0 0 0 0
+Human Carcinomas DISEASE 0 0 0 0
+Lymphoma DISEASE 0 0 0 0
+Nasopharyngeal Carcinoma DISEASE 0 0 0 0
+Doxorubicin CHEMICAL Paclitaxel CHEMICAL 0 0
+Palmitoylethanolamide CHEMICAL Cognitive Deficit DISEASE Neuroinflammation DISEASE
+Glycolysis CHEMICAL Tumor DISEASE Clear Cell Renal Cell Carcinoma DISEASE
+Shikonin CHEMICAL 0 0 0 0
+hepatocellular carcinoma DISEASE 0 0 0 0
+CYZ2017 CHEMICAL 0 0 0 0
+Helicobacter pylori Infection DISEASE 0 0 0 0
+epigallocatechin gallate CHEMICAL human hepatocellular carcinoma DISEASE 0 0
+NSCLC DISEASE 0 0 0 0
+LNC-HC DISEASE Hepatocellular Carcinoma DISEASE 0 0
+Berberine CHEMICAL 0 0 0 0
+Nrf2-Inducer DISEASE Retinitis DISEASE 0 0
+sorafenib CHEMICAL hepatitis B virus-associated hepatocellular carcinoma DISEASE 0 0
+3beta, 23-trihydroxy-urs-12-ene-28-olic CHEMICAL human gastric cancer DISEASE 0 0
+neuroinflammation DISEASE cognitive impairments DISEASE 0 0
+endostar CHEMICAL hepatocellular carcinoma DISEASE 0 0
+Caffeic acid phenethyl ester CHEMICAL doxorubicin-induced DISEASE neuroinflammation DISEASE
+Patrinia CHEMICAL inflammation DISEASE 0 0
+Piperine CHEMICAL Human Lung Adenocarcinoma DISEASE 0 0
+3,4,5-trimethoxy phenyl ring pendant sulfur-containing cyanopyrimidine CHEMICAL 0 0 0 0
+Gomisin A CHEMICAL melanoma DISEASE 0 0
+Death DISEASE 0 0 0 0
+9-cis-UAB30 CHEMICAL decreases tumorigenicity DISEASE cancer DISEASE
+myricetin-pentadienone CHEMICAL 0 0 0 0
+Cancer DISEASE 0 0 0 0
+breast cancer DISEASE toxicity DISEASE 0 0
+aspirin CHEMICAL HER-2-positive breast cancer DISEASE 0 0
+Ehrlich carcinoma DISEASE 0 0 0 0
+tubocapsunolide A CHEMICAL 0 0 0 0
+Tumor DISEASE 0 0 0 0
+Tumor DISEASE 0 0 0 0
+swelling DISEASE cromakalim CHEMICAL 0 0
+preeclampsia DISEASE 0 0 0 0
+colorectal tumors DISEASE 0 0 0 0
+Minecoside CHEMICAL Breast and Colon Cancer DISEASE 0 0
+hepatocellular carcinoma DISEASE 0 0 0 0
+Caffeine CHEMICAL 0 0 0 0
+Anti-Breast Cancer DISEASE 0 0 0 0
+hepatoma carcinoma DISEASE 0 0 0 0
+Curcumin CHEMICAL Bladder Cancer DISEASE 0 0
+prostate carcinoma DISEASE 0 0 0 0
+Curcumin CHEMICAL Breast Cancer DISEASE Tumor DISEASE
+Romidepsin CHEMICAL FK228 CHEMICAL Cancer DISEASE
+Casticin CHEMICAL hepatocellular carcinoma DISEASE miR-148a-3p CHEMICAL
+Saprorthoquinone CHEMICAL 0 0 0 0
+Naphthoquinone CHEMICAL 0 0 0 0
+Small-Cell Lung Cancer DISEASE 0 0 0 0
+Chagas disease DISEASE 0 0 0 0
+Sorafenib Pyridine-2-Amide CHEMICAL 0 0 0 0
+doxorubicin toxicity CHEMICAL cancer DISEASE 0 0
+melatonin CHEMICAL triple-negative breast cancer DISEASE 0 0
+hepatocellular carcinoma DISEASE 0 0 0 0
+tumor DISEASE 0 0 0 0
+Tanshinone CHEMICAL cancer DISEASE 0 0
+renal cell carcinoma DISEASE 0 0 0 0
+garlic extract CHEMICAL S-allyl-L-cysteine CHEMICAL neuroblastoma cancer DISEASE
+hepatocellular carcinoma DISEASE 0 0 0 0
+AP-002 DISEASE 0 0 0 0
+Gaudichaudione CHEMICAL Dextran Sodium CHEMICAL Colitis DISEASE
+thiosemicarbazone copper CHEMICAL 0 0 0 0
+squamous cell carcinoma DISEASE 0 0 0 0
+Hepatocellular Carcinoma DISEASE Hepatocellular Carcinoma DISEASE 0 0
+galactosylceramide CHEMICAL 0 0 0 0
+N-acylhydrazone CHEMICAL heterobivalent beta-carbolines DISEASE 0 0
+Clear Cell Renal Cell Carcinoma DISEASE 0 0 0 0
+opsin CHEMICAL 0 0 0 0
+Sorafenib CHEMICAL Hepatocellular Carcinoma DISEASE 0 0
+Curcumin CHEMICAL 0 0 0 0
+Sargassum fusiforme DISEASE cancer DISEASE 0 0
+hepatocellular carcinoma DISEASE 0 0 0 0
+sarcomas DISEASE 0 0 0 0
+fatty acid CHEMICAL bladder carcinoma DISEASE 0 0
+lung cancer DISEASE 0 0 0 0
+temporomandibular joint inflammatory pain DISEASE 0 0 0 0
+ailanthone CHEMICAL 0 0 0 0
+Chalcones CHEMICAL ketones CHEMICAL 0 0
+acute skin inflammation DISEASE 0 0 0 0
+nasopharyngeal carcinoma DISEASE 0 0 0 0
+Iodine-131 CHEMICAL genistein CHEMICAL breast cancer DISEASE
+tumor DISEASE 0 0 0 0
+dihydroartemisin CHEMICAL metastasis DISEASE 0 0
+colorectal cancer DISEASE 0 0 0 0
+flavonoid CHEMICAL Astragali Radix CHEMICAL tumor DISEASE
+eugenol CHEMICAL 0 0 0 0
+anti-CTLA4 CHEMICAL anti-PD1 CHEMICAL non-small cell lung cancer DISEASE
+NLK DISEASE 0 0 0 0
+artesunate CHEMICAL 0 0 0 0
+breast cancer DISEASE 0 0 0 0
+Ent-Kaurane CHEMICAL Oridonin CHEMICAL Cancer DISEASE
+Withaferin A CHEMICAL Somnifera CHEMICAL Herb CHEMICAL
+Bufalin CHEMICAL MEK/ERK CHEMICAL Gallbladder Cancer DISEASE
+cancer DISEASE hepatocellular carcinoma DISEASE 0 0
+chronic lymphocytic leukemia DISEASE 0 0 0 0
+non-small cell lung cancer DISEASE 0 0 0 0
+glucose CHEMICAL AMPK-AS160 CHEMICAL 0 0
+Inflammation DISEASE 0 0 0 0
+breast cancer DISEASE 0 0 0 0
+diallyl disulfide CHEMICAL cerulein-induced DISEASE pancreatitis DISEASE
+Liver Cirrhosis DISEASE 0 0 0 0
+death DISEASE 0 0 0 0
+death DISEASE anaplastic lymphoma DISEASE non-small-cell lung cancer DISEASE
+estrogen CHEMICAL ovarian granulosa cancer DISEASE 0 0
+Esophageal Squamous Cell Carcinoma DISEASE 0 0 0 0
+Aza CHEMICAL 0 0 0 0
+Pyrvinium Pamoate CHEMICAL Leukemia DISEASE Tumor DISEASE
+Hepatocellular Carcinoma DISEASE 0 0 0 0
+sphingosine 1-phosphate CHEMICAL 0 0 0 0
+Cervical Carcinoma DISEASE 0 0 0 0
+estrogen CHEMICAL 0 0 0 0
+Ceramide CHEMICAL palmitic acid CHEMICAL colorectal cancer DISEASE
+airway neurogenic inflammation DISEASE 0 0 0 0
+Tributyltin(IV CHEMICAL ferulate CHEMICAL ferulic acid CHEMICAL
+S-adenosylmethionine CHEMICAL cycle arrest DISEASE gallbladder carcinoma DISEASE
+alpha,beta-thujone CHEMICAL ovarian cancer DISEASE 0 0
+2,3,5,4'-tetrahydroxystilbene-2-O-beta-d-glucoside CHEMICAL 0 0 0 0
+thyroid cancer DISEASE 0 0 0 0
+Triptolide CHEMICAL nonsmall cell lung cancer DISEASE 0 0
+4H-chromen-4-one CHEMICAL antituberculosis agents CHEMICAL multidrug-resistant tuberculosis DISEASE
+nasopharyngeal carcinoma DISEASE 0 0 0 0
+Organoselenium CHEMICAL 0 0 0 0
+Acetylshikonin CHEMICAL colorectal tumour DISEASE 0 0
+MS-275 CHEMICAL cisplatin CHEMICAL esophageal squamous cell carcinoma DISEASE
+benzophenone CHEMICAL Aspergillus fumigatus DISEASE 0 0
+Imidazole CHEMICAL 0 0 0 0
+prostate cancer DISEASE 0 0 0 0
+heterocyclic dehydroabietylamine CHEMICAL 0 0 0 0
+hepatocellular carcinoma DISEASE 0 0 0 0
+Death DISEASE 0 0 0 0
+breast cancer DISEASE 0 0 0 0
+human liver cancer DISEASE 0 0 0 0
+Cancer DISEASE ABT-737 CHEMICAL 0 0
+Methanolic Extract CHEMICAL Moringa CHEMICAL Cancer DISEASE
+1,2,5-oxadiazole-3-carboximidamide CHEMICAL 0 0 0 0
+Intracranial Metastatic Disease DISEASE 0 0 0 0
+Mitochondrial Dysfunction DISEASE Carrier Berberine DISEASE 0 0
+colitis-associated colorectal cancer DISEASE 0 0 0 0
+Melanoma DISEASE Carcinoma Metastasis DISEASE 0 0
+Metformin CHEMICAL progesterone CHEMICAL endometrial cancer DISEASE
+squamous cell carcinoma DISEASE 0 0 0 0
+Sesterterpenes CHEMICAL Dactylospongia CHEMICAL 0 0
+N-Propargyltetrahydroquinoline CHEMICAL 1,2,3-Triazole CHEMICAL 0 0
+Fucoidan CHEMICAL Hepatocellular Carcinoma DISEASE 0 0
+Indole CHEMICAL Ovarian Cancer DISEASE 0 0
+PEGylated PLGA CHEMICAL Breast Cancer DISEASE 0 0
+Cardiotoxicity DISEASE MCF-7 CHEMICAL 0 0
+Parthenolide CHEMICAL Pyruvate CHEMICAL Glioblastoma Multiforme DISEASE
+Oxide-Polyethylenimine CHEMICAL Squamous Cell Carcinoma DISEASE 0 0
+Lung Tumorigenesis DISEASE ROS/Akt/Rb DISEASE 0 0
+Heterocyclic Substituted Bis(indolyl)methanes CHEMICAL 0 0 0 0
+hepatocellular carcinoma DISEASE 0 0 0 0
+4-thiazolidinone CHEMICAL cancer DISEASE 0 0
+Scorpion DISEASE 0 0 0 0
+silibinin CHEMICAL renal carcinoma DISEASE 0 0
+steroidal-chalcone CHEMICAL triple-negative breast cancer DISEASE 0 0
+hepatocellular carcinoma DISEASE 0 0 0 0
+pyridine CHEMICAL 0 0 0 0
+2,5-Substituted Benzoic Acid CHEMICAL 0 0 0 0
+hepatocellular carcinoma DISEASE 0 0 0 0
+Vitamin B6 CHEMICAL pneumonia DISEASE 0 0
+Nasopharyngeal Carcinoma DISEASE 0 0 0 0
+Indole CHEMICAL Cancer DISEASE 0 0
+CBL0137 CHEMICAL human hepatocellular carcinoma DISEASE 0 0
+Anti-Breast Cancer DISEASE MRSA CHEMICAL 0 0
+Ethoxysanguinarine CHEMICAL Breast Cancer DISEASE 0 0
+squamous cell carcinoma DISEASE 0 0 0 0
+squamous cell carcinoma DISEASE 0 0 0 0
+multiple endocrine neoplasia DISEASE 0 0 0 0
+Saponins CHEMICAL Cyclocarya DISEASE 0 0
+Ethacrynic acid CHEMICAL tyrosine CHEMICAL DU145 prostate carcinoma DISEASE
+Triple-negative Breast Cancer Metastasis DISEASE 0 0 0 0
+beta-Sitosterol CHEMICAL 0 0 0 0
+Carcinoma DISEASE Tumor DISEASE 0 0
+Curcumin CHEMICAL Neuroblastoma DISEASE 0 0
+E2 N by microRNA-590-3p CHEMICAL cervical carcinoma DISEASE 0 0
+organoselenium CHEMICAL 0 0 0 0
+Tumor DISEASE Glucose CHEMICAL 0 0
+hepatocellular carcinoma DISEASE 0 0 0 0
+Shellmycin CHEMICAL Tetrahydroanthra-gamma-Pyrone CHEMICAL 0 0
+estrogen CHEMICAL cancers DISEASE 0 0
+Cisplatin CHEMICAL Cholangiocarcinoma DISEASE 0 0
+colorectal cancer DISEASE anti-neoplasm DISEASE genistein CHEMICAL
+tumor DISEASE papillary thyroid carcinoma DISEASE 0 0
+curcumin CHEMICAL gastric cancer DISEASE 0 0
+tumor DISEASE hepatocellular carcinoma DISEASE 0 0
+multiple myeloma DISEASE 0 0 0 0
+LINC00152 DISEASE squamous cell carcinoma DISEASE 0 0
+HSD1787 CHEMICAL Tetrahydro-3H-Pyrazolo[4,3-f]Quinoline CHEMICAL Cancer DISEASE
+Pterostilbene CHEMICAL Neuroblastoma DISEASE 0 0
+Ovarian Cancer DISEASE 0 0 0 0
+Hydrophobic Propionyl Neohesperidin Ester CHEMICAL MCF-7 CHEMICAL Breast Cancer DISEASE
+7-Ethyl-10-hydroxycamptothecin CHEMICAL Vorinostat CHEMICAL 0 0
+ESCC DISEASE 0 0 0 0
+nanoparticles CHEMICAL nanoparticles CHEMICAL 0 0
+retinal inflammation DISEASE diabetic DISEASE 0 0
+Aqueous Extract CHEMICAL Moringa oleifera CHEMICAL Cancer DISEASE
+preeclampsia DISEASE 0 0 0 0
+MicroRNA-490 CHEMICAL hepatocellular carcinoma DISEASE 0 0
+Carbazole CHEMICAL Pyrazole CHEMICAL 0 0
+Metastasis DISEASE Esophageal Squamous Cell Carcinoma DISEASE miR-599/c-MYC Axis DISEASE
+GLN CHEMICAL Glioblastoma DISEASE 0 0
+Pterostilbene CHEMICAL Trans-3,5-dimethoxy-4'-hydroxystilbene CHEMICAL 0 0
+Phenethyl isothiocyanate CHEMICAL Gefitinib CHEMICAL non-small cell lung cancer DISEASE
+Adenocarcinoma DISEASE 0 0 0 0
+Atractylenolide I CHEMICAL Human Colon Adenocarcinoma DISEASE 0 0
+Jackfruit CHEMICAL Human Colon Carcinoma DISEASE 0 0
+sorafenib CHEMICAL K CHEMICAL hepatocellular carcinoma DISEASE
+Cancer DISEASE 0 0 0 0
+Oridonin CHEMICAL 0 0 0 0
+gastric cancer DISEASE 0 0 0 0
+obatoclax CHEMICAL gemcitabine CHEMICAL breast cancer DISEASE
+chlorin CHEMICAL cholangiocarcinoma DISEASE 0 0
+ADJUVANT CHEMICAL 0 0 0 0
+malabaricone CHEMICAL cancer cell death DISEASE 0 0
+Huangqi (Radix Astragali CHEMICAL Ezhu CHEMICAL Rhizoma Curcumae Phaeocaulis CHEMICAL
+sulforaphane CHEMICAL 0 0 0 0
+lung cancer DISEASE 0 0 0 0
+N-phenylsulfonamide CHEMICAL 0 0 0 0
+Diospyrin CHEMICAL Inflammation DISEASE 0 0
+human gastric carcinoma DISEASE 0 0 0 0
+triazene compound CT913 CHEMICAL ovarian cancer DISEASE olaparib CHEMICAL
+Drosophila CHEMICAL Toxicity DISEASE Phloroglucinol CHEMICAL
+Prognosis DISEASE Cancers DISEASE 0 0
+PLK1 CHEMICAL Ovarian Carcinoma DISEASE 0 0
+Iminopyridinedione CHEMICAL Tyrosine CHEMICAL 0 0
+Chelerythrine Chloride CHEMICAL Lung Carcinoma DISEASE 0 0
+tenofovir CHEMICAL entecavir CHEMICAL hepatocellular carcinoma DISEASE
+Breast Cancer DISEASE 0 0 0 0
+corticotroph tumour DISEASE 0 0 0 0
+Dihydroartemisinin DISEASE Metastasis DISEASE Laryngeal Carcinoma DISEASE
+cancer DISEASE Na/K-ATPase-dependent cell death DISEASE 0 0
+Fe3O4 CHEMICAL 1-((3-(4-chlorophenyl)-1-phenyl-1H-pyrazol-4-yl)methylene)-2-(4-phenylthiazol-2-y l) hydrazine CHEMICAL gastric AGS cancer DISEASE
+Micropeptide MIAC CHEMICAL 0 0 0 0
+Rosmarinic Acid CHEMICAL 0 0 0 0
+flavonoids CHEMICAL cancer DISEASE 0 0
+breast cancer DISEASE 0 0 0 0
+BET CHEMICAL 0 0 0 0
+inflammation DISEASE 0 0 0 0
+thyroid carcinoma DISEASE 0 0 0 0
+Indoleamine CHEMICAL 0 0 0 0
+bisamide CHEMICAL 0 0 0 0
+human papillomavirus status DISEASE squamous cell carcinoma DISEASE 0 0
+Epirubicin CHEMICAL 0 0 0 0
+bis-aryl urea CHEMICAL tumor DISEASE 0 0
+non-small-cell lung carcinoma DISEASE TRAIL CHEMICAL 0 0
+R-Lipoic Acid CHEMICAL 0 0 0 0
+Deguelin CHEMICAL 0 0 0 0
+amino acid CHEMICAL 0 0 0 0
+Rheumatoid Arthritis DISEASE Acute Lung Inflammation DISEASE 0 0
+cancer DISEASE squamous cell carcinoma DISEASE 0 0
+tyrosine CHEMICAL 0 0 0 0
+Curcumin CHEMICAL White Matter Injury DISEASE 0 0
+metastasis DISEASE pancreatic ductal adenocarcinoma DISEASE 0 0
+Prostate Cancer DISEASE 0 0 0 0
+Drpitor1 CHEMICAL Drpitor1a CHEMICAL cancer DISEASE
+non-small-cell lung carcinomas DISEASE 0 0 0 0
+Curcumin CHEMICAL 0 0 0 0
+Metastasis DISEASE Clear Cell Renal Cell Carcinoma DISEASE 0 0
+Fullerene CHEMICAL Doxorubicin CHEMICAL 0 0
+Sorafenib CHEMICAL Cancer DISEASE 0 0
+Toxicity DISEASE carbon tetrachloride CHEMICAL 0 0
+N-hydroxypyridone CHEMICAL Stroke DISEASE 0 0
+Papillary Thyroid Carcinoma DISEASE 0 0 0 0
+Esophageal Squamous Cell Carcinoma DISEASE 0 0 0 0
+Sophoridine CHEMICAL lung cancer DISEASE cisplatin CHEMICAL
+anaplastic lymphoma DISEASE 0 0 0 0
+Colorectal Cancer DISEASE 0 0 0 0
+Bacillus pumilus DISEASE Human Duodenum Adenocarcinoma DISEASE 0 0
+calcium silicate CHEMICAL 0 0 0 0
+Moringa oleifera CHEMICAL 0 0 0 0
+2-benzylthio-5,8-dimethoxynaphthalene-1,4-dione CHEMICAL apoptotic cell death DISEASE oxygen CHEMICAL
+AM404 CHEMICAL Cancer DISEASE 0 0
+OSCC DISEASE glutamine-addicted OSCC DISEASE 0 0
+Melanoma DISEASE 0 0 0 0
+Sorafenib CHEMICAL Hepatocellular Carcinoma DISEASE 0 0
+hepatocellular carcinoma DISEASE 0 0 0 0
+Pyrido[3,2-d]pyrimidine CHEMICAL 0 0 0 0
+hepatocellular carcinoma DISEASE 0 0 0 0
+tumour DISEASE 0 0 0 0
+potassium CHEMICAL 0 0 0 0
+diosmin CHEMICAL 0 0 0 0
+NAMPT/NAD CHEMICAL 0 0 0 0
+cancer DISEASE 0 0 0 0
+osteoarthritis DISEASE 0 0 0 0
+cancer DISEASE 0 0 0 0
+Gastric Carcinoma DISEASE c-MYB/VEGF Axis DISEASE 0 0
+vitamin D-dependent gene expressions CHEMICAL sulforaphane CHEMICAL human colorectal cancer DISEASE
+Rhizopus nigricans DISEASE colon cancer DISEASE 0 0
+miR-20a DISEASE Tumor DISEASE Liver Carcinoma DISEASE
+chiral tetrahydronaphthalene-fused spirooxindole CHEMICAL MDM2-CDK4 dual inhibitor CHEMICAL glioblastoma DISEASE
+Cichorium CHEMICAL Cryptosporidium parvum DISEASE 0 0
+metastasis DISEASE hepatocellular carcinoma DISEASE 0 0
+[1,2,3]triazolo[4,5-d]pyrimidine CHEMICAL 0 0 0 0
+Lung Squamous Cell Carcinoma DISEASE Gemcitabine CHEMICAL 0 0
+breast cancer DISEASE honokiol CHEMICAL 0 0
+Casticin CHEMICAL nasopharyngeal carcinoma DISEASE 0 0
+Fisetin CHEMICAL Carcinoma DISEASE 0 0
+cervical cancer DISEASE 0 0 0 0
+lung adenocarcinoma DISEASE 0 0 0 0
+Napyradiomycin CHEMICAL 0 0 0 0
+Houttuynia cordata Thunb CHEMICAL Breast Carcinoma DISEASE 0 0
+1-(4-Substituted phenyl)-2-ethyl Imidazole CHEMICAL 0 0 0 0
+apocynin CHEMICAL lung carcinoma DISEASE 0 0
+Carcinoma DISEASE 0 0 0 0
+Cross-Talk CHEMICAL Colorectal Cancer DISEASE Tumor DISEASE
+substituted 2-(thiophen-2-yl)-1,3,5-triazine CHEMICAL 0 0 0 0
+cancer DISEASE colorectal cancer DISEASE 0 0
+Cyclopeptidic CHEMICAL 0 0 0 0
+emodin CHEMICAL azole CHEMICAL 0 0
+colorectal carcinoma DISEASE 0 0 0 0
+2-Aminophenyl Benzimidazole CHEMICAL 0 0 0 0
+Thymoquinone CHEMICAL 4-benzoquinone CHEMICAL 0 0
+Ovarian Cancer DISEASE 0 0 0 0
+diarylnaphthylpyrrolidine CHEMICAL 0 0 0 0
+lung cancer DISEASE 0 0 0 0
+Hydroxytyrosol CHEMICAL 0 0 0 0
+laryngeal squamous cell carcinoma DISEASE 0 0 0 0
+Curcumin CHEMICAL Tumor DISEASE Breast Cancer DISEASE
+myrrhanone B CHEMICAL prostate cancer DISEASE 0 0
+Sevoflurane CHEMICAL cancers DISEASE 0 0
+5-bromo-4-phenoxy-N-phenylpyrimidin-2-amine CHEMICAL non-small cell lung cancer DISEASE 0 0
+Alpha-pinene CHEMICAL 0 0 0 0
+Curcumin CHEMICAL 0 0 0 0
+Benzylidene thiazolidinediones CHEMICAL Imatinib CHEMICAL 0 0
+5-Chloro-3-Methylisothiazole-4-Carboxylic Acid Hydrazide CHEMICAL 0 0 0 0
+PYCR1 DISEASE lung adenocarcinoma DISEASE 0 0
+prostate cancer DISEASE 0 0 0 0
+camptothecin CHEMICAL 0 0 0 0
+Troglitazone CHEMICAL 0 0 0 0
+hydrate CHEMICAL cancer DISEASE 0 0
+[1,2,3]Triazolo[4,5-d]pyrimidine CHEMICAL (thio)urea CHEMICAL LSD1 CHEMICAL
+HBV-positive hepatocellular carcinoma DISEASE 0 0 0 0
+mide CHEMICAL Glutamate CHEMICAL 0 0
+Alanine Hydroxamic Acid CHEMICAL 0 0 0 0
+Cancer DISEASE 0 0 0 0
+amrubicin CHEMICAL squamous cell lung carcinoma DISEASE 0 0
+Ovarian Cancer DISEASE A2780 CHEMICAL 0 0
+Polyketides CHEMICAL 0 0 0 0
+Hepatitis E DISEASE 0 0 0 0
+tubulin- CHEMICAL death DISEASE human triple-negative breast cancer DISEASE
+Ulcerative Colitis DISEASE Andrographolide CHEMICAL 0 0
+Metastasis DISEASE Ovarian Cancer DISEASE 0 0
+Zerumbone CHEMICAL AOM/DSS CHEMICAL 0 0
+Chitins CHEMICAL Prodigiosin CHEMICAL 0 0
+Laryngeal Squamous Cell Carcinoma DISEASE 0 0 0 0
+death DISEASE 0 0 0 0
+Thymoquinone CHEMICAL Thymol CHEMICAL Helicobacter pylori DISEASE
+cancer DISEASE 0 0 0 0
+atherosclerosis-prone CHEMICAL 0 0 0 0
+Gingival Squamous Cell Carcinoma DISEASE Mitochondrial Dysfunction DISEASE K CHEMICAL
+IIIB/IV non-small cell lung cancer DISEASE 0 0 0 0
+Carcinoma DISEASE Ampulla CHEMICAL 0 0
+beta-ionone CHEMICAL 0 0 0 0
+ureteral obstruction DISEASE inflammation DISEASE 0 0
+Paclitaxel CHEMICAL HCC DISEASE 0 0
+Chlorpyrifos CHEMICAL breast cancer DISEASE 0 0
+rosmarinic acid CHEMICAL 0 0 0 0
+Squamous Cell Carcinoma DISEASE 0 0 0 0
+galactose CHEMICAL purine CHEMICAL kinetin riboside CHEMICAL
+podophyllotoxin derivatives CHEMICAL 0 0 0 0
+estrogen CHEMICAL progesterone CHEMICAL prostate adenocarcinoma DISEASE
+tumor DISEASE 0 0 0 0
+2-amino-4-(1,2,4-triazol)pyridine CHEMICAL 0 0 0 0
+Colorectal Cancer DISEASE Naphthalene Diimide CHEMICAL 0 0
+spiroaminopyrimidine CHEMICAL NB4 leukemia DISEASE 0 0
+Benzimidazole CHEMICAL HER-2 Positive Breast Cancer DISEASE 0 0
+hepatocellular carcinoma DISEASE 0 0 0 0
+memantine CHEMICAL 0 0 0 0
+lung cancer DISEASE 0 0 0 0
+trypsin CHEMICAL oxide CHEMICAL 0 0
+Hutchinson-Gilford progeria syndrome DISEASE 0 0 0 0
+Clear Cell Renal Cell Carcinoma DISEASE 0 0 0 0
+ent-kaurane glucosides CHEMICAL Xanthium strumarium CHEMICAL 0 0
+Usnic acid CHEMICAL neuroinflammation DISEASE 0 0
+Breast Cancer DISEASE 0 0 0 0
+human bladder cancer DISEASE Holarrhena CHEMICAL oxygen CHEMICAL
+Periplocin CHEMICAL TRAIL CHEMICAL esophageal squamous cell carcinoma DISEASE
+Sanguinarine CHEMICAL Hepatocellular Carcinoma DISEASE 0 0
+Caspicaiene CHEMICAL kaurene diterpene CHEMICAL Aspergillus endophytic DISEASE
+oxygen CHEMICAL 0 0 0 0
+Clear Cell Renal Cell Carcinoma DISEASE 0 0 0 0
+Sphingosine CHEMICAL sphingosine-1-phosphate CHEMICAL inflammatory gastrointestinal disease DISEASE
+SPH3643 CHEMICAL 0 0 0 0
+Cancer DISEASE 0 0 0 0
+Plumbagin CHEMICAL HER-2 overexpressed-endocrine CHEMICAL breast cancer DISEASE
+Nasopharyngeal Carcinoma DISEASE 0 0 0 0
+Lung adenocarcinoma DISEASE icotinib CHEMICAL 0 0
+Hepatocellular Carcinoma DISEASE 0 0 0 0
+parthenolide CHEMICAL chemoresistant chronic lymphocytic leukaemia DISEASE 0 0
+Cancer DISEASE Destabilizes Tumors DISEASE 0 0
+Vitamin K3 CHEMICAL UVB DISEASE Cutaneous Squamous Cell Carcinoma DISEASE
+monacolin CHEMICAL triple-negative breast cancer DISEASE 0 0
+Propofol CHEMICAL miR-320a CHEMICAL PTC cell malignant behaviors DISEASE
+1H-pyrrolo[2,3-b]pyridine CHEMICAL 0 0 0 0
+Renal Cell Carcinoma DISEASE 0 0 0 0
+Curcumin CHEMICAL 0 0 0 0
+eudesmanolides from Wedelia CHEMICAL 0 0 0 0
+arsenic trioxide CHEMICAL hepatocellular carcinoma DISEASE 0 0
+3-Bromo-1-Ethyl-1H-Indole CHEMICAL 0 0 0 0
+ovarian and cervical cancers DISEASE 0 0 0 0
+laryngeal cancer DISEASE 0 0 0 0
+Organoteluran CHEMICAL Sarcoma DISEASE 0 0
+Curcumin CHEMICAL leukaemia DISEASE 0 0
+lip cancer DISEASE 0 0 0 0
+Breast Cancer DISEASE K CHEMICAL 0 0
+Merkel Cell Carcinoma DISEASE 0 0 0 0
+Rhopaladins CHEMICAL cervical cancer DISEASE 0 0
+Tumor DISEASE 0 0 0 0
+breast cancer DISEASE 0 0 0 0
+heptamethine cyanine CHEMICAL 0 0 0 0
+Lymphoma DISEASE 0 0 0 0
+melatonin CHEMICAL sarcoma DISEASE 0 0
+skin tumors DISEASE 0 0 0 0
+Aldehydic-Pyrrolidinedione CHEMICAL MCF-7 Cancer CHEMICAL 0 0
+Curcumin CHEMICAL Endometrial Carcinoma DISEASE 0 0
+3-bromopyruvate CHEMICAL MPNST DISEASE 0 0
+chlorophyll CHEMICAL 0 0 0 0
+glycyrrhizic acid CHEMICAL colon carcinoma DISEASE 0 0
+NASH DISEASE Fibrosis DISEASE Hepatocellular Carcinoma DISEASE
+4,6-pyrimidinediamine CHEMICAL NSCLC DISEASE 0 0
+genistein CHEMICAL colorectal cancer DISEASE 0 0
+Retinoic Acid CHEMICAL Neuroblastoma Cancer DISEASE 0 0
+demethoxycurcumin CHEMICAL human primary glioblastoma DISEASE 0 0
+HBV infection DISEASE 0 0 0 0
+Vitamin K3 CHEMICAL apoptotic cell death DISEASE neuroblastoma DISEASE
+Cancer DISEASE 0 0 0 0
+2-indolinone thiazole CHEMICAL sunitinib CHEMICAL cancer DISEASE
+biofilms DISEASE 0 0 0 0
+Curcumin CHEMICAL non-small cell lung cancer DISEASE 0 0
+Glioblastoma DISEASE Tyrosine CHEMICAL Cancer DISEASE
+esophageal squamous cell carcinoma DISEASE 0 0 0 0
+cancer DISEASE 0 0 0 0
+berberine CHEMICAL curcumin CHEMICAL death DISEASE
+dihydroartemisinin CHEMICAL 0 0 0 0
+glioblastoma DISEASE 0 0 0 0
+Curcumin CHEMICAL bladder cancer DISEASE 0 0
+Germacrone CHEMICAL Carcinoma DISEASE 0 0
+Sulfonamide CHEMICAL ss-Catenin CHEMICAL 0 0
+chemoresistant glioblastoma DISEASE 0 0 0 0
+hepatocellular carcinoma DISEASE 0 0 0 0
+phenyl imidazole CHEMICAL hedgehog CHEMICAL 0 0
+selenium CHEMICAL cancer DISEASE 0 0
+Ovarian Cancer DISEASE 0 0 0 0
+breast cancer DISEASE 0 0 0 0
+cancer DISEASE hepatocellular carcinoma DISEASE 0 0
+diosgenin carbamate CHEMICAL 0 0 0 0
+Hepatocellular Carcinoma DISEASE 0 0 0 0
+Hispidulin CHEMICAL cancers DISEASE 0 0
+Chrysophanol CHEMICAL metastasis DISEASE T cell acute lymphoblastic leukemia DISEASE
+MicroRNA-16 CHEMICAL MC-LR CHEMICAL 0 0
+Biscoumarin-pyrimidine CHEMICAL 0 0 0 0
+acid CHEMICAL breast cancer DISEASE metastasis DISEASE
+hepatocellular carcinoma DISEASE 0 0 0 0
+Curcumin CHEMICAL gemcitabine CHEMICAL docetaxel CHEMICAL
+N-Arylcinnamamide CHEMICAL 0 0 0 0
+renal cancer DISEASE tumor DISEASE 0 0
+Gambogic acid CHEMICAL Gambogic acid CHEMICAL 0 0
+Nitroxoline CHEMICAL 0 0 0 0
+cisplatin CHEMICAL AGS gastric cancer DISEASE 0 0
+cancer DISEASE 0 0 0 0
+metastasis DISEASE papillary thyroid carcinoma DISEASE 0 0
+colorectal cancer DISEASE 0 0 0 0
+Aggressive Mammary Cancers DISEASE 0 0 0 0
+hepatocellular carcinoma DISEASE bile-acid-related side-effects DISEASE 0 0
+Sesbania CHEMICAL cancer DISEASE 0 0
+oxindole CHEMICAL 0 0 0 0
+YH0618 CHEMICAL hair loss DISEASE breast cancer DISEASE
+Osthole CHEMICAL ovarian carcinoma DISEASE LC3-mediated CHEMICAL
+anthraquinone CHEMICAL 0 0 0 0
+Vanillin CHEMICAL 0 0 0 0
+EBV-associated gastric cancer DISEASE 0 0 0 0
+benzodioxole CHEMICAL 0 0 0 0
+Moringa oleifera CHEMICAL 0 0 0 0
+Colon Carcinoma DISEASE Tumor DISEASE 0 0
+tumor DISEASE 0 0 0 0
+Trastuzumab CHEMICAL breast cancer DISEASE 0 0
+Tumorigenesis of Follicular Thyroid Cancer DISEASE 0 0 0 0
+isoflavone CHEMICAL triple-negative breast cancer DISEASE 0 0
+Herb Formula BanXia CHEMICAL Hypertensive DISEASE 0 0
+human esophageal squamous cell carcinoma DISEASE oxygen CHEMICAL 0 0
+tyrosine CHEMICAL tumor fibrosis DISEASE 0 0
+Arsenic sulfide CHEMICAL gastric cancer DISEASE 0 0
+Squamous Cell Carcinoma DISEASE 0 0 0 0
+2,4,5-Trisubstituted Thiazole CHEMICAL 0 0 0 0
+Xanthone CHEMICAL allergic contact dermatitis DISEASE 0 0
+HCC DISEASE 0 0 0 0
+Cytospyrone CHEMICAL Cytospomarin CHEMICAL Polyketides CHEMICAL
+Curcumae Rhizoma-Sparganii Rhizoma CHEMICAL 0 0 0 0
+Liver Disorder DISEASE 0 0 0 0
+Lirioresinol B dimethyl ether CHEMICAL CCl4-induced hepatic fibrosis DISEASE 0 0
+2-Anilinoquinoline CHEMICAL 0 0 0 0
+Coronarin D CHEMICAL Death DISEASE Glioblastoma DISEASE
+Hepatocellular Carcinoma DISEASE 0 0 0 0
+death DISEASE Curcumin CHEMICAL gastrointestinal cancers DISEASE
+Ovarian Carcinoma DISEASE 0 0 0 0
+Two- CHEMICAL cancer DISEASE 0 0
+Hispidulin CHEMICAL 0 0 0 0
+Orlistat CHEMICAL hepatocarcinogenesis DISEASE hepatic co-activation DISEASE
+Curcumin CHEMICAL 0 0 0 0
+TMS-TMF-4f DISEASE Cancer DISEASE 0 0
+platinum-acridine CHEMICAL 0 0 0 0
+7-epi-Clusianone CHEMICAL 0 0 0 0
+squamous cell carcinoma DISEASE metastasis DISEASE 0 0
+tumor DISEASE tumor DISEASE malignancy DISEASE
+colorectal cancer DISEASE 5-fluorouracil CHEMICAL autophagic cell death DISEASE
+human hepatocellular carcinoma DISEASE 0 0 0 0
+Cancer DISEASE 0 0 0 0
+Sinonasal Squamous Cell Carcinomas DISEASE 0 0 0 0
+Acetogenin CHEMICAL Ovarian Cancer DISEASE 0 0
+inflammation DISEASE nitric oxide CHEMICAL 0 0
+squamous cell carcinoma DISEASE 0 0 0 0
+Ameliorate CHEMICAL Arthritis DISEASE 0 0
+plitidepsin CHEMICAL proteotoxic DISEASE cancer DISEASE
+urothelial carcinoma DISEASE 0 0 0 0
+trimethylamine-N-oxide CHEMICAL 0 0 0 0
+quinazolin-4(3H)-one CHEMICAL 0 0 0 0
+tumor DISEASE liver tumors DISEASE 0 0
+Glioblastoma DISEASE 0 0 0 0
+acid CHEMICAL lignosulfonate CHEMICAL quinacrine CHEMICAL
+cancer DISEASE 0 0 0 0
+6-Hydroxythiobinupharidine CHEMICAL Osteosarcoma DISEASE 0 0
+Renal Cell Carcinoma DISEASE 0 0 0 0
+Bufalin CHEMICAL triple-negative breast cancer DISEASE 0 0
+Acetylshikonin CHEMICAL human leukemia cell DISEASE 0 0
+serous ovarian cancer DISEASE 0 0 0 0
+Monascin CHEMICAL tumor DISEASE breast cancer metastasis DISEASE
+pyrimidine-based CHEMICAL 2,5-diamino-4-pyrimidinol CHEMICAL 0 0
+hepatocellular carcinoma DISEASE 0 0 0 0
+benzenesulphonohydrazide CHEMICAL 0 0 0 0
+Achyranthes bidentata polypeptide k CHEMICAL neuroinflammation DISEASE 0 0
+Indole-fused benzo-oxazepines CHEMICAL invasion of hepatocellular carcinoma DISEASE IL-6 CHEMICAL
+curcumin CHEMICAL liver cancer DISEASE 0 0
+tumor DISEASE 0 0 0 0
+Diterpene CHEMICAL Ovarian Cancer DISEASE 0 0
+Papillary Thyroid Carcinoma DISEASE 0 0 0 0
+Melanoma DISEASE 0 0 0 0
+Epigallocatechin CHEMICAL EGCG CHEMICAL 0 0
+Cancer DISEASE 0 0 0 0
+Chalcone CHEMICAL 0 0 0 0
+tumor DISEASE tumor DISEASE hepatocellular carcinoma DISEASE
+Methylmercury Toxicity CHEMICAL 0 0 0 0
+metastasis DISEASE hepatocellular carcinoma DISEASE 0 0
+oxygen CHEMICAL glioblastoma DISEASE 0 0
+circPVT1 DISEASE hepatocellular carcinoma DISEASE 0 0
+thalidomide CHEMICAL 0 0 0 0
+Hymenaea courbaril L. seed extract CHEMICAL 0 0 0 0
+hepatocellular carcinoma DISEASE 0 0 0 0
+alpha-pinene CHEMICAL 0 0 0 0
+non-small-cell lung cancer DISEASE 0 0 0 0
+Cancer DISEASE 0 0 0 0
+Tanshinone CHEMICAL oxygen CHEMICAL human hepatocellular carcinoma DISEASE
+Lichen DISEASE Physciosporin CHEMICAL Cancer DISEASE
+Cucurbitacin E CHEMICAL Hepatoma Carcinoma DISEASE Metastasis DISEASE
+Celastrol CHEMICAL gastric cancer DISEASE 0 0
+MicroRNA-153 CHEMICAL cisplatin CHEMICAL esophageal squamous cell carcinoma DISEASE
+calcium CHEMICAL Doxorubicin CHEMICAL 0 0
+Scutellarin CHEMICAL Cerebral Ischemia DISEASE 0 0
+Glutathione CHEMICAL Oridonin CHEMICAL Esophageal Squamous Carcinoma DISEASE
+nootkatone CHEMICAL colorectal cancer DISEASE 0 0
+NADPH CHEMICAL Quinone CHEMICAL plumbagin CHEMICAL
+Human Esophageal Squamous Cell Carcinoma DISEASE 0 0 0 0
+Cancer DISEASE 0 0 0 0
+Naringenin CHEMICAL 0 0 0 0
+squamous carcinoma DISEASE 0 0 0 0
+Quercetin CHEMICAL Mitochondrial Dysfunction DISEASE Hemin CHEMICAL
+acid CHEMICAL 0 0 0 0
+Hesperidin CHEMICAL colon cancer DISEASE 0 0
+thieno[3,2-d]pyrimidine DISEASE aroyl hydrazone CHEMICAL aryl hydrazide CHEMICAL
+Kaposi's sarcoma-associated herpesvirus DISEASE 0 0 0 0
+Pegylated carbon nitride CHEMICAL oxygen CHEMICAL 0 0
+Enantiomeric chromene CHEMICAL 0 0 0 0
+Sulforaphane CHEMICAL Primary Effusion Lymphoma DISEASE 0 0
+pancreatic cancer DISEASE 0 0 0 0
+quinoxalines CHEMICAL 0 0 0 0
+thiazolidinedione CHEMICAL 0 0 0 0
+CRC DISEASE miR-340 CHEMICAL 0 0
+lymphoma DISEASE sulforaphane CHEMICAL 0 0
+9-heterocyclyl substituted 9H-purines CHEMICAL tyrosine CHEMICAL 0 0
+tumor DISEASE clear cell renal cell carcinoma DISEASE 0 0
+canthaxanthin CHEMICAL D-galactose CHEMICAL 0 0
+PEGylated liposome CHEMICAL nido-carborane CHEMICAL tumor DISEASE
+icaritin nanorods CHEMICAL breast cancer DISEASE 0 0
+flavanone CHEMICAL leukaemia DISEASE 0 0
+Simvastatin re-sensitizes CHEMICAL sorafenib CHEMICAL 0 0
+sesquiterpene from Lindera aggregata root CHEMICAL 0 0 0 0
+bicyclic carboxylic acid CHEMICAL 0 0 0 0
+Trichocladabiflavone A CHEMICAL chalcone-flavonone CHEMICAL Alsto DISEASE
+Fangchinoline CHEMICAL human leukemia cell lines via suppression of the PI3K/AKT DISEASE 0 0
+Renal Cancer DISEASE 0 0 0 0
+SK-575 CHEMICAL Cancers DISEASE 0 0
+Tumor Necrosis DISEASE Human Lung Adenocarcinoma Metastasis DISEASE 0 0
+Toxicity DISEASE Halogenated Bisphenol CHEMICAL 0 0
+Stemness in Hepatocellular Carcinoma DISEASE 0 0 0 0
+Rubiadin-1-methyl Ether CHEMICAL 0 0 0 0
+hepatocellular carcinoma DISEASE 0 0 0 0
+Lurbinectedin DISEASE death DISEASE small-cell lung cancer DISEASE
+Baicalein CHEMICAL malignant melanoma DISEASE colon cancer DISEASE
+cycle arrest DISEASE human hepatocellular carcinoma DISEASE 0 0
+NSCLC DISEASE 0 0 0 0
+ovarian cancer DISEASE 0 0 0 0
+colorectal cancer DISEASE 0 0 0 0
+Sclareol CHEMICAL Breast Cancer DISEASE Cyclophosphamide CHEMICAL
+acid hydrazide CHEMICAL podophyllotoxin CHEMICAL 0 0
+estrogen CHEMICAL HCC DISEASE 0 0
+Sesamin CHEMICAL cervical cancer DISEASE 0 0
+Ulcerative DISEASE Colorectal Cancer DISEASE 0 0
+Wogonin CHEMICAL hepatocellular carcinoma DISEASE 0 0
+quinone CHEMICAL breast cancer DISEASE 0 0
+Isothiocyanate CHEMICAL Death DISEASE Leukemia DISEASE
+Arabinogalactan CHEMICAL Lycium barbarum fruit CHEMICAL cancer DISEASE
+pyridine CHEMICAL 0 0 0 0
+Quinazoline CHEMICAL Hyrtios erectus CHEMICAL Breast Cancer DISEASE
+Esophageal Squamous Cell Carcinoma DISEASE 0 0 0 0
+2,3-dihydropyrazino[1,2-a]indole-1,4-dione CHEMICAL 0 0 0 0
+Pyrazole-4-Carboxamide CHEMICAL YW2065 CHEMICAL Colorectal Cancer DISEASE
+colon cancer DISEASE tumour DISEASE 0 0
+Olaparib CHEMICAL Curcumin CHEMICAL Cancer DISEASE
+ovarian carcinoma DISEASE 0 0 0 0
+DN604 CHEMICAL gemcitabine CHEMICAL NSCLC DISEASE
+CDDO CHEMICAL CDDO-Me CHEMICAL 0 0
+melatonin CHEMICAL cisplatin CHEMICAL vincristine CHEMICAL
+DSBs CHEMICAL cisplatin-resistance DISEASE NSCLC DISEASE
+airway mucus hypersecretion DISEASE 0 0 0 0
+cervical squamous cell carcinoma DISEASE 0 0 0 0
+[1,3,4]oxadiazolo[3,2-a]pyrimidin-5-one CHEMICAL cancer DISEASE 0 0
+head and neck squamous cell carcinoma DISEASE 0 0 0 0
+squamous cell carcinoma DISEASE 0 0 0 0
+kidney and liver disease DISEASE autosomal recessive polycystic kidney disease-congenital hepatic fibrosis DISEASE 0 0
+Delphinidin-3-O-glucoside CHEMICAL Peonidin-3-O-glucoside CHEMICAL TNF-alpha CHEMICAL
+endostar CHEMICAL hepatocellular carcinoma DISEASE 0 0
+carbon dots-based CHEMICAL 0 0 0 0
+2-Styryl-4-aminoquinazoline CHEMICAL 0 0 0 0
+breast cancer DISEASE 0 0 0 0
+benzophenone CHEMICAL naphthalene CHEMICAL 0 0
+fangchinoline CHEMICAL 0 0 0 0
+vitamin D3 CHEMICAL Ras-MEK-ERK CHEMICAL papillary thyroid carcinoma DISEASE
+sphingosine CHEMICAL 0 0 0 0
+infections DISEASE hepatocellular carcinoma DISEASE 0 0
+Axis DISEASE Colorectal Cancer DISEASE 0 0
+Clear Cell Renal Carcinoma DISEASE 0 0 0 0
+N-hydroxybenzamides CHEMICAL N-hydroxypropenamides CHEMICAL N-hydroxyheptanamides CHEMICAL
+Diterpenoids CHEMICAL 0 0 0 0
+hepatocellular carcinoma DISEASE 0 0 0 0
+breast cancer DISEASE 0 0 0 0
+metastasis DISEASE hepatocellular carcinoma DISEASE 0 0
+benzimidazole CHEMICAL pyrrolidine CHEMICAL sorafenib CHEMICAL
+Human Gastric Adenocarcinoma DISEASE 0 0 0 0
+lung cancer DISEASE 0 0 0 0
+Nyctanthes arbor-tristis CHEMICAL Leukemia DISEASE 0 0
+Rh2 CHEMICAL T-cell acute lymphoblastic leukemia DISEASE 0 0
+SP CHEMICAL 0 0 0 0
+pre-B-ALL DISEASE 0 0 0 0
+Wedelolactone CHEMICAL Cancers DISEASE 0 0
+Osthole CHEMICAL endometrial carcinoma DISEASE 0 0
+Conjugated CHEMICAL Andrographolide Ameliorated Viper CHEMICAL Toxicities DISEASE
+tumor DISEASE squamous cell carcinoma DISEASE 0 0
+thiapyran-pyrimidine CHEMICAL 0 0 0 0
+Gambogic Acid CHEMICAL Glioma DISEASE Phosphoinositide CHEMICAL
+metastasis DISEASE hepatocellular carcinoma DISEASE 0 0
+Apigenin CHEMICAL Cancer DISEASE 0 0
+liver cancer DISEASE 0 0 0 0
+Scorpion Defensin CHEMICAL Hepatitis C DISEASE 0 0
+thymidine CHEMICAL 0 0 0 0
+Fumarate CHEMICAL 0 0 0 0
+epi-Enprioline CHEMICAL Vincristine CHEMICAL Neuroblastoma DISEASE
+Bisphenol CHEMICAL 0 0 0 0
+esophageal squamous cell carcinoma DISEASE 0 0 0 0
+Baohuoside CHEMICAL breast cancer metastasis DISEASE 0 0
+flavones CHEMICAL hepatocellular carcinoma DISEASE 0 0
+Breast Cancer Malignancy DISEASE Tumor DISEASE 0 0
+heparin CHEMICAL 0 0 0 0
+hepatocarcinogenesis DISEASE 0 0 0 0
+sulfonamide CHEMICAL 0 0 0 0
+5-fluorouracil CHEMICAL oxaliplatin CHEMICAL chemoresistant human cancer colon DISEASE
+Radiation-induced alterations DISEASE pancreatic ductal adenocarcinoma DISEASE 0 0
+Conjugate CHEMICAL Cancer DISEASE MCF-7 CHEMICAL
+head and neck squamous cell carcinoma DISEASE 0 0 0 0
+K CHEMICAL melanoma tumor DISEASE melanoma DISEASE
+sulforaphane CHEMICAL breast cancer DISEASE 0 0
+Artemisinin CHEMICAL Tumorigenesis DISEASE Metastasis DISEASE
+AZD9833 CHEMICAL 0 0 0 0
+nasopharyngeal carcinoma DISEASE 0 0 0 0
+Tumor DISEASE 0 0 0 0
+crocin CHEMICAL mesalazine CHEMICAL colitis DISEASE
+tumor metastasis DISEASE miR-375 CHEMICAL nasopharyngeal carcinoma DISEASE
+prostate cancer DISEASE 0 0 0 0
+GABA CHEMICAL Stroke DISEASE 0 0
+Salinomycin CHEMICAL dichloroacetate CHEMICAL Lewis lung carcinoma DISEASE
+Tumor DISEASE colon cancer DISEASE 0 0
+fungal strain Neocosmospora sp. DISEASE 0 0 0 0
+Nobiletin CHEMICAL Oxygen CHEMICAL Ovarian Cancer DISEASE
+Berberine CHEMICAL Diabetes Mellitus DISEASE Diabetic DISEASE
+tumours DISEASE 0 0 0 0
+Hepatocellular Carcinoma Tumor DISEASE Human Hepatocellular Carcinoma DISEASE 0 0
+Imidazopyridine CHEMICAL 0 0 0 0
+hepatocellular carcinoma DISEASE 0 0 0 0
+5-Fluorouracil CHEMICAL 0 0 0 0
+4-(Heterocyclic Substituted Amino)-1H-Pyrazole-3-Carboxamide CHEMICAL Leukemia DISEASE AML DISEASE
+Aqueous ethanol extract CHEMICAL Libidibia CHEMICAL human gastric adenocarcinoma DISEASE
+oleyl polyethylene acetic acids CHEMICAL 0 0 0 0
+Esophageal Cancer DISEASE 0 0 0 0
+Cucurbitacin B CHEMICAL Cholangiocarcinoma DISEASE 0 0
+renal carcinoma DISEASE 0 0 0 0
+Ovarian Carcinoma DISEASE 0 0 0 0
+5-fluorouracil CHEMICAL colorectal cancer DISEASE 0 0
+doxycycline CHEMICAL gastric cancer DISEASE 0 0
+cancer DISEASE ototoxicity DISEASE 0 0
+Salvianolic Acid B CHEMICAL Breast Cancer DISEASE Inflammation DISEASE
+Statins CHEMICAL MEK CHEMICAL Pancreatic Tumors DISEASE
+Bufalin CHEMICAL ovarian carcinoma DISEASE mTOR/HIF-alpha CHEMICAL
+guanosine-based CHEMICAL cancer DISEASE 0 0
+Zingerone CHEMICAL prostate cancer DISEASE 0 0
+Oleanolic Acid/Hederagenin-Nitric Oxide CHEMICAL Tyrosine CHEMICAL Lung Cancer DISEASE
+esophageal cancer DISEASE 0 0 0 0
+Dopamine CHEMICAL aryl hydrocarbon CHEMICAL 0 0
+tumor DISEASE head and neck squamous cell carcinoma DISEASE 0 0
+Edible Mushroom Agrocybe CHEMICAL 0 0 0 0
+Pyrimidine CHEMICAL Sulfonamide CHEMICAL 0 0
+melanoma DISEASE metastasis DISEASE miR-21/E-cadherin CHEMICAL
+N-bis(2-chloroethyl)-1,3,2-oxazaphosphinan-2-amine 2-oxide CHEMICAL 0 0 0 0
+ethyl 2-benzimidazole-5-carboxylate CHEMICAL 0 0 0 0
+Triazole CHEMICAL Tetraiodothyroacetic Acid Conjugated CHEMICAL Polyethylene Glycol CHEMICAL
+hepatocellular carcinoma DISEASE 0 0 0 0
+Human Lung Squamous Cell Carcinoma DISEASE 0 0 0 0
+Chrysophanol CHEMICAL colorectal cancer DISEASE 0 0
+gastric carcinoma DISEASE 0 0 0 0
+Penithoketone CHEMICAL Penithochromones CHEMICAL Polyketides CHEMICAL
+toxicity DISEASE chrysin CHEMICAL HCC DISEASE
+lung cancer DISEASE 0 0 0 0
+ligustrazine CHEMICAL 0 0 0 0
+esophageal squamous cell carcinoma DISEASE 0 0 0 0
+Carbene DISEASE Ovarian Cancer DISEASE 0 0
+Chlorogenic acid CHEMICAL esophageal squamous cell carcinoma DISEASE 0 0
+metastasis DISEASE hepatocellular carcinoma DISEASE 0 0
+Lung Adenocarcinoma DISEASE S768I CHEMICAL Afatinib CHEMICAL
+andrographolide CHEMICAL tumor DISEASE 0 0
+decreases invasion DISEASE 0 0 0 0
+Indole alkaloids CHEMICAL 0 0 0 0
+MEK/ERK CHEMICAL nasopharyngeal carcinoma DISEASE 0 0
+glycosides, farnesyl pentaglycoside CHEMICAL oleanane triglycoside CHEMICAL Lepisanthes CHEMICAL
+B-norcholesteryl benzimidazole CHEMICAL ct-DNA CHEMICAL 0 0
+laryngeal carcinoma DISEASE 0 0 0 0
+Anti-Breast Cancer DISEASE Ketoprofen-RGD Conjugate CHEMICAL Breast Cancer DISEASE
+Curcumin CHEMICAL tumor DISEASE breast cancer DISEASE
+tumor DISEASE nasopharyngeal carcinoma DISEASE 0 0
+Pterostilbene CHEMICAL Death DISEASE Cancer DISEASE
+breast cancer DISEASE 0 0 0 0
+breast cancer DISEASE 0 0 0 0
+5-Aminopyrazole CHEMICAL Cisplatin CHEMICAL Cancer DISEASE
+dihydroartemisinin CHEMICAL head and neck squamous cell carcinoma DISEASE 0 0
+1,3-5-Triazine CHEMICAL 0 0 0 0
+Benzylsulfone Coumarin CHEMICAL 0 0 0 0
+tumor DISEASE clear cell renal cell carcinoma DISEASE 0 0
+Hepatocellular Carcinoma DISEASE 0 0 0 0
+Eutypellacytosporins CHEMICAL Eutypella CHEMICAL 0 0
+All-trans retinoic acid CHEMICAL choriocarcinoma DISEASE 0 0
+Melanoma DISEASE 0 0 0 0
+Steroidal Saponins CHEMICAL Dioscorea nipponica Makino CHEMICAL Anti-Osteosarcoma DISEASE
+Tumor DISEASE 0 0 0 0
+dicationic imidazolium surfactants CHEMICAL 0 0 0 0
+pancreatic cancer DISEASE 0 0 0 0
+miR-200c CHEMICAL colorectal cancer DISEASE atractylenolide I. CHEMICAL
+Pterostilbene CHEMICAL Cholangiocarcinoma DISEASE 0 0
+breast papillary lesions DISEASE breast cancer DISEASE 0 0
+PI3Kalpha CHEMICAL Tumors DISEASE 0 0
+hypoxia DISEASE 0 0 0 0
+malignant behaviour of oral squamous cell carcinoma DISEASE 0 0 0 0
+toxicity DISEASE glyphosate CHEMICAL glyphosate-based herbicides CHEMICAL
+docetaxel CHEMICAL tumor DISEASE 0 0
+cancer DISEASE 0 0 0 0
+colorectal carcinoma DISEASE ethyl 1,3-diphenylpyrazole-4-carboxylates moiety CHEMICAL 0 0
+Fangchinoline CHEMICAL Cepharanthine CHEMICAL Human Coronavirus OC43 Infection DISEASE
+SMAC CHEMICAL hepatocellular carcinoma DISEASE 0 0
+Vielanin K CHEMICAL MCF-7 CHEMICAL 0 0
+Nobiletin CHEMICAL Toxicity DISEASE 0 0
+hepatocellular carcinoma DISEASE cancer DISEASE 0 0
+Decursin CHEMICAL hypoxic tumour DISEASE 0 0
+Zebularine CHEMICAL trichostatin A CHEMICAL human breast adenocarcinoma DISEASE
+Sorafenib CHEMICAL Tumors DISEASE 0 0
+physostigmine CHEMICAL ethyl acetate CHEMICAL butanol CHEMICAL
+poly(amidoamine CHEMICAL gliomas DISEASE 0 0
+Esophageal Cancer DISEASE 0 0 0 0
+aging-associated disorders DISEASE 0 0 0 0
+hepatocellular carcinoma DISEASE tumor DISEASE metastasis DISEASE
+cervical cancer DISEASE 0 0 0 0
+Hydantoin CHEMICAL Glioma DISEASE Carcinoma DISEASE
+Clear Cell Renal Cell Carcinoma DISEASE 0 0 0 0
+oleanolic acid CHEMICAL gastric cancer DISEASE 0 0
+SP600125 CHEMICAL death DISEASE bladder cancer DISEASE
+Esophageal Cancer DISEASE 0 0 0 0
+liothyronine CHEMICAL cancer DISEASE 0 0
+1H-1,2,4-triazole CHEMICAL benzothiazole CHEMICAL 0 0
+Pancreatic Cancer Metastasis DISEASE 0 0 0 0
+rosmarinic acid CHEMICAL 0 0 0 0
+Deguelin CHEMICAL 0 0 0 0
+quercetin CHEMICAL 0 0 0 0
+amiloride CHEMICAL 0 0 0 0
+Endometrial carcinoma DISEASE 0 0 0 0
+1,2,4-triazole CHEMICAL 0 0 0 0
+Rifampicin CHEMICAL 0 0 0 0
+malignant behavior DISEASE nasopharyngeal carcinoma DISEASE 0 0
+foscarnet CHEMICAL 0 0 0 0
+dengue DISEASE 0 0 0 0
+Spectomycin CHEMICAL nasopharyngeal carcinoma DISEASE 0 0
+N-(2-(1H-benzo[d]imidazol-2-yl)phenyl)cinnamides DISEASE 0 0 0 0
+Rafoxanide CHEMICAL gastric cancer DISEASE K /Akt/mTOR CHEMICAL
+hepatocellular carcinoma metastases DISEASE 0 0 0 0
+cancer DISEASE Alstonia boonei CHEMICAL 0 0
+Smenamide CHEMICAL 0 0 0 0
+endometrial cancer DISEASE ionizing DISEASE 0 0
+sulforaphane CHEMICAL doxorubicin CHEMICAL breast cancer DISEASE
+breast cancer metastasis DISEASE 0 0 0 0
+sunitinib CHEMICAL pancreatic cancer DISEASE 0 0
+miR-155 CHEMICAL Lung Cancer DISEASE 0 0
+domoic acid CHEMICAL 0 0 0 0
+breast cancer DISEASE 0 0 0 0
+nanoparticles CHEMICAL hepatocellular carcinoma DISEASE 0 0
+IMU1003 CHEMICAL atrarate CHEMICAL 0 0
+Esophageal Squamous Cell Carcinoma DISEASE 0 0 0 0
+pancreatic adenocarcinoma DISEASE 0 0 0 0
+Diaporone A CHEMICAL 0 0 0 0
+Sorafenib CHEMICAL Hepatocellular Carcinoma DISEASE 0 0
+(E)-N-phenyl-4-(pyridine-acylhydrazone CHEMICAL benzamide CHEMICAL multiple myeloma DISEASE
+butein CHEMICAL breast cancer DISEASE 0 0
+acid CHEMICAL exocyclic alpha,beta-unsaturated carbonyl moiety in ring A. CHEMICAL 0 0
+nobiletin CHEMICAL 0 0 0 0
+Lysophosphatidic Acid CHEMICAL Papillary Thyroid Cancer DISEASE Phosphatidylinositol 3-Kinase/Akt/Mammalian CHEMICAL
+rhein CHEMICAL ovarian cancer DISEASE 0 0
+Eleutheroside B CHEMICAL Kidney Injury DISEASE 0 0
+NUT midline carcinoma DISEASE tyrosine CHEMICAL 0 0
+chronic disease DISEASE 0 0 0 0
+Alternatone A CHEMICAL 0 0 0 0
+colorectal tumorigenesis DISEASE colorectal cancer DISEASE 0 0
+pyridine CHEMICAL 0 0 0 0
+Cyanidin-3-O-Glucoside CHEMICAL Cyanidin CHEMICAL Intestinal Barrier Damage DISEASE
+papillary thyroid carcinoma DISEASE 0 0 0 0
+breast cancer DISEASE 0 0 0 0
+cancer DISEASE OEO CHEMICAL 0 0
+necroptosis DISEASE lung cancer DISEASE 0 0
+papillary thyroid carcinoma DISEASE tumor DISEASE MUTYH CHEMICAL
+Docosahexaenoic Acid CHEMICAL Breast Cancer DISEASE 0 0
+Hyperoside DISEASE nonsmall cell lung cancer DISEASE 0 0
+Baicalein CHEMICAL inflammation DISEASE cancer DISEASE
+endometrial carcinoma DISEASE 0 0 0 0
+Cancer DISEASE gammadelta T CHEMICAL 0 0
+nonsmall cell lung cancer DISEASE 0 0 0 0
+MCC1019 CHEMICAL 0 0 0 0
+Papuamine CHEMICAL Non-small Cell Lung Cancer DISEASE Mitochondrial Dysfunction DISEASE
+Prostate Cancer DISEASE 0 0 0 0
+benzoylacrylic acid shikonin ester CHEMICAL 0 0 0 0
+cervical carcinoma DISEASE 0 0 0 0
+Breast Cancer DISEASE 0 0 0 0
+Curcumin CHEMICAL metastasis DISEASE colorectal cancer DISEASE
+Hepatocellular Carcinoma DISEASE 0 0 0 0
+chlorophyll CHEMICAL 0 0 0 0
+chalcone CHEMICAL 0 0 0 0
+Casticin CHEMICAL nasopharyngeal carcinoma DISEASE 0 0
+Withangulatin A DISEASE Cancer DISEASE 0 0
+matrine CHEMICAL 0 0 0 0
+hepatocellular carcinoma DISEASE 0 0 0 0
+cancer DISEASE 0 0 0 0
+Withaferin A CHEMICAL G2/M arrest DISEASE glioblastoma DISEASE
+clear cell renal cell carcinoma DISEASE 0 0 0 0
+cancer DISEASE 0 0 0 0
+colorectal cancer DISEASE 0 0 0 0
+febuxostat CHEMICAL hepatotoxicity DISEASE breast cancer DISEASE
+amygdalin CHEMICAL 0 0 0 0
+Cancer DISEASE 0 0 0 0
+Tumor DISEASE 0 0 0 0
+indole-2-one CHEMICAL 0 0 0 0
+picolinate CHEMICAL gastric cancer DISEASE 0 0
+apocynin CHEMICAL lung carcinoma DISEASE 0 0
+curcumin CHEMICAL breast and ovarian cancer DISEASE 0 0
+Testicular Carcinoma DISEASE 0 0 0 0
+biphenyl oxazole CHEMICAL nucleotide CHEMICAL 0 0
+Nitroxoline CHEMICAL Neurodegeneration DISEASE 0 0
+Circ_ATF2_001418 DISEASE Circ_CDC25C_002079 CHEMICAL Cancer DISEASE
+Human Lung Cancer DISEASE 0 0 0 0
+Xanthium strumarium CHEMICAL Hepatocellular Carcinoma DISEASE 0 0
+Endometrial Cancer DISEASE miR-25 CHEMICAL Axis DISEASE
+isocoumarin enantiomers CHEMICAL Ludwigia hyssopifolia CHEMICAL 0 0
+Indole-2-Carboxamide CHEMICAL Breast Cancer DISEASE 0 0
+nasopharyngeal carcinoma DISEASE metastasis DISEASE 0 0
+Cancer DISEASE 0 0 0 0
+Bruceine D CHEMICAL tumor DISEASE osteosarcoma DISEASE
+Nitric oxide CHEMICAL tumor DISEASE Marsdenia Tenacissima CHEMICAL
+NEO2734 CHEMICAL 0 0 0 0
+Schisantherin A CHEMICAL human gastric cancer DISEASE 0 0
+Mulberry fruits CHEMICAL liver cancer DISEASE hepatocarcinogenesis DISEASE
+Breast Cancer DISEASE Oplopane Sesquiterpenoid CHEMICAL 0 0
+celecoxib CHEMICAL 0 0 0 0
+Squamous Cell Carcinomas DISEASE 0 0 0 0
+Doxorubicin CHEMICAL Hepatocellular Carcinoma DISEASE 0 0
+Pancreatic Cancer DISEASE Metastasis DISEASE Cancer DISEASE
+Parvifloron D CHEMICAL 0 0 0 0
+lung adenocarcinoma DISEASE 0 0 0 0
+colorectal cancer DISEASE 0 0 0 0
+Salidroside CHEMICAL 0 0 0 0
+Setanaxib CHEMICAL Liver Cancer DISEASE 0 0
+Limomene CHEMICAL 0 0 0 0
+serous ovarian carcinoma DISEASE 0 0 0 0
+Ephemeranthol CHEMICAL Cancer DISEASE 0 0
+purine CHEMICAL 0 0 0 0
+squamous cell carcinoma DISEASE 0 0 0 0
+Isocitrate CHEMICAL 0 0 0 0
+Pseudolaric Acid B CHEMICAL Cancer DISEASE Death DISEASE
+squamous carcinoma DISEASE 0 0 0 0
+Guaiazulene-3-Carboxylate CHEMICAL Squamous Cell Carcinoma DISEASE 0 0
+NPI-0052 CHEMICAL medulloblastoma DISEASE 0 0
+squamous carcinoma DISEASE tumor DISEASE 0 0
+cisplatin CHEMICAL non-small cell lung cancer DISEASE 0 0
+carbamato- DISEASE inflammatory bowel disease DISEASE 0 0
+cancer DISEASE 0 0 0 0
+tumors DISEASE 0 0 0 0
+diphenylbutylpiperidine CHEMICAL cancer DISEASE 0 0
+Silybum CHEMICAL 0 0 0 0
+Schizandrin CHEMICAL 0 0 0 0
+Everolimus CHEMICAL Ductal Carcinoma DISEASE Breast Cancer DISEASE
+multiple myeloma DISEASE 0 0 0 0
+Annexin CHEMICAL tyrosine CHEMICAL 0 0
+protoporphyrin CHEMICAL cancer DISEASE aminolevulinic acid CHEMICAL
+Toxicity DISEASE 0 0 0 0
+HSP70 DISEASE pancreatic cancer DISEASE 0 0
+Alzheimer disease DISEASE 0 0 0 0
+7-O-Amide Hesperetin CHEMICAL 0 0 0 0
+Periplocin CHEMICAL TRAIL CHEMICAL esophageal squamous cell carcinoma DISEASE
+Sesamolin CHEMICAL 0 0 0 0
+lysophosphatidic acid CHEMICAL hepatocellular carcinoma DISEASE 0 0
+metastasis DISEASE breast cancer DISEASE 0 0
+Abnormal Cannabidiol DISEASE O-1602 CHEMICAL Breast Cancer DISEASE
+Multifloroside CHEMICAL Human Epidermoid Carcinoma DISEASE 0 0
+Human Bladder Cancer DISEASE 0 0 0 0
+ionizing DISEASE 0 0 0 0
+2,6-diaminopyridines CHEMICAL 0 0 0 0
+Breast Cancer DISEASE 0 0 0 0
+Protocatechuic Acid CHEMICAL Cancer DISEASE 0 0
+miR-324 CHEMICAL gallbladder carcinoma DISEASE 0 0
+3-(((9H-purin-6-yl)amino)methyl)-4,6-dimethylpyridin-2(1H)-one CHEMICAL cancer DISEASE 0 0
+pancreatic carcinoma DISEASE 0 0 0 0
+1-aryl-1H-naphtho[2,3-d][1,2,3]triazole-4,9-dione CHEMICAL trytophan CHEMICAL 0 0
+Death DISEASE Carcinoma DISEASE 0 0
+tetrahydrocarbazole DISEASE cancer DISEASE 0 0
+clear cell renal cell carcinoma DISEASE CDC25B CHEMICAL 0 0
+Oridonin CHEMICAL 0 0 0 0
+imperialine CHEMICAL non-small cell lung cancer DISEASE 0 0
+colorectal adenocarcinoma DISEASE 0 0 0 0
+NSD1 DISEASE 0 0 0 0
+TH588 DISEASE cancer DISEASE 0 0
+Squamous Cell Carcinoma DISEASE 0 0 0 0
+fluorides CHEMICAL fluoride CHEMICAL 0 0
+nephrotoxicity DISEASE cadmium CHEMICAL 0 0
+NSCLC DISEASE 0 0 0 0
+Hedgehog CHEMICAL Prostate Cancer DISEASE 0 0
+non-nucleoside vinyl-stilbene CHEMICAL 0 0 0 0
+Hepatocellular Carcinoma DISEASE 0 0 0 0
+Stabilizes CHEMICAL SK-OV-3 CHEMICAL 0 0
+Neuroblastoma DISEASE 0 0 0 0
+Cancer DISEASE 0 0 0 0
+Tricks CHEMICAL Stylissamide L CHEMICAL Stylissa CHEMICAL
+Baicalein Amino Acid CHEMICAL 0 0 0 0
+Taxol CHEMICAL non-small cell lung cancer DISEASE miR-182 CHEMICAL
+Thymoquinone CHEMICAL 0 0 0 0
+Decursin CHEMICAL tumor DISEASE gastric cancer DISEASE
+Cancer DISEASE Tumor DISEASE Metastasis DISEASE
+urothelial carcinoma DISEASE 0 0 0 0
+1,2,3-triazolium CHEMICAL cancer DISEASE 0 0
+colorectal cancer DISEASE 0 0 0 0
+metastasis DISEASE liver cancer DISEASE 0 0
+pyrrolopyrimidine CHEMICAL colon cancer DISEASE 0 0
+oridonin CHEMICAL 0 0 0 0
+sorafenib CHEMICAL hepatocellular carcinoma DISEASE 0 0
+Malvidin Abrogates CHEMICAL Tumor DISEASE 0 0
+FTY720 CHEMICAL acute myeloid leukemia DISEASE cardiac toxicity DISEASE
+Tumor DISEASE 0 0 0 0
+Adenosine CHEMICAL 0 0 0 0
+Pan-Cancer DISEASE 0 0 0 0
+Plantamajoside CHEMICAL human cervical cancer DISEASE 0 0
+Tanshinone CHEMICAL demyelination DISEASE 0 0
